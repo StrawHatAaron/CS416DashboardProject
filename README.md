@@ -102,7 +102,10 @@ nmdb-new-mortgage-statistics-all-annual.csv
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------
-Note to self in WSL, SSH is managed by /home/aarje/.ssh 
-
-
-uhhh
+Note to self in , SSH is managed by
+```
+WSL - /home/aarje/.ssh 
+CMD - C:\Users\Aarje\.ssh
+PS1 - C:\Users\Aarje\.ssh
+```
+uhhh 
