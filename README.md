@@ -1,35 +1,39 @@
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
 
 https://www.bls.gov/cew/downloadable-data-files.htm ---> QCEW NAICS-Based Data Files (1975 - most recent)
 
+
 Don't need to be able to reach into every subset although it would be interesting, I need to target in the data the following:
 
-****filter and yank****
-area_fips	- all of them			- 	need all of these along with each record I will target, need to break up into FIPSStateNumericCode and FIPSCountyCode. Ex FIP=1000=01000=Aalabama
-own_code	- 0				- 	0 covers ownership for all Private,International Government,Local Government,State Government,Federal Government,Total Government,Total U.I. Covered 
-industry_code	- 10				-	total of all QCEW Ownership Codes for NAICS Coded Data
-agglvl_code	- 10				-	total of all QCEW Aggregation Level Codes (a) for NAICS Coded Data
-size_code	- 0 or blank			-	All establishment sizes
-year		- 2009-2023			-	this is respective of each year we are mining the data for- capped at year 2009 due to https://www.fhfa.gov/data/pudb having started recording this 
+### BLS Data Columns I filtered out of the origininal data sets from 1990-2023
+Column Name | Data Type Info | Explanation
+| :------- | :------ | :--- |
+| **area_fips**| all of them | need all of these along with each record I will target, need to break up into FIPSStateNumericCode and FIPSCountyCode. Ex FIP=1000=01000=Aalabama |
+| **own_code**| 0 | 0 covers ownership for all Private,International Government,Local Government,State Government,Federal Government,Total Government,Total U.I. Covered 
+| **industry_code**| 10|total of all QCEW Ownership Codes for NAICS Coded Data | 
+| **agglvl_code**|  10|  total of all QCEW Aggregation Level Codes (a) for NAICS Coded Data | 
+| **size_code**|  0 or blank| All establishment sizes |
+| **year**|  2009-2023|  this is respective of each year we are mining the data for- capped at year 2009 due to https://www.fhfa.gov/data/pudb having started recording this |
+| **annual_avg_emplvl** | *Numeric 9*| Annual average of monthly employment levels for a given year |
+| **total_annual_wages** | *Numeric 15* | Sum of the four quarterly total wage levels for a given year |
+| **taxable_annual_wages** | *Numeric 15* | Sum of the four quarterly total taxable wage totals for a given year |
+| **annual_contributions** | *Numeric 13* | Sum of the four quarterly contribution totals for a given year
+| **annual_avg_wkly_wage** | *Numeric 8* | Average weekly wage based on the 12-monthly employment levels and total annual wage levels.
+| **avg_annual_pay** | *Numeric 8* | Average annual pay based on employment and wage levels for a given year.
+| **oty_total_annual_wages_chg** | *Numeric 15* | Over-the-year change in the total annual wages for a given year
+| **oty_total_annual_wages_pct_chg** | *Numeric 8* | Over-the-year percent change in total annual wages for a given year (Rounded to the tenths place)
+| **oty_taxable_annual_wages_chg** |*Numeric 15* |Over-the-year change in taxable annual wages for a given year
+| **oty_taxable_annual_wages_pct_chg**| *Numeric 8* |Over-the-year percent change in taxable annual wages for a given year (Rounded to the tenths place)|
 
-****yank****
-15	annual_avg_emplvl	Numeric	9	Annual average of monthly employment levels for a given year
-16	total_annual_wages	Numeric	15	Sum of the four quarterly total wage levels for a given year
-17	taxable_annual_wages	Numeric	15	Sum of the four quarterly total taxable wage totals for a given year
-18	annual_contributions	Numeric	13	Sum of the four quarterly contribution totals for a given year
-19	annual_avg_wkly_wage	Numeric	8	Average weekly wage based on the 12-monthly employment levels and total annual wage levels.
-20	avg_annual_pay	Numeric	8	Average annual pay based on employment and wage levels for a given year.
-34	oty_total_annual_wages_chg	Numeric	15	Over-the-year change in the total annual wages for a given year
-35	oty_total_annual_wages_pct_chg	Numeric	8	Over-the-year percent change in total annual wages for a given year (Rounded to the tenths place)
-36	oty_taxable_annual_wages_chg	Numeric	15	Over-the-year change in taxable annual wages for a given year
-37	oty_taxable_annual_wages_pct_chg	Numeric	8	Over-the-year percent change in taxable annual wages for a given year (Rounded to the tenths place)
 
-//industry_title- 10 Total, all industries	-	this refers to all the industries as a whole, industry_code=10 represents this too
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-
+  
 
 
 
@@ -77,3 +81,28 @@ nmdb-new-mortgage-statistics-all-annual.csv
 [10] How does your dashboard provide details on demand?
 
 [10] How does your dashboard support cross-filtering between these two charts?  (Required for 4 credit hour students. Optional extra credit for 3 credit hour students.)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
+Note to self in WSL, SSH is managed by /home/aarje/.ssh 
+
+
+uhhh
