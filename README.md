@@ -28,6 +28,7 @@ Column Name | Data Type Info | Explanation
 | **oty_taxable_annual_wages_pct_chg**| *Numeric 8* |Over-the-year percent change in taxable annual wages for a given year (Rounded to the tenths place)|
 
 
+**US000** inside **area_fips** refers to the total added up minus the 72000 (Puerto Rico) and 78000 (Virgin Islands)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
