@@ -49,6 +49,9 @@ total_filtered_df = total_filtered_df[['area_fips',
 
 # Pre-pend a 0 to the area_fips columns that have a length of 4
 total_filtered_df['area_fips'] = total_filtered_df['area_fips'].apply(lambda x: f'0{x}' if len(str(x)) == 4 else str(x))
+# Save the concatenated DataFrame to a new CSV file
+total_filtered_df.to_csv('meta_BLS_average_income.csv', index=False)
+
 
 # Filter the DataFrame to keep only rows that represent states
 state_filtered_df = total_filtered_df[total_filtered_df['area_fips'].str[2:] == '000']
@@ -62,15 +65,21 @@ county_filtered_df['state_fips'] = county_filtered_df['area_fips'].str[:2]
 # Save the filtered DataFrame to a new CSV file for counties
 county_filtered_df.to_csv('meta_BLS_county_average_income.csv', index=False)
 
+#Filter the DataFrame to only keep counties with a state_fips of '06' (California)
+california_county_filtered_df = total_filtered_df[total_filtered_df['area_fips'].str.startswith("06")]
+# california_county_filtered_df = california_county_filtered_df[california_county_filtered_df['area_fips'].str[2:] != '000']
+california_county_filtered_df = california_county_filtered_df[california_county_filtered_df['area_fips'].endswith('000') == False]
+# Save the filtered DataFrame for California counties to a new CSV file
+california_county_filtered_df.to_csv('meta_BLS_california_county_average_income.csv', index=False)
+
+
+
+
+# print the sum of total_annual_wages except the last row in state_filtered_df
+#print("Sum of total_annual_wages in state_filtered_df (excluding last row):", state_filtered_df['total_annual_wages'].iloc[:-3].sum())
+
 # print the sum of total_annual_wages except the last row in state_filtered_df
 #print("Sum of total_annual_wages in state_filtered_df (excluding last row):", state_filtered_df['total_annual_wages'].iloc[:-3].sum())
 
 
 
-# print the sum of total_annual_wages except the last row in state_filtered_df
-#print("Sum of total_annual_wages in state_filtered_df (excluding last row):", state_filtered_df['total_annual_wages'].iloc[:-3].sum())
-
-
-
-# Save the concatenated DataFrame to a new CSV file
-# total_filtered_df.to_csv('meta_BLS_average_income.csv', index=False)
