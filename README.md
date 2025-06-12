@@ -33,8 +33,8 @@ Column Name | Data Type Info | Explanation
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-
-  
+### FIPs FCC names was mapped to FIPs BLS data
+ https://transition.fcc.gov/oet/info/maps/census/fips/fips.txt 
 
 
 
