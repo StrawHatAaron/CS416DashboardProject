@@ -40,22 +40,13 @@ Column Name | Data Type Info | Explanation
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-https://www.fhfa.gov/data/pudb ---> https://www.fhfa.gov/document/ama_pudb_definitions_2023.pdf
-Don't need to be able to reach into every subset although it would be interesting, I need to target in the data the following:
-could use this data to say that due to wage stagnation homeowners are becoming older on average.
 
+### Data USA Data
+https://datausa.io/profile/geo/california#housing ---> Download CSV
 
-think I need to do this instead
-https://www.fhfa.gov/data/national-mortgage-database-aggregate-statistics --> Res​idential Mort​gage Performance Statistics	
+This will lead you to --> https://datausa.io/api/data?Geography=04000US06:children&measure=Household%20Income%20by%20Race,Household%20Income%20by%20Race%20Moe&drilldowns=Race
 
-
-
-
-nope focusing on this one now
-nmdb-new-mortgage-statistics-all-annual.csv
-
-
-
+Thi
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 
