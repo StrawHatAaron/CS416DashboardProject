@@ -1,4 +1,4 @@
-# Wages Grow with Home Prices
+# Median and Average Earnings grow with Education
 
 ## Aaron Miller -  CS 416 Data Visualization - Dashboard Project - Professor John C. Hart - Summer 2025 
 

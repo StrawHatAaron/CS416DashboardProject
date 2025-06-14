@@ -31,4 +31,4 @@ filtered_df['County'] = filtered_df['County'].str.replace(r', CA$', '', regex=Tr
 filtered_df['area_fips'] = filtered_df['ID Geography'].str.replace('05000US', '', regex=True)
 
 # Save the filtered DataFrame to a new CSV file
-filtered_df.to_csv("meta_DataUSA_ca_county_housing.csv", index=False)
+filtered_df.to_csv("wrangled_DataUSA_ca_county_housing.csv", index=False)
