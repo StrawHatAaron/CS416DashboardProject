@@ -6,10 +6,12 @@ import pandas as pd
 # Load the CSV file from the DataUSA directory
 df = pd.read_csv("DataUSA\\Income by Location.csv")
 
+# Filter out race based data
+df = df[df['Race'] == 'Total']
+
 # Filter out uneeded columnss
 df = df[[  
         'ID Year',
-        # 'Race',
         'Household Income by Race', 
         'Household Income by Race Moe', 
         'Geography', 
@@ -18,7 +20,6 @@ df = df[[
 # Rename some columns for clarity and drop some unnecessary ones
 df.rename(columns={
     'ID Year': 'Year',
-    # 'Race': 'Race',
     'Household Income by Race': 'Median Household Income',
     'Household Income by Race Moe': 'Median Household Income Margin of Error',
     'Geography': 'County',
@@ -46,6 +47,21 @@ df['Median Household Income Quartiles by each Year'] = df.groupby('Year')['Media
         ]
     )
 )
+
+# Fill empty records for years 2010 to 2012
+# for year in range(2010, 2013):
+#     if year not in df['Year'].values:
+#         # Create a new DataFrame for the missing year with NaN values
+#         missing_data = pd.DataFrame({
+#             'Year': [year] * 58,
+#             'Median Household Income': ["Not Reported"] * 58,
+#             'Median Household Income Margin of Error': ["Not Reported"] * 58,
+#             'County': df['County'].unique(),
+#             'ID Geography': df['ID Geography'].unique(),
+#             'Area FIPs': df['Area FIPs'].unique(),
+#             'Median Household Income Quartiles by each Year': [None] * 58
+#         })
+#         df = pd.concat([df, missing_data], ignore_index=True)
 
 # # Save the filtered DataFrame to a new CSV file
 df.to_csv("Wrangled_DataUSA_California_County_Housing.csv", index=False)
