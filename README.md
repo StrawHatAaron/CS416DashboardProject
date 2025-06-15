@@ -1,12 +1,31 @@
-# Median and Average Earnings grow with Education
+# Median and Average Earnings grow with more Education
 
-## Aaron Miller -  CS 416 Data Visualization - Dashboard Project - Professor John C. Hart - Summer 2025 
+## Aaron Miller -  CS 416 Data Visualization - Dashboard Project - Professor John C. Hart - Summer 2025
 
 ---------------------------------------------------------------------------------------------------------------------
 
-## Table 1 - Created by `mine_DataUSA.py`
+## Table 1: `wrangled_FRED_ca_county_education.csv` - *Wrangled and created by `mine_FRED.py`*
 
-### *Data USA* data
+### Source: *FRED - Federal Reserve Bank of St. Louis* data
+
+Data sets were gathered and wrangled from years 2010 to 2023. Below shows the approach used to create Table 1: `wrangled_FRED_ca_county_education.csv`.
+
+1. [Bachelor's Degree or Higher (5-year estimate) by California County](https://fred.stlouisfed.org/release/tables?rid=330&eid=391686) 
+2. Copied Data into Excel (`FRED\CA_Education_by_County_over_Years.xlsx`)
+3. mine_FRED.py runs validations on Excel file from step 2, wrangles and creates the final table Table 1: `wrangled_FRED_ca_county_education.csv`
+
+Attributes found in  Table 1: `wrangled_FRED_ca_county_education.csv`
+**County:** CA Counties
+**Percent:** Percent of population that recieved a bachelors degree or higher.
+**Year:** The year the data was gathered for that record
+
+---------------------------------------------------------------------------------------------------------------------
+
+## Table 2: `wrangled_DataUSA_ca_county_housing.csv` - *Wrangled created by `mine_DataUSA.py`*
+
+### Source: *Data USA* data
+
+Data sets were gathered and wrangled for years 2013 to 2023 from Data USA.
 
 <https://datausa.io/profile/geo/california#housing> &rarr; Download CSV &rarr;
 
@@ -16,9 +35,9 @@ Thi
 
 ---------------------------------------------------------------------------------------------------------------------
 
-## Table 2 - Created by  `mine_BLS_FCC.py`
+## Table 3 - Created by  `mine_BLS_FCC.py`
 
-## *Bureau of Labor Statistics* mapped with *Federal Communication Commission* data
+## Source:  *Bureau of Labor Statistics* mapped with *Federal Communication Commission* data
 
 California County names from the Federal Communication Commision names were mapped to FIPs Bureau of Labor Statistics data
 
@@ -55,9 +74,9 @@ Source: <https://www.bls.gov/cew/downloadable-data-files.htm> &rarr; QCEW NAICS-
 
 [30] What is one question that the dashboard can answer by utilizing two or more simultaneously displayed charts? What is the answer? How do these two charts indicate the answer? (Spend some time to make sure you have picked a question whose answer is not simply given by just one of the charts, and the combination of the two charts gives a complete answer.)
 
- Over recent time has the stagnation of wages led to 
-   1. can compare median earning vs average earnings and show localized wealth gaps over time through the increase of average wages**** I like this alot with the new file 
-   2. higher levels of foreclosure on mortgages purchased by each Federal Home Loan Banks?
+```txt
+Does having a larger percentage of a Bachelors degree or higher education lead to larger median and average earnings for Counties in California? Yes we can see that there is a strong collelation with higher earnings for areas that have a higher percentage of the population that has a Bacherlors degree or higher.
+```
 
 [10] Upload a screenshot of your dashboard answering that question by showing two or more simultaneously displayed charts.
 
