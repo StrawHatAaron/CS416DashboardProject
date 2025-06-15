@@ -27,5 +27,20 @@ county_names_df = pd.read_csv('FCC\\ca_fips_county_names.csv')
 # Merge the county names DataFrame with the filtered California counties DataFrame
 merged_df = pd.merge(df, county_names_df, on='County')
 
+# Create quartiles for the Percentage of Adults with a Bachelor's Degree or Higher
+merged_df['Bachelor_Degree_Quartile'] = pd.qcut(merged_df['Percent'], 4, 
+                                                labels=['Low Education Percentage', 
+                                                        'Lower Middle Education Percentage', 
+                                                        'Upper Middle Education Percentage', 
+                                                        'High Education Percentage'])
+
+# Give Percent column a more descriptive name
+merged_df.rename(columns={
+    'County': 'County',
+    'Percent': 'Percent_of_Adults_with_Bachelors_or_Higher',
+    'area_fips': 'area_fips',
+    'Bachelor_Degree_Quartile': 'Bachelor_Degree_Quartile',
+}, inplace=True)
+
 # Save the merged DataFrame to a new CSV file
 merged_df.to_csv("Wrangled_FRED_California_County_Education.csv", index=False)

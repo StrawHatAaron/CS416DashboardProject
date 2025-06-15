@@ -2,9 +2,11 @@
 
 ## Aaron Miller -  CS 416 Data Visualization - Dashboard Project - Summer 2025 - Professor John C. Hart
 
+I can make income and education  quartiles
+
 ---------------------------------------------------------------------------------------------------------------------
 
-## Table 1: `Wrangled_FRED_California_County_Education.csv` - *Wrangled and created by `mine_FRED.py`*
+## Table 1: `Wrangled_FRED_California_County_Education.csv`
 
 ### Source: *FRED - Federal Reserve Bank of St. Louis*
 
@@ -22,13 +24,14 @@ Attributes in  Table 1
 | Attribute Name| Attribute Definition|
 | :------- | :----------------- |
 |**County**| CA Counties|
-|**Percent**| Percent of population that recieved a bachelors degree or higher.|
+|**Percent_of_Adults_with_Bachelors_or_Higher**| Predicted percent of adult population that recieved a bachelors degree or higher.|
 |**Year**| The year the data was gathered for that record|
 |**area_fips**| Geographic County locations within California|
+|**Bachelor_Degree_Quartile**| Quartiles for Percent_of_Adults_with_Bachelors_or_Higher|
 
 ---------------------------------------------------------------------------------------------------------------------
 
-## Table 2: `Wrangled_DataUSA_California_County_Housing.csv` - *Wrangled created by `mine_DataUSA.py`*
+## Table 2: `Wrangled_DataUSA_California_County_Housing.csv`
 
 ### Source: *Data USA*
 
@@ -52,7 +55,7 @@ Attributes in  Table 2
 
 ---------------------------------------------------------------------------------------------------------------------
 
-## Table 3:  - Created by  `mine_BLS.py`
+## Table 3: `Wrangled_BLS_California_County_Average_Income.csv`
 
 ### Source:  *BLS - Bureau of Labor Statistics*
 
@@ -65,19 +68,18 @@ Data sets were gathered and wrangled from years 1990 to 2023. Below shows the ap
     [Federal Comminication Commission](https://transition.fcc.gov/oet/info/maps/census/fips/fips.txt) (`FCC\ca_fips_county_names.csv`)
     and creates final Table 3.
 
-
 Attributes in Table 3 derived from these [Definitions](https://www.bls.gov/cew/about-data/downloadable-file-layouts/annual/naics-based-annual-layout.htm)
 
 | Attribute Name| Attribute Definition |
 | :-------| :---|
-| **area_fips**| This refers to the geographic location. I have only kept California county FIPs codes 06001 to 06115. |
+|**area_fips**| This refers to the geographic location. I have only kept California county FIPs codes 06001 to 06115. |
 |**County**| Any of the 58 Counties in California|
-| **own_code**| 0 covers ownership for all Private,International Government,Local Government,State Government,Federal Government,Total Government,Total U.I. Covered |
-| **industry_code**| total of all QCEW Ownership Codes for NAICS Coded Data |
-| **agglvl_code**| total of all QCEW Aggregation Level Codes (a) for NAICS Coded Data |
-| **size_code**| All establishment sizes |
-| **year**| this is respective of each year we are mining the data for- capped at year 2009 due to <https://www.fhfa.gov/data/pudb> having started recording this|
-|**annual_avg_emplvl**|  Annual average of monthly employment levels for a given year|
+|**own_code**| 0 covers ownership for all Private,International Government,Local Government,State Government,Federal Government,Total Government,Total U.I. Covered |
+|**industry_code**| total of all QCEW Ownership Codes for NAICS Coded Data |
+|**agglvl_code**| total of all QCEW Aggregation Level Codes (a) for NAICS Coded Data - 70 = County, Total Covered |
+|**size_code**| 0 represents all establishment sizes |
+|**year**| this is respective of each year we are mining the data for- capped at year 2009 due to <https://www.fhfa.gov/data/pudb> having started recording this|
+|**annual_avg_emplvl**|  Annual average of monthly employment levels for a given year. This represents the average number of workers in the county.|
 |**total_annual_wages**| Sum of the four quarterly total wage levels for a given year |
 |**taxable_annual_wages**| Sum of the four quarterly total taxable wage totals for a given year |
 |**annual_contributions**| Sum of the four quarterly contribution totals for a given year |

@@ -32,5 +32,12 @@ df['area_fips'] = df['ID Geography'].str.replace('05000US', '', regex=False)
 if df['area_fips'].nunique() != 58:
     print(f"Warning: Expected 58 unique area_fips codes, found {df['area_fips'].nunique()}.")
 
+# Create quartiles for the Median Household Income
+df['Median Household Income Quartiles'] = pd.qcut(df['Median Household Income'], 4, 
+                                                  labels=['Low Median Household Income', 
+                                                          'Lower Middle Median Household Income', 
+                                                          'Upper Middle Median Household Income', 
+                                                          'High Median Household Income'])
+
 # # Save the filtered DataFrame to a new CSV file
 df.to_csv("Wrangled_DataUSA_California_County_Housing.csv", index=False)
