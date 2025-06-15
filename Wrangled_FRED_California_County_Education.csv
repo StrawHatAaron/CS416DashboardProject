@@ -1,813 +1,813 @@
-County,Percent,Year
-Alameda County,51.5,2023
-Alpine County,42.1,2023
-Amador County,22.4,2023
-Butte County,31.7,2023
-Calaveras County,22.2,2023
-Colusa County,14.5,2023
-Contra Costa County,44.9,2023
-Del Norte County,21.0,2023
-El Dorado County,38.8,2023
-Fresno County,23.9,2023
-Glenn County,16.5,2023
-Humboldt County,32.1,2023
-Imperial County,16.1,2023
-Inyo County,31.8,2023
-Kern County,18.6,2023
-Kings County,13.9,2023
-Lake County,17.7,2023
-Lassen County,13.2,2023
-Los Angeles County,35.5,2023
-Madera County,17.1,2023
-Marin County,60.5,2023
-Mariposa County,30.9,2023
-Mendocino County,24.9,2023
-Merced County,14.8,2023
-Modoc County,23.0,2023
-Mono County,34.3,2023
-Monterey County,27.9,2023
-Napa County,38.5,2023
-Nevada County,39.5,2023
-Orange County,43.4,2023
-Placer County,42.9,2023
-Plumas County,20.5,2023
-Riverside County,25.1,2023
-Sacramento County,33.3,2023
-San Benito County,22.4,2023
-San Bernardino County,22.9,2023
-San Diego County,42.1,2023
-San Francisco County,60.1,2023
-San Joaquin County,21.6,2023
-San Luis Obispo County,39.2,2023
-San Mateo County,53.1,2023
-Santa Barbara County,35.9,2023
-Santa Clara County,55.9,2023
-Santa Cruz County,43.6,2023
-Shasta County,23.3,2023
-Sierra County,24.4,2023
-Siskiyou County,23.1,2023
-Solano County,28.4,2023
-Sonoma County,37.8,2023
-Stanislaus County,19.1,2023
-Sutter County,20.2,2023
-Tehama County,18.8,2023
-Trinity County,18.0,2023
-Tulare County,15.8,2023
-Tuolumne County,23.9,2023
-Ventura County,35.7,2023
-Yolo County,44.1,2023
-Yuba County,17.9,2023
-Alameda County,50.9,2022
-Alpine County,39.6,2022
-Amador County,20.6,2022
-Butte County,30.8,2022
-Calaveras County,21.4,2022
-Colusa County,14.3,2022
-Contra Costa County,44.5,2022
-Del Norte County,17.7,2022
-El Dorado County,38.0,2022
-Fresno County,23.4,2022
-Glenn County,14.9,2022
-Humboldt County,31.1,2022
-Imperial County,15.9,2022
-Inyo County,29.0,2022
-Kern County,18.3,2022
-Kings County,14.7,2022
-Lake County,18.2,2022
-Lassen County,12.1,2022
-Los Angeles County,34.6,2022
-Madera County,17.2,2022
-Marin County,61.1,2022
-Mariposa County,28.9,2022
-Mendocino County,24.0,2022
-Merced County,14.6,2022
-Modoc County,23.8,2022
-Mono County,31.7,2022
-Monterey County,27.1,2022
-Napa County,37.8,2022
-Nevada County,38.8,2022
-Orange County,42.8,2022
-Placer County,42.4,2022
-Plumas County,21.2,2022
-Riverside County,24.1,2022
-Sacramento County,32.6,2022
-San Benito County,22.0,2022
-San Bernardino County,22.4,2022
-San Diego County,41.0,2022
-San Francisco County,59.8,2022
-San Joaquin County,20.3,2022
-San Luis Obispo County,38.0,2022
-San Mateo County,52.9,2022
-Santa Barbara County,35.7,2022
-Santa Clara County,55.3,2022
-Santa Cruz County,42.5,2022
-Shasta County,22.8,2022
-Sierra County,23.9,2022
-Siskiyou County,22.0,2022
-Solano County,28.2,2022
-Sonoma County,37.8,2022
-Stanislaus County,18.2,2022
-Sutter County,20.6,2022
-Tehama County,18.2,2022
-Trinity County,19.2,2022
-Tulare County,15.6,2022
-Tuolumne County,24.4,2022
-Ventura County,34.7,2022
-Yolo County,43.3,2022
-Yuba County,17.4,2022
-Alameda County,49.6,2021
-Alpine County,39.3,2021
-Amador County,19.5,2021
-Butte County,29.8,2021
-Calaveras County,19.9,2021
-Colusa County,14.7,2021
-Contra Costa County,44.1,2021
-Del Norte County,16.1,2021
-El Dorado County,36.8,2021
-Fresno County,22.6,2021
-Glenn County,14.9,2021
-Humboldt County,31.2,2021
-Imperial County,15.2,2021
-Inyo County,27.3,2021
-Kern County,17.6,2021
-Kings County,14.3,2021
-Lake County,17.5,2021
-Lassen County,11.8,2021
-Los Angeles County,34.0,2021
-Madera County,16.4,2021
-Marin County,60.1,2021
-Mariposa County,28.9,2021
-Mendocino County,24.5,2021
-Merced County,14.1,2021
-Modoc County,19.7,2021
-Mono County,29.5,2021
-Monterey County,26.5,2021
-Napa County,37.0,2021
-Nevada County,38.7,2021
-Orange County,42.1,2021
-Placer County,41.6,2021
-Plumas County,23.0,2021
-Riverside County,23.5,2021
-Sacramento County,32.0,2021
-San Benito County,20.5,2021
-San Bernardino County,21.9,2021
-San Diego County,40.3,2021
-San Francisco County,59.5,2021
-San Joaquin County,19.5,2021
-San Luis Obispo County,36.7,2021
-San Mateo County,52.5,2021
-Santa Barbara County,35.1,2021
-Santa Clara County,54.4,2021
-Santa Cruz County,41.9,2021
-Shasta County,22.6,2021
-Sierra County,22.3,2021
-Siskiyou County,21.5,2021
-Solano County,27.8,2021
-Sonoma County,37.1,2021
-Stanislaus County,17.9,2021
-Sutter County,20.0,2021
-Tehama County,17.0,2021
-Trinity County,18.6,2021
-Tulare County,15.2,2021
-Tuolumne County,24.6,2021
-Ventura County,34.0,2021
-Yolo County,43.1,2021
-Yuba County,17.7,2021
-Alameda County,48.7,2020
-Alpine County,38.4,2020
-Amador County,18.1,2020
-Butte County,28.3,2020
-Calaveras County,19.8,2020
-Colusa County,14.9,2020
-Contra Costa County,43.3,2020
-Del Norte County,15.4,2020
-El Dorado County,35.2,2020
-Fresno County,22.0,2020
-Glenn County,14.4,2020
-Humboldt County,30.9,2020
-Imperial County,15.4,2020
-Inyo County,26.4,2020
-Kern County,17.1,2020
-Kings County,15.0,2020
-Lake County,16.7,2020
-Lassen County,12.7,2020
-Los Angeles County,33.5,2020
-Madera County,15.2,2020
-Marin County,60.2,2020
-Mariposa County,26.9,2020
-Mendocino County,24.0,2020
-Merced County,14.1,2020
-Modoc County,18.2,2020
-Mono County,32.1,2020
-Monterey County,26.2,2020
-Napa County,37.2,2020
-Nevada County,37.6,2020
-Orange County,41.2,2020
-Placer County,40.8,2020
-Plumas County,24.5,2020
-Riverside County,23.2,2020
-Sacramento County,31.4,2020
-San Benito County,20.1,2020
-San Bernardino County,21.4,2020
-San Diego County,39.5,2020
-San Francisco County,58.8,2020
-San Joaquin County,19.2,2020
-San Luis Obispo County,36.1,2020
-San Mateo County,52.1,2020
-Santa Barbara County,35.0,2020
-Santa Clara County,53.5,2020
-Santa Cruz County,41.8,2020
-Shasta County,22.1,2020
-Sierra County,19.4,2020
-Siskiyou County,22.1,2020
-Solano County,27.1,2020
-Sonoma County,36.4,2020
-Stanislaus County,17.7,2020
-Sutter County,20.0,2020
-Tehama County,17.4,2020
-Trinity County,19.2,2020
-Tulare County,14.5,2020
-Tuolumne County,22.3,2020
-Ventura County,33.9,2020
-Yolo County,42.6,2020
-Yuba County,18.0,2020
-Alameda County,47.4,2019
-Alpine County,34.5,2019
-Amador County,19.3,2019
-Butte County,27.2,2019
-Calaveras County,18.3,2019
-Colusa County,15.0,2019
-Contra Costa County,42.4,2019
-Del Norte County,14.8,2019
-El Dorado County,34.3,2019
-Fresno County,21.2,2019
-Glenn County,14.2,2019
-Humboldt County,30.4,2019
-Imperial County,15.2,2019
-Inyo County,27.2,2019
-Kern County,16.4,2019
-Kings County,14.7,2019
-Lake County,15.5,2019
-Lassen County,12.9,2019
-Los Angeles County,32.5,2019
-Madera County,14.6,2019
-Marin County,59.5,2019
-Mariposa County,24.6,2019
-Mendocino County,24.4,2019
-Merced County,13.8,2019
-Modoc County,15.2,2019
-Mono County,28.8,2019
-Monterey County,24.7,2019
-Napa County,35.7,2019
-Nevada County,37.2,2019
-Orange County,40.6,2019
-Placer County,39.7,2019
-Plumas County,23.7,2019
-Riverside County,22.3,2019
-Sacramento County,30.9,2019
-San Benito County,19.7,2019
-San Bernardino County,21.0,2019
-San Diego County,38.8,2019
-San Francisco County,58.1,2019
-San Joaquin County,18.8,2019
-San Luis Obispo County,35.4,2019
-San Mateo County,51.0,2019
-Santa Barbara County,34.2,2019
-Santa Clara County,52.4,2019
-Santa Cruz County,40.8,2019
-Shasta County,22.2,2019
-Sierra County,17.9,2019
-Siskiyou County,23.2,2019
-Solano County,26.9,2019
-Sonoma County,35.5,2019
-Stanislaus County,17.1,2019
-Sutter County,18.2,2019
-Tehama County,15.7,2019
-Trinity County,19.5,2019
-Tulare County,14.6,2019
-Tuolumne County,20.5,2019
-Ventura County,33.8,2019
-Yolo County,41.4,2019
-Yuba County,17.1,2019
-Alameda County,46.0,2018
-Alpine County,30.0,2018
-Amador County,20.3,2018
-Butte County,26.5,2018
-Calaveras County,18.7,2018
-Colusa County,15.4,2018
-Contra Costa County,41.7,2018
-Del Norte County,14.3,2018
-El Dorado County,33.7,2018
-Fresno County,20.7,2018
-Glenn County,13.9,2018
-Humboldt County,29.8,2018
-Imperial County,14.5,2018
-Inyo County,26.1,2018
-Kern County,16.1,2018
-Kings County,13.5,2018
-Lake County,15.8,2018
-Lassen County,12.0,2018
-Los Angeles County,31.8,2018
-Madera County,14.5,2018
-Marin County,58.8,2018
-Mariposa County,23.4,2018
-Mendocino County,24.7,2018
-Merced County,14.0,2018
-Modoc County,15.9,2018
-Mono County,30.6,2018
-Monterey County,24.5,2018
-Napa County,34.9,2018
-Nevada County,36.6,2018
-Orange County,39.9,2018
-Placer County,38.6,2018
-Plumas County,23.5,2018
-Riverside County,21.8,2018
-Sacramento County,30.4,2018
-San Benito County,19.7,2018
-San Bernardino County,20.3,2018
-San Diego County,38.1,2018
-San Francisco County,57.1,2018
-San Joaquin County,18.4,2018
-San Luis Obispo County,34.6,2018
-San Mateo County,49.9,2018
-Santa Barbara County,33.8,2018
-Santa Clara County,51.3,2018
-Santa Cruz County,40.0,2018
-Shasta County,22.2,2018
-Sierra County,18.7,2018
-Siskiyou County,22.5,2018
-Solano County,26.2,2018
-Sonoma County,34.9,2018
-Stanislaus County,16.9,2018
-Sutter County,17.7,2018
-Tehama County,15.5,2018
-Trinity County,19.7,2018
-Tulare County,14.3,2018
-Tuolumne County,20.0,2018
-Ventura County,33.1,2018
-Yolo County,41.6,2018
-Yuba County,16.7,2018
-Alameda County,44.7,2017
-Alpine County,25.6,2017
-Amador County,22.1,2017
-Butte County,26.6,2017
-Calaveras County,19.3,2017
-Colusa County,15.7,2017
-Contra Costa County,40.7,2017
-Del Norte County,14.4,2017
-El Dorado County,33.3,2017
-Fresno County,20.1,2017
-Glenn County,13.0,2017
-Humboldt County,29.4,2017
-Imperial County,14.3,2017
-Inyo County,25.3,2017
-Kern County,15.8,2017
-Kings County,13.0,2017
-Lake County,15.3,2017
-Lassen County,12.4,2017
-Los Angeles County,31.2,2017
-Madera County,13.8,2017
-Marin County,57.5,2017
-Mariposa County,24.4,2017
-Mendocino County,24.8,2017
-Merced County,13.8,2017
-Modoc County,16.6,2017
-Mono County,31.5,2017
-Monterey County,23.9,2017
-Napa County,34.6,2017
-Nevada County,35.8,2017
-Orange County,39.1,2017
-Placer County,37.5,2017
-Plumas County,22.6,2017
-Riverside County,21.5,2017
-Sacramento County,29.9,2017
-San Benito County,19.2,2017
-San Bernardino County,19.8,2017
-San Diego County,37.4,2017
-San Francisco County,55.8,2017
-San Joaquin County,18.1,2017
-San Luis Obispo County,34.0,2017
-San Mateo County,48.5,2017
-Santa Barbara County,33.3,2017
-Santa Clara County,50.0,2017
-Santa Cruz County,39.8,2017
-Shasta County,21.4,2017
-Sierra County,21.4,2017
-Siskiyou County,22.7,2017
-Solano County,25.6,2017
-Sonoma County,33.8,2017
-Stanislaus County,16.7,2017
-Sutter County,17.5,2017
-Tehama County,14.4,2017
-Trinity County,19.5,2017
-Tulare County,13.8,2017
-Tuolumne County,20.6,2017
-Ventura County,32.6,2017
-Yolo County,40.6,2017
-Yuba County,16.4,2017
-Alameda County,43.9,2016
-Alpine County,29.7,2016
-Amador County,21.5,2016
-Butte County,26.1,2016
-Calaveras County,20.2,2016
-Colusa County,14.4,2016
-Contra Costa County,40.3,2016
-Del Norte County,14.9,2016
-El Dorado County,33.0,2016
-Fresno County,19.7,2016
-Glenn County,12.7,2016
-Humboldt County,28.2,2016
-Imperial County,14.0,2016
-Inyo County,24.5,2016
-Kern County,15.7,2016
-Kings County,12.8,2016
-Lake County,16.2,2016
-Lassen County,12.5,2016
-Los Angeles County,30.8,2016
-Madera County,13.1,2016
-Marin County,57.1,2016
-Mariposa County,22.6,2016
-Mendocino County,24.1,2016
-Merced County,13.7,2016
-Modoc County,18.3,2016
-Mono County,30.6,2016
-Monterey County,23.6,2016
-Napa County,33.0,2016
-Nevada County,34.4,2016
-Orange County,38.4,2016
-Placer County,36.9,2016
-Plumas County,21.9,2016
-Riverside County,21.2,2016
-Sacramento County,29.3,2016
-San Benito County,19.0,2016
-San Bernardino County,19.3,2016
-San Diego County,36.5,2016
-San Francisco County,54.8,2016
-San Joaquin County,18.2,2016
-San Luis Obispo County,34.1,2016
-San Mateo County,47.1,2016
-Santa Barbara County,32.2,2016
-Santa Clara County,49.1,2016
-Santa Cruz County,39.0,2016
-Shasta County,20.1,2016
-Sierra County,19.8,2016
-Siskiyou County,22.2,2016
-Solano County,25.1,2016
-Sonoma County,33.1,2016
-Stanislaus County,16.5,2016
-Sutter County,17.9,2016
-Tehama County,13.8,2016
-Trinity County,20.1,2016
-Tulare County,14.0,2016
-Tuolumne County,19.7,2016
-Ventura County,32.2,2016
-Yolo County,40.0,2016
-Yuba County,15.5,2016
-Alameda County,43.0,2015
-Alpine County,27.5,2015
-Amador County,21.3,2015
-Butte County,25.9,2015
-Calaveras County,20.9,2015
-Colusa County,14.6,2015
-Contra Costa County,39.6,2015
-Del Norte County,15.1,2015
-El Dorado County,32.1,2015
-Fresno County,19.4,2015
-Glenn County,14.9,2015
-Humboldt County,28.0,2015
-Imperial County,14.1,2015
-Inyo County,23.9,2015
-Kern County,15.4,2015
-Kings County,13.4,2015
-Lake County,16.0,2015
-Lassen County,12.3,2015
-Los Angeles County,30.3,2015
-Madera County,13.3,2015
-Marin County,55.8,2015
-Mariposa County,22.1,2015
-Mendocino County,23.7,2015
-Merced County,13.1,2015
-Modoc County,18.0,2015
-Mono County,32.3,2015
-Monterey County,23.1,2015
-Napa County,32.4,2015
-Nevada County,33.7,2015
-Orange County,37.7,2015
-Placer County,36.4,2015
-Plumas County,22.0,2015
-Riverside County,20.9,2015
-Sacramento County,28.8,2015
-San Benito County,19.0,2015
-San Bernardino County,19.0,2015
-San Diego County,35.7,2015
-San Francisco County,53.8,2015
-San Joaquin County,18.4,2015
-San Luis Obispo County,33.0,2015
-San Mateo County,45.6,2015
-Santa Barbara County,32.2,2015
-Santa Clara County,47.9,2015
-Santa Cruz County,38.2,2015
-Shasta County,19.6,2015
-Sierra County,18.9,2015
-Siskiyou County,22.7,2015
-Solano County,24.9,2015
-Sonoma County,32.9,2015
-Stanislaus County,16.5,2015
-Sutter County,17.6,2015
-Tehama County,14.4,2015
-Trinity County,20.0,2015
-Tulare County,13.8,2015
-Tuolumne County,20.4,2015
-Ventura County,31.7,2015
-Yolo County,39.0,2015
-Yuba County,14.3,2015
-Alameda County,42.1,2014
-Alpine County,30.5,2014
-Amador County,20.5,2014
-Butte County,25.0,2014
-Calaveras County,21.1,2014
-Colusa County,14.3,2014
-Contra Costa County,39.4,2014
-Del Norte County,16.0,2014
-El Dorado County,32.1,2014
-Fresno County,19.5,2014
-Glenn County,15.7,2014
-Humboldt County,27.5,2014
-Imperial County,13.4,2014
-Inyo County,21.4,2014
-Kern County,15.2,2014
-Kings County,12.5,2014
-Lake County,16.2,2014
-Lassen County,12.9,2014
-Los Angeles County,29.9,2014
-Madera County,13.5,2014
-Marin County,54.8,2014
-Mariposa County,22.4,2014
-Mendocino County,22.5,2014
-Merced County,13.0,2014
-Modoc County,18.5,2014
-Mono County,33.3,2014
-Monterey County,23.1,2014
-Napa County,31.9,2014
-Nevada County,32.8,2014
-Orange County,37.3,2014
-Placer County,35.7,2014
-Plumas County,22.7,2014
-Riverside County,20.8,2014
-Sacramento County,28.2,2014
-San Benito County,19.0,2014
-San Bernardino County,18.8,2014
-San Diego County,35.1,2014
-San Francisco County,52.9,2014
-San Joaquin County,18.1,2014
-San Luis Obispo County,32.1,2014
-San Mateo County,45.0,2014
-Santa Barbara County,31.4,2014
-Santa Clara County,47.3,2014
-Santa Cruz County,37.5,2014
-Shasta County,19.1,2014
-Sierra County,19.0,2014
-Siskiyou County,24.0,2014
-Solano County,24.3,2014
-Sonoma County,32.6,2014
-Stanislaus County,16.4,2014
-Sutter County,18.5,2014
-Tehama County,14.1,2014
-Trinity County,22.0,2014
-Tulare County,13.3,2014
-Tuolumne County,19.8,2014
-Ventura County,31.6,2014
-Yolo County,38.3,2014
-Yuba County,14.2,2014
-Alameda County,41.8,2013
-Alpine County,31.2,2013
-Amador County,19.3,2013
-Butte County,24.4,2013
-Calaveras County,21.2,2013
-Colusa County,13.8,2013
-Contra Costa County,39.0,2013
-Del Norte County,14.0,2013
-El Dorado County,32.0,2013
-Fresno County,19.6,2013
-Glenn County,14.6,2013
-Humboldt County,27.5,2013
-Imperial County,13.3,2013
-Inyo County,21.4,2013
-Kern County,15.0,2013
-Kings County,12.9,2013
-Lake County,16.2,2013
-Lassen County,13.1,2013
-Los Angeles County,29.7,2013
-Madera County,13.6,2013
-Marin County,54.6,2013
-Mariposa County,21.3,2013
-Mendocino County,22.0,2013
-Merced County,12.6,2013
-Modoc County,18.7,2013
-Mono County,29.8,2013
-Monterey County,23.0,2013
-Napa County,31.3,2013
-Nevada County,32.3,2013
-Orange County,36.8,2013
-Placer County,35.1,2013
-Plumas County,22.6,2013
-Riverside County,20.5,2013
-Sacramento County,28.0,2013
-San Benito County,18.2,2013
-San Bernardino County,18.7,2013
-San Diego County,34.6,2013
-San Francisco County,52.4,2013
-San Joaquin County,18.1,2013
-San Luis Obispo County,31.5,2013
-San Mateo County,44.4,2013
-Santa Barbara County,31.3,2013
-Santa Clara County,46.5,2013
-Santa Cruz County,37.0,2013
-Shasta County,18.8,2013
-Sierra County,18.5,2013
-Siskiyou County,23.9,2013
-Solano County,24.3,2013
-Sonoma County,32.2,2013
-Stanislaus County,16.4,2013
-Sutter County,18.7,2013
-Tehama County,13.5,2013
-Trinity County,21.3,2013
-Tulare County,13.3,2013
-Tuolumne County,19.5,2013
-Ventura County,31.4,2013
-Yolo County,37.9,2013
-Yuba County,13.7,2013
-Alameda County,41.1,2012
-Alpine County,31.7,2012
-Amador County,18.8,2012
-Butte County,24.0,2012
-Calaveras County,20.8,2012
-Colusa County,13.5,2012
-Contra Costa County,38.6,2012
-Del Norte County,13.8,2012
-El Dorado County,31.3,2012
-Fresno County,19.4,2012
-Glenn County,15.4,2012
-Humboldt County,26.4,2012
-Imperial County,13.2,2012
-Inyo County,21.0,2012
-Kern County,14.9,2012
-Kings County,12.4,2012
-Lake County,16.8,2012
-Lassen County,13.5,2012
-Los Angeles County,29.5,2012
-Madera County,13.9,2012
-Marin County,54.6,2012
-Mariposa County,19.9,2012
-Mendocino County,21.4,2012
-Merced County,12.5,2012
-Modoc County,19.4,2012
-Mono County,29.1,2012
-Monterey County,23.2,2012
-Napa County,31.2,2012
-Nevada County,32.7,2012
-Orange County,36.6,2012
-Placer County,34.7,2012
-Plumas County,22.9,2012
-Riverside County,20.5,2012
-Sacramento County,27.9,2012
-San Benito County,18.4,2012
-San Bernardino County,18.6,2012
-San Diego County,34.4,2012
-San Francisco County,52.0,2012
-San Joaquin County,17.9,2012
-San Luis Obispo County,31.5,2012
-San Mateo County,43.9,2012
-Santa Barbara County,31.5,2012
-Santa Clara County,46.0,2012
-Santa Cruz County,37.5,2012
-Shasta County,19.3,2012
-Sierra County,16.7,2012
-Siskiyou County,23.1,2012
-Solano County,24.2,2012
-Sonoma County,32.1,2012
-Stanislaus County,16.3,2012
-Sutter County,18.4,2012
-Tehama County,13.1,2012
-Trinity County,19.7,2012
-Tulare County,13.3,2012
-Tuolumne County,17.4,2012
-Ventura County,31.2,2012
-Yolo County,38.0,2012
-Yuba County,13.6,2012
-Alameda County,40.8,2011
-Alpine County,32.0,2011
-Amador County,18.8,2011
-Butte County,24.0,2011
-Calaveras County,20.7,2011
-Colusa County,13.0,2011
-Contra Costa County,38.4,2011
-Del Norte County,14.3,2011
-El Dorado County,30.8,2011
-Fresno County,19.5,2011
-Glenn County,15.5,2011
-Humboldt County,26.3,2011
-Imperial County,12.8,2011
-Inyo County,22.5,2011
-Kern County,14.6,2011
-Kings County,12.5,2011
-Lake County,16.2,2011
-Lassen County,12.4,2011
-Los Angeles County,29.2,2011
-Madera County,14.0,2011
-Marin County,54.0,2011
-Mariposa County,20.5,2011
-Mendocino County,22.1,2011
-Merced County,12.3,2011
-Modoc County,16.2,2011
-Mono County,30.3,2011
-Monterey County,23.2,2011
-Napa County,30.7,2011
-Nevada County,32.4,2011
-Orange County,36.2,2011
-Placer County,34.6,2011
-Plumas County,21.1,2011
-Riverside County,20.6,2011
-Sacramento County,27.7,2011
-San Benito County,18.3,2011
-San Bernardino County,18.6,2011
-San Diego County,34.2,2011
-San Francisco County,51.4,2011
-San Joaquin County,17.6,2011
-San Luis Obispo County,30.8,2011
-San Mateo County,43.9,2011
-Santa Barbara County,31.3,2011
-Santa Clara County,45.5,2011
-Santa Cruz County,38.1,2011
-Shasta County,19.7,2011
-Sierra County,18.6,2011
-Siskiyou County,22.6,2011
-Solano County,24.2,2011
-Sonoma County,31.8,2011
-Stanislaus County,16.4,2011
-Sutter County,18.9,2011
-Tehama County,12.6,2011
-Trinity County,19.3,2011
-Tulare County,12.9,2011
-Tuolumne County,17.9,2011
-Ventura County,31.0,2011
-Yolo County,38.4,2011
-Yuba County,12.7,2011
-Alameda County,40.3,2010
-Alpine County,29.7,2010
-Amador County,19.0,2010
-Butte County,24.1,2010
-Calaveras County,19.6,2010
-Colusa County,11.7,2010
-Contra Costa County,38.2,2010
-Del Norte County,14.3,2010
-El Dorado County,31.1,2010
-Fresno County,19.7,2010
-Glenn County,16.2,2010
-Humboldt County,26.3,2010
-Imperial County,12.2,2010
-Inyo County,20.9,2010
-Kern County,14.7,2010
-Kings County,11.8,2010
-Lake County,16.4,2010
-Lassen County,12.4,2010
-Los Angeles County,29.0,2010
-Madera County,13.5,2010
-Marin County,54.1,2010
-Mariposa County,20.4,2010
-Mendocino County,22.7,2010
-Merced County,12.5,2010
-Modoc County,15.6,2010
-Mono County,29.9,2010
-Monterey County,23.4,2010
-Napa County,30.0,2010
-Nevada County,31.9,2010
-Orange County,36.0,2010
-Placer County,34.1,2010
-Plumas County,19.8,2010
-Riverside County,20.5,2010
-Sacramento County,27.8,2010
-San Benito County,18.3,2010
-San Bernardino County,18.4,2010
-San Diego County,34.1,2010
-San Francisco County,51.2,2010
-San Joaquin County,17.5,2010
-San Luis Obispo County,30.6,2010
-San Mateo County,44.0,2010
-Santa Barbara County,31.0,2010
-Santa Clara County,45.3,2010
-Santa Cruz County,37.3,2010
-Shasta County,20.0,2010
-Sierra County,23.0,2010
-Siskiyou County,22.6,2010
-Solano County,24.0,2010
-Sonoma County,31.5,2010
-Stanislaus County,16.3,2010
-Sutter County,18.7,2010
-Tehama County,12.6,2010
-Trinity County,19.5,2010
-Tulare County,13.0,2010
-Tuolumne County,17.3,2010
-Ventura County,30.8,2010
-Yolo County,37.8,2010
-Yuba County,12.5,2010
+County,Percent,Year,area_fips
+Alameda County,51.5,2023,6001
+Alpine County,42.1,2023,6003
+Amador County,22.4,2023,6005
+Butte County,31.7,2023,6007
+Calaveras County,22.2,2023,6009
+Colusa County,14.5,2023,6011
+Contra Costa County,44.9,2023,6013
+Del Norte County,21.0,2023,6015
+El Dorado County,38.8,2023,6017
+Fresno County,23.9,2023,6019
+Glenn County,16.5,2023,6021
+Humboldt County,32.1,2023,6023
+Imperial County,16.1,2023,6025
+Inyo County,31.8,2023,6027
+Kern County,18.6,2023,6029
+Kings County,13.9,2023,6031
+Lake County,17.7,2023,6033
+Lassen County,13.2,2023,6035
+Los Angeles County,35.5,2023,6037
+Madera County,17.1,2023,6039
+Marin County,60.5,2023,6041
+Mariposa County,30.9,2023,6043
+Mendocino County,24.9,2023,6045
+Merced County,14.8,2023,6047
+Modoc County,23.0,2023,6049
+Mono County,34.3,2023,6051
+Monterey County,27.9,2023,6053
+Napa County,38.5,2023,6055
+Nevada County,39.5,2023,6057
+Orange County,43.4,2023,6059
+Placer County,42.9,2023,6061
+Plumas County,20.5,2023,6063
+Riverside County,25.1,2023,6065
+Sacramento County,33.3,2023,6067
+San Benito County,22.4,2023,6069
+San Bernardino County,22.9,2023,6071
+San Diego County,42.1,2023,6073
+San Francisco County,60.1,2023,6075
+San Joaquin County,21.6,2023,6077
+San Luis Obispo County,39.2,2023,6079
+San Mateo County,53.1,2023,6081
+Santa Barbara County,35.9,2023,6083
+Santa Clara County,55.9,2023,6085
+Santa Cruz County,43.6,2023,6087
+Shasta County,23.3,2023,6089
+Sierra County,24.4,2023,6091
+Siskiyou County,23.1,2023,6093
+Solano County,28.4,2023,6095
+Sonoma County,37.8,2023,6097
+Stanislaus County,19.1,2023,6099
+Sutter County,20.2,2023,6101
+Tehama County,18.8,2023,6103
+Trinity County,18.0,2023,6105
+Tulare County,15.8,2023,6107
+Tuolumne County,23.9,2023,6109
+Ventura County,35.7,2023,6111
+Yolo County,44.1,2023,6113
+Yuba County,17.9,2023,6115
+Alameda County,50.9,2022,6001
+Alpine County,39.6,2022,6003
+Amador County,20.6,2022,6005
+Butte County,30.8,2022,6007
+Calaveras County,21.4,2022,6009
+Colusa County,14.3,2022,6011
+Contra Costa County,44.5,2022,6013
+Del Norte County,17.7,2022,6015
+El Dorado County,38.0,2022,6017
+Fresno County,23.4,2022,6019
+Glenn County,14.9,2022,6021
+Humboldt County,31.1,2022,6023
+Imperial County,15.9,2022,6025
+Inyo County,29.0,2022,6027
+Kern County,18.3,2022,6029
+Kings County,14.7,2022,6031
+Lake County,18.2,2022,6033
+Lassen County,12.1,2022,6035
+Los Angeles County,34.6,2022,6037
+Madera County,17.2,2022,6039
+Marin County,61.1,2022,6041
+Mariposa County,28.9,2022,6043
+Mendocino County,24.0,2022,6045
+Merced County,14.6,2022,6047
+Modoc County,23.8,2022,6049
+Mono County,31.7,2022,6051
+Monterey County,27.1,2022,6053
+Napa County,37.8,2022,6055
+Nevada County,38.8,2022,6057
+Orange County,42.8,2022,6059
+Placer County,42.4,2022,6061
+Plumas County,21.2,2022,6063
+Riverside County,24.1,2022,6065
+Sacramento County,32.6,2022,6067
+San Benito County,22.0,2022,6069
+San Bernardino County,22.4,2022,6071
+San Diego County,41.0,2022,6073
+San Francisco County,59.8,2022,6075
+San Joaquin County,20.3,2022,6077
+San Luis Obispo County,38.0,2022,6079
+San Mateo County,52.9,2022,6081
+Santa Barbara County,35.7,2022,6083
+Santa Clara County,55.3,2022,6085
+Santa Cruz County,42.5,2022,6087
+Shasta County,22.8,2022,6089
+Sierra County,23.9,2022,6091
+Siskiyou County,22.0,2022,6093
+Solano County,28.2,2022,6095
+Sonoma County,37.8,2022,6097
+Stanislaus County,18.2,2022,6099
+Sutter County,20.6,2022,6101
+Tehama County,18.2,2022,6103
+Trinity County,19.2,2022,6105
+Tulare County,15.6,2022,6107
+Tuolumne County,24.4,2022,6109
+Ventura County,34.7,2022,6111
+Yolo County,43.3,2022,6113
+Yuba County,17.4,2022,6115
+Alameda County,49.6,2021,6001
+Alpine County,39.3,2021,6003
+Amador County,19.5,2021,6005
+Butte County,29.8,2021,6007
+Calaveras County,19.9,2021,6009
+Colusa County,14.7,2021,6011
+Contra Costa County,44.1,2021,6013
+Del Norte County,16.1,2021,6015
+El Dorado County,36.8,2021,6017
+Fresno County,22.6,2021,6019
+Glenn County,14.9,2021,6021
+Humboldt County,31.2,2021,6023
+Imperial County,15.2,2021,6025
+Inyo County,27.3,2021,6027
+Kern County,17.6,2021,6029
+Kings County,14.3,2021,6031
+Lake County,17.5,2021,6033
+Lassen County,11.8,2021,6035
+Los Angeles County,34.0,2021,6037
+Madera County,16.4,2021,6039
+Marin County,60.1,2021,6041
+Mariposa County,28.9,2021,6043
+Mendocino County,24.5,2021,6045
+Merced County,14.1,2021,6047
+Modoc County,19.7,2021,6049
+Mono County,29.5,2021,6051
+Monterey County,26.5,2021,6053
+Napa County,37.0,2021,6055
+Nevada County,38.7,2021,6057
+Orange County,42.1,2021,6059
+Placer County,41.6,2021,6061
+Plumas County,23.0,2021,6063
+Riverside County,23.5,2021,6065
+Sacramento County,32.0,2021,6067
+San Benito County,20.5,2021,6069
+San Bernardino County,21.9,2021,6071
+San Diego County,40.3,2021,6073
+San Francisco County,59.5,2021,6075
+San Joaquin County,19.5,2021,6077
+San Luis Obispo County,36.7,2021,6079
+San Mateo County,52.5,2021,6081
+Santa Barbara County,35.1,2021,6083
+Santa Clara County,54.4,2021,6085
+Santa Cruz County,41.9,2021,6087
+Shasta County,22.6,2021,6089
+Sierra County,22.3,2021,6091
+Siskiyou County,21.5,2021,6093
+Solano County,27.8,2021,6095
+Sonoma County,37.1,2021,6097
+Stanislaus County,17.9,2021,6099
+Sutter County,20.0,2021,6101
+Tehama County,17.0,2021,6103
+Trinity County,18.6,2021,6105
+Tulare County,15.2,2021,6107
+Tuolumne County,24.6,2021,6109
+Ventura County,34.0,2021,6111
+Yolo County,43.1,2021,6113
+Yuba County,17.7,2021,6115
+Alameda County,48.7,2020,6001
+Alpine County,38.4,2020,6003
+Amador County,18.1,2020,6005
+Butte County,28.3,2020,6007
+Calaveras County,19.8,2020,6009
+Colusa County,14.9,2020,6011
+Contra Costa County,43.3,2020,6013
+Del Norte County,15.4,2020,6015
+El Dorado County,35.2,2020,6017
+Fresno County,22.0,2020,6019
+Glenn County,14.4,2020,6021
+Humboldt County,30.9,2020,6023
+Imperial County,15.4,2020,6025
+Inyo County,26.4,2020,6027
+Kern County,17.1,2020,6029
+Kings County,15.0,2020,6031
+Lake County,16.7,2020,6033
+Lassen County,12.7,2020,6035
+Los Angeles County,33.5,2020,6037
+Madera County,15.2,2020,6039
+Marin County,60.2,2020,6041
+Mariposa County,26.9,2020,6043
+Mendocino County,24.0,2020,6045
+Merced County,14.1,2020,6047
+Modoc County,18.2,2020,6049
+Mono County,32.1,2020,6051
+Monterey County,26.2,2020,6053
+Napa County,37.2,2020,6055
+Nevada County,37.6,2020,6057
+Orange County,41.2,2020,6059
+Placer County,40.8,2020,6061
+Plumas County,24.5,2020,6063
+Riverside County,23.2,2020,6065
+Sacramento County,31.4,2020,6067
+San Benito County,20.1,2020,6069
+San Bernardino County,21.4,2020,6071
+San Diego County,39.5,2020,6073
+San Francisco County,58.8,2020,6075
+San Joaquin County,19.2,2020,6077
+San Luis Obispo County,36.1,2020,6079
+San Mateo County,52.1,2020,6081
+Santa Barbara County,35.0,2020,6083
+Santa Clara County,53.5,2020,6085
+Santa Cruz County,41.8,2020,6087
+Shasta County,22.1,2020,6089
+Sierra County,19.4,2020,6091
+Siskiyou County,22.1,2020,6093
+Solano County,27.1,2020,6095
+Sonoma County,36.4,2020,6097
+Stanislaus County,17.7,2020,6099
+Sutter County,20.0,2020,6101
+Tehama County,17.4,2020,6103
+Trinity County,19.2,2020,6105
+Tulare County,14.5,2020,6107
+Tuolumne County,22.3,2020,6109
+Ventura County,33.9,2020,6111
+Yolo County,42.6,2020,6113
+Yuba County,18.0,2020,6115
+Alameda County,47.4,2019,6001
+Alpine County,34.5,2019,6003
+Amador County,19.3,2019,6005
+Butte County,27.2,2019,6007
+Calaveras County,18.3,2019,6009
+Colusa County,15.0,2019,6011
+Contra Costa County,42.4,2019,6013
+Del Norte County,14.8,2019,6015
+El Dorado County,34.3,2019,6017
+Fresno County,21.2,2019,6019
+Glenn County,14.2,2019,6021
+Humboldt County,30.4,2019,6023
+Imperial County,15.2,2019,6025
+Inyo County,27.2,2019,6027
+Kern County,16.4,2019,6029
+Kings County,14.7,2019,6031
+Lake County,15.5,2019,6033
+Lassen County,12.9,2019,6035
+Los Angeles County,32.5,2019,6037
+Madera County,14.6,2019,6039
+Marin County,59.5,2019,6041
+Mariposa County,24.6,2019,6043
+Mendocino County,24.4,2019,6045
+Merced County,13.8,2019,6047
+Modoc County,15.2,2019,6049
+Mono County,28.8,2019,6051
+Monterey County,24.7,2019,6053
+Napa County,35.7,2019,6055
+Nevada County,37.2,2019,6057
+Orange County,40.6,2019,6059
+Placer County,39.7,2019,6061
+Plumas County,23.7,2019,6063
+Riverside County,22.3,2019,6065
+Sacramento County,30.9,2019,6067
+San Benito County,19.7,2019,6069
+San Bernardino County,21.0,2019,6071
+San Diego County,38.8,2019,6073
+San Francisco County,58.1,2019,6075
+San Joaquin County,18.8,2019,6077
+San Luis Obispo County,35.4,2019,6079
+San Mateo County,51.0,2019,6081
+Santa Barbara County,34.2,2019,6083
+Santa Clara County,52.4,2019,6085
+Santa Cruz County,40.8,2019,6087
+Shasta County,22.2,2019,6089
+Sierra County,17.9,2019,6091
+Siskiyou County,23.2,2019,6093
+Solano County,26.9,2019,6095
+Sonoma County,35.5,2019,6097
+Stanislaus County,17.1,2019,6099
+Sutter County,18.2,2019,6101
+Tehama County,15.7,2019,6103
+Trinity County,19.5,2019,6105
+Tulare County,14.6,2019,6107
+Tuolumne County,20.5,2019,6109
+Ventura County,33.8,2019,6111
+Yolo County,41.4,2019,6113
+Yuba County,17.1,2019,6115
+Alameda County,46.0,2018,6001
+Alpine County,30.0,2018,6003
+Amador County,20.3,2018,6005
+Butte County,26.5,2018,6007
+Calaveras County,18.7,2018,6009
+Colusa County,15.4,2018,6011
+Contra Costa County,41.7,2018,6013
+Del Norte County,14.3,2018,6015
+El Dorado County,33.7,2018,6017
+Fresno County,20.7,2018,6019
+Glenn County,13.9,2018,6021
+Humboldt County,29.8,2018,6023
+Imperial County,14.5,2018,6025
+Inyo County,26.1,2018,6027
+Kern County,16.1,2018,6029
+Kings County,13.5,2018,6031
+Lake County,15.8,2018,6033
+Lassen County,12.0,2018,6035
+Los Angeles County,31.8,2018,6037
+Madera County,14.5,2018,6039
+Marin County,58.8,2018,6041
+Mariposa County,23.4,2018,6043
+Mendocino County,24.7,2018,6045
+Merced County,14.0,2018,6047
+Modoc County,15.9,2018,6049
+Mono County,30.6,2018,6051
+Monterey County,24.5,2018,6053
+Napa County,34.9,2018,6055
+Nevada County,36.6,2018,6057
+Orange County,39.9,2018,6059
+Placer County,38.6,2018,6061
+Plumas County,23.5,2018,6063
+Riverside County,21.8,2018,6065
+Sacramento County,30.4,2018,6067
+San Benito County,19.7,2018,6069
+San Bernardino County,20.3,2018,6071
+San Diego County,38.1,2018,6073
+San Francisco County,57.1,2018,6075
+San Joaquin County,18.4,2018,6077
+San Luis Obispo County,34.6,2018,6079
+San Mateo County,49.9,2018,6081
+Santa Barbara County,33.8,2018,6083
+Santa Clara County,51.3,2018,6085
+Santa Cruz County,40.0,2018,6087
+Shasta County,22.2,2018,6089
+Sierra County,18.7,2018,6091
+Siskiyou County,22.5,2018,6093
+Solano County,26.2,2018,6095
+Sonoma County,34.9,2018,6097
+Stanislaus County,16.9,2018,6099
+Sutter County,17.7,2018,6101
+Tehama County,15.5,2018,6103
+Trinity County,19.7,2018,6105
+Tulare County,14.3,2018,6107
+Tuolumne County,20.0,2018,6109
+Ventura County,33.1,2018,6111
+Yolo County,41.6,2018,6113
+Yuba County,16.7,2018,6115
+Alameda County,44.7,2017,6001
+Alpine County,25.6,2017,6003
+Amador County,22.1,2017,6005
+Butte County,26.6,2017,6007
+Calaveras County,19.3,2017,6009
+Colusa County,15.7,2017,6011
+Contra Costa County,40.7,2017,6013
+Del Norte County,14.4,2017,6015
+El Dorado County,33.3,2017,6017
+Fresno County,20.1,2017,6019
+Glenn County,13.0,2017,6021
+Humboldt County,29.4,2017,6023
+Imperial County,14.3,2017,6025
+Inyo County,25.3,2017,6027
+Kern County,15.8,2017,6029
+Kings County,13.0,2017,6031
+Lake County,15.3,2017,6033
+Lassen County,12.4,2017,6035
+Los Angeles County,31.2,2017,6037
+Madera County,13.8,2017,6039
+Marin County,57.5,2017,6041
+Mariposa County,24.4,2017,6043
+Mendocino County,24.8,2017,6045
+Merced County,13.8,2017,6047
+Modoc County,16.6,2017,6049
+Mono County,31.5,2017,6051
+Monterey County,23.9,2017,6053
+Napa County,34.6,2017,6055
+Nevada County,35.8,2017,6057
+Orange County,39.1,2017,6059
+Placer County,37.5,2017,6061
+Plumas County,22.6,2017,6063
+Riverside County,21.5,2017,6065
+Sacramento County,29.9,2017,6067
+San Benito County,19.2,2017,6069
+San Bernardino County,19.8,2017,6071
+San Diego County,37.4,2017,6073
+San Francisco County,55.8,2017,6075
+San Joaquin County,18.1,2017,6077
+San Luis Obispo County,34.0,2017,6079
+San Mateo County,48.5,2017,6081
+Santa Barbara County,33.3,2017,6083
+Santa Clara County,50.0,2017,6085
+Santa Cruz County,39.8,2017,6087
+Shasta County,21.4,2017,6089
+Sierra County,21.4,2017,6091
+Siskiyou County,22.7,2017,6093
+Solano County,25.6,2017,6095
+Sonoma County,33.8,2017,6097
+Stanislaus County,16.7,2017,6099
+Sutter County,17.5,2017,6101
+Tehama County,14.4,2017,6103
+Trinity County,19.5,2017,6105
+Tulare County,13.8,2017,6107
+Tuolumne County,20.6,2017,6109
+Ventura County,32.6,2017,6111
+Yolo County,40.6,2017,6113
+Yuba County,16.4,2017,6115
+Alameda County,43.9,2016,6001
+Alpine County,29.7,2016,6003
+Amador County,21.5,2016,6005
+Butte County,26.1,2016,6007
+Calaveras County,20.2,2016,6009
+Colusa County,14.4,2016,6011
+Contra Costa County,40.3,2016,6013
+Del Norte County,14.9,2016,6015
+El Dorado County,33.0,2016,6017
+Fresno County,19.7,2016,6019
+Glenn County,12.7,2016,6021
+Humboldt County,28.2,2016,6023
+Imperial County,14.0,2016,6025
+Inyo County,24.5,2016,6027
+Kern County,15.7,2016,6029
+Kings County,12.8,2016,6031
+Lake County,16.2,2016,6033
+Lassen County,12.5,2016,6035
+Los Angeles County,30.8,2016,6037
+Madera County,13.1,2016,6039
+Marin County,57.1,2016,6041
+Mariposa County,22.6,2016,6043
+Mendocino County,24.1,2016,6045
+Merced County,13.7,2016,6047
+Modoc County,18.3,2016,6049
+Mono County,30.6,2016,6051
+Monterey County,23.6,2016,6053
+Napa County,33.0,2016,6055
+Nevada County,34.4,2016,6057
+Orange County,38.4,2016,6059
+Placer County,36.9,2016,6061
+Plumas County,21.9,2016,6063
+Riverside County,21.2,2016,6065
+Sacramento County,29.3,2016,6067
+San Benito County,19.0,2016,6069
+San Bernardino County,19.3,2016,6071
+San Diego County,36.5,2016,6073
+San Francisco County,54.8,2016,6075
+San Joaquin County,18.2,2016,6077
+San Luis Obispo County,34.1,2016,6079
+San Mateo County,47.1,2016,6081
+Santa Barbara County,32.2,2016,6083
+Santa Clara County,49.1,2016,6085
+Santa Cruz County,39.0,2016,6087
+Shasta County,20.1,2016,6089
+Sierra County,19.8,2016,6091
+Siskiyou County,22.2,2016,6093
+Solano County,25.1,2016,6095
+Sonoma County,33.1,2016,6097
+Stanislaus County,16.5,2016,6099
+Sutter County,17.9,2016,6101
+Tehama County,13.8,2016,6103
+Trinity County,20.1,2016,6105
+Tulare County,14.0,2016,6107
+Tuolumne County,19.7,2016,6109
+Ventura County,32.2,2016,6111
+Yolo County,40.0,2016,6113
+Yuba County,15.5,2016,6115
+Alameda County,43.0,2015,6001
+Alpine County,27.5,2015,6003
+Amador County,21.3,2015,6005
+Butte County,25.9,2015,6007
+Calaveras County,20.9,2015,6009
+Colusa County,14.6,2015,6011
+Contra Costa County,39.6,2015,6013
+Del Norte County,15.1,2015,6015
+El Dorado County,32.1,2015,6017
+Fresno County,19.4,2015,6019
+Glenn County,14.9,2015,6021
+Humboldt County,28.0,2015,6023
+Imperial County,14.1,2015,6025
+Inyo County,23.9,2015,6027
+Kern County,15.4,2015,6029
+Kings County,13.4,2015,6031
+Lake County,16.0,2015,6033
+Lassen County,12.3,2015,6035
+Los Angeles County,30.3,2015,6037
+Madera County,13.3,2015,6039
+Marin County,55.8,2015,6041
+Mariposa County,22.1,2015,6043
+Mendocino County,23.7,2015,6045
+Merced County,13.1,2015,6047
+Modoc County,18.0,2015,6049
+Mono County,32.3,2015,6051
+Monterey County,23.1,2015,6053
+Napa County,32.4,2015,6055
+Nevada County,33.7,2015,6057
+Orange County,37.7,2015,6059
+Placer County,36.4,2015,6061
+Plumas County,22.0,2015,6063
+Riverside County,20.9,2015,6065
+Sacramento County,28.8,2015,6067
+San Benito County,19.0,2015,6069
+San Bernardino County,19.0,2015,6071
+San Diego County,35.7,2015,6073
+San Francisco County,53.8,2015,6075
+San Joaquin County,18.4,2015,6077
+San Luis Obispo County,33.0,2015,6079
+San Mateo County,45.6,2015,6081
+Santa Barbara County,32.2,2015,6083
+Santa Clara County,47.9,2015,6085
+Santa Cruz County,38.2,2015,6087
+Shasta County,19.6,2015,6089
+Sierra County,18.9,2015,6091
+Siskiyou County,22.7,2015,6093
+Solano County,24.9,2015,6095
+Sonoma County,32.9,2015,6097
+Stanislaus County,16.5,2015,6099
+Sutter County,17.6,2015,6101
+Tehama County,14.4,2015,6103
+Trinity County,20.0,2015,6105
+Tulare County,13.8,2015,6107
+Tuolumne County,20.4,2015,6109
+Ventura County,31.7,2015,6111
+Yolo County,39.0,2015,6113
+Yuba County,14.3,2015,6115
+Alameda County,42.1,2014,6001
+Alpine County,30.5,2014,6003
+Amador County,20.5,2014,6005
+Butte County,25.0,2014,6007
+Calaveras County,21.1,2014,6009
+Colusa County,14.3,2014,6011
+Contra Costa County,39.4,2014,6013
+Del Norte County,16.0,2014,6015
+El Dorado County,32.1,2014,6017
+Fresno County,19.5,2014,6019
+Glenn County,15.7,2014,6021
+Humboldt County,27.5,2014,6023
+Imperial County,13.4,2014,6025
+Inyo County,21.4,2014,6027
+Kern County,15.2,2014,6029
+Kings County,12.5,2014,6031
+Lake County,16.2,2014,6033
+Lassen County,12.9,2014,6035
+Los Angeles County,29.9,2014,6037
+Madera County,13.5,2014,6039
+Marin County,54.8,2014,6041
+Mariposa County,22.4,2014,6043
+Mendocino County,22.5,2014,6045
+Merced County,13.0,2014,6047
+Modoc County,18.5,2014,6049
+Mono County,33.3,2014,6051
+Monterey County,23.1,2014,6053
+Napa County,31.9,2014,6055
+Nevada County,32.8,2014,6057
+Orange County,37.3,2014,6059
+Placer County,35.7,2014,6061
+Plumas County,22.7,2014,6063
+Riverside County,20.8,2014,6065
+Sacramento County,28.2,2014,6067
+San Benito County,19.0,2014,6069
+San Bernardino County,18.8,2014,6071
+San Diego County,35.1,2014,6073
+San Francisco County,52.9,2014,6075
+San Joaquin County,18.1,2014,6077
+San Luis Obispo County,32.1,2014,6079
+San Mateo County,45.0,2014,6081
+Santa Barbara County,31.4,2014,6083
+Santa Clara County,47.3,2014,6085
+Santa Cruz County,37.5,2014,6087
+Shasta County,19.1,2014,6089
+Sierra County,19.0,2014,6091
+Siskiyou County,24.0,2014,6093
+Solano County,24.3,2014,6095
+Sonoma County,32.6,2014,6097
+Stanislaus County,16.4,2014,6099
+Sutter County,18.5,2014,6101
+Tehama County,14.1,2014,6103
+Trinity County,22.0,2014,6105
+Tulare County,13.3,2014,6107
+Tuolumne County,19.8,2014,6109
+Ventura County,31.6,2014,6111
+Yolo County,38.3,2014,6113
+Yuba County,14.2,2014,6115
+Alameda County,41.8,2013,6001
+Alpine County,31.2,2013,6003
+Amador County,19.3,2013,6005
+Butte County,24.4,2013,6007
+Calaveras County,21.2,2013,6009
+Colusa County,13.8,2013,6011
+Contra Costa County,39.0,2013,6013
+Del Norte County,14.0,2013,6015
+El Dorado County,32.0,2013,6017
+Fresno County,19.6,2013,6019
+Glenn County,14.6,2013,6021
+Humboldt County,27.5,2013,6023
+Imperial County,13.3,2013,6025
+Inyo County,21.4,2013,6027
+Kern County,15.0,2013,6029
+Kings County,12.9,2013,6031
+Lake County,16.2,2013,6033
+Lassen County,13.1,2013,6035
+Los Angeles County,29.7,2013,6037
+Madera County,13.6,2013,6039
+Marin County,54.6,2013,6041
+Mariposa County,21.3,2013,6043
+Mendocino County,22.0,2013,6045
+Merced County,12.6,2013,6047
+Modoc County,18.7,2013,6049
+Mono County,29.8,2013,6051
+Monterey County,23.0,2013,6053
+Napa County,31.3,2013,6055
+Nevada County,32.3,2013,6057
+Orange County,36.8,2013,6059
+Placer County,35.1,2013,6061
+Plumas County,22.6,2013,6063
+Riverside County,20.5,2013,6065
+Sacramento County,28.0,2013,6067
+San Benito County,18.2,2013,6069
+San Bernardino County,18.7,2013,6071
+San Diego County,34.6,2013,6073
+San Francisco County,52.4,2013,6075
+San Joaquin County,18.1,2013,6077
+San Luis Obispo County,31.5,2013,6079
+San Mateo County,44.4,2013,6081
+Santa Barbara County,31.3,2013,6083
+Santa Clara County,46.5,2013,6085
+Santa Cruz County,37.0,2013,6087
+Shasta County,18.8,2013,6089
+Sierra County,18.5,2013,6091
+Siskiyou County,23.9,2013,6093
+Solano County,24.3,2013,6095
+Sonoma County,32.2,2013,6097
+Stanislaus County,16.4,2013,6099
+Sutter County,18.7,2013,6101
+Tehama County,13.5,2013,6103
+Trinity County,21.3,2013,6105
+Tulare County,13.3,2013,6107
+Tuolumne County,19.5,2013,6109
+Ventura County,31.4,2013,6111
+Yolo County,37.9,2013,6113
+Yuba County,13.7,2013,6115
+Alameda County,41.1,2012,6001
+Alpine County,31.7,2012,6003
+Amador County,18.8,2012,6005
+Butte County,24.0,2012,6007
+Calaveras County,20.8,2012,6009
+Colusa County,13.5,2012,6011
+Contra Costa County,38.6,2012,6013
+Del Norte County,13.8,2012,6015
+El Dorado County,31.3,2012,6017
+Fresno County,19.4,2012,6019
+Glenn County,15.4,2012,6021
+Humboldt County,26.4,2012,6023
+Imperial County,13.2,2012,6025
+Inyo County,21.0,2012,6027
+Kern County,14.9,2012,6029
+Kings County,12.4,2012,6031
+Lake County,16.8,2012,6033
+Lassen County,13.5,2012,6035
+Los Angeles County,29.5,2012,6037
+Madera County,13.9,2012,6039
+Marin County,54.6,2012,6041
+Mariposa County,19.9,2012,6043
+Mendocino County,21.4,2012,6045
+Merced County,12.5,2012,6047
+Modoc County,19.4,2012,6049
+Mono County,29.1,2012,6051
+Monterey County,23.2,2012,6053
+Napa County,31.2,2012,6055
+Nevada County,32.7,2012,6057
+Orange County,36.6,2012,6059
+Placer County,34.7,2012,6061
+Plumas County,22.9,2012,6063
+Riverside County,20.5,2012,6065
+Sacramento County,27.9,2012,6067
+San Benito County,18.4,2012,6069
+San Bernardino County,18.6,2012,6071
+San Diego County,34.4,2012,6073
+San Francisco County,52.0,2012,6075
+San Joaquin County,17.9,2012,6077
+San Luis Obispo County,31.5,2012,6079
+San Mateo County,43.9,2012,6081
+Santa Barbara County,31.5,2012,6083
+Santa Clara County,46.0,2012,6085
+Santa Cruz County,37.5,2012,6087
+Shasta County,19.3,2012,6089
+Sierra County,16.7,2012,6091
+Siskiyou County,23.1,2012,6093
+Solano County,24.2,2012,6095
+Sonoma County,32.1,2012,6097
+Stanislaus County,16.3,2012,6099
+Sutter County,18.4,2012,6101
+Tehama County,13.1,2012,6103
+Trinity County,19.7,2012,6105
+Tulare County,13.3,2012,6107
+Tuolumne County,17.4,2012,6109
+Ventura County,31.2,2012,6111
+Yolo County,38.0,2012,6113
+Yuba County,13.6,2012,6115
+Alameda County,40.8,2011,6001
+Alpine County,32.0,2011,6003
+Amador County,18.8,2011,6005
+Butte County,24.0,2011,6007
+Calaveras County,20.7,2011,6009
+Colusa County,13.0,2011,6011
+Contra Costa County,38.4,2011,6013
+Del Norte County,14.3,2011,6015
+El Dorado County,30.8,2011,6017
+Fresno County,19.5,2011,6019
+Glenn County,15.5,2011,6021
+Humboldt County,26.3,2011,6023
+Imperial County,12.8,2011,6025
+Inyo County,22.5,2011,6027
+Kern County,14.6,2011,6029
+Kings County,12.5,2011,6031
+Lake County,16.2,2011,6033
+Lassen County,12.4,2011,6035
+Los Angeles County,29.2,2011,6037
+Madera County,14.0,2011,6039
+Marin County,54.0,2011,6041
+Mariposa County,20.5,2011,6043
+Mendocino County,22.1,2011,6045
+Merced County,12.3,2011,6047
+Modoc County,16.2,2011,6049
+Mono County,30.3,2011,6051
+Monterey County,23.2,2011,6053
+Napa County,30.7,2011,6055
+Nevada County,32.4,2011,6057
+Orange County,36.2,2011,6059
+Placer County,34.6,2011,6061
+Plumas County,21.1,2011,6063
+Riverside County,20.6,2011,6065
+Sacramento County,27.7,2011,6067
+San Benito County,18.3,2011,6069
+San Bernardino County,18.6,2011,6071
+San Diego County,34.2,2011,6073
+San Francisco County,51.4,2011,6075
+San Joaquin County,17.6,2011,6077
+San Luis Obispo County,30.8,2011,6079
+San Mateo County,43.9,2011,6081
+Santa Barbara County,31.3,2011,6083
+Santa Clara County,45.5,2011,6085
+Santa Cruz County,38.1,2011,6087
+Shasta County,19.7,2011,6089
+Sierra County,18.6,2011,6091
+Siskiyou County,22.6,2011,6093
+Solano County,24.2,2011,6095
+Sonoma County,31.8,2011,6097
+Stanislaus County,16.4,2011,6099
+Sutter County,18.9,2011,6101
+Tehama County,12.6,2011,6103
+Trinity County,19.3,2011,6105
+Tulare County,12.9,2011,6107
+Tuolumne County,17.9,2011,6109
+Ventura County,31.0,2011,6111
+Yolo County,38.4,2011,6113
+Yuba County,12.7,2011,6115
+Alameda County,40.3,2010,6001
+Alpine County,29.7,2010,6003
+Amador County,19.0,2010,6005
+Butte County,24.1,2010,6007
+Calaveras County,19.6,2010,6009
+Colusa County,11.7,2010,6011
+Contra Costa County,38.2,2010,6013
+Del Norte County,14.3,2010,6015
+El Dorado County,31.1,2010,6017
+Fresno County,19.7,2010,6019
+Glenn County,16.2,2010,6021
+Humboldt County,26.3,2010,6023
+Imperial County,12.2,2010,6025
+Inyo County,20.9,2010,6027
+Kern County,14.7,2010,6029
+Kings County,11.8,2010,6031
+Lake County,16.4,2010,6033
+Lassen County,12.4,2010,6035
+Los Angeles County,29.0,2010,6037
+Madera County,13.5,2010,6039
+Marin County,54.1,2010,6041
+Mariposa County,20.4,2010,6043
+Mendocino County,22.7,2010,6045
+Merced County,12.5,2010,6047
+Modoc County,15.6,2010,6049
+Mono County,29.9,2010,6051
+Monterey County,23.4,2010,6053
+Napa County,30.0,2010,6055
+Nevada County,31.9,2010,6057
+Orange County,36.0,2010,6059
+Placer County,34.1,2010,6061
+Plumas County,19.8,2010,6063
+Riverside County,20.5,2010,6065
+Sacramento County,27.8,2010,6067
+San Benito County,18.3,2010,6069
+San Bernardino County,18.4,2010,6071
+San Diego County,34.1,2010,6073
+San Francisco County,51.2,2010,6075
+San Joaquin County,17.5,2010,6077
+San Luis Obispo County,30.6,2010,6079
+San Mateo County,44.0,2010,6081
+Santa Barbara County,31.0,2010,6083
+Santa Clara County,45.3,2010,6085
+Santa Cruz County,37.3,2010,6087
+Shasta County,20.0,2010,6089
+Sierra County,23.0,2010,6091
+Siskiyou County,22.6,2010,6093
+Solano County,24.0,2010,6095
+Sonoma County,31.5,2010,6097
+Stanislaus County,16.3,2010,6099
+Sutter County,18.7,2010,6101
+Tehama County,12.6,2010,6103
+Trinity County,19.5,2010,6105
+Tulare County,13.0,2010,6107
+Tuolumne County,17.3,2010,6109
+Ventura County,30.8,2010,6111
+Yolo County,37.8,2010,6113
+Yuba County,12.5,2010,6115

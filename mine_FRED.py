@@ -21,5 +21,11 @@ if df['Year'].min() > year_min or df['Year'].max() < year_max:
 # Remove ', CA' from the County column
 df['County'] = df['County'].str.replace(', CA$', '', regex=True)
 
+# Add state and county names to the DataFrame
+county_names_df = pd.read_csv('FCC\\ca_fips_county_names.csv')
 
-df.to_csv("Wrangled_FRED_California_County_Education.csv", index=False)
+# Merge the county names DataFrame with the filtered California counties DataFrame
+merged_df = pd.merge(df, county_names_df, on='County')
+
+# Save the merged DataFrame to a new CSV file
+merged_df.to_csv("Wrangled_FRED_California_County_Education.csv", index=False)

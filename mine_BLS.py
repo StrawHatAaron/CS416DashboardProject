@@ -54,7 +54,7 @@ california_county_filtered_df = total_filtered_df[total_filtered_df['area_fips']
 california_county_filtered_df = california_county_filtered_df[california_county_filtered_df['area_fips'].str.endswith('000') == False]
 
 # Add state and county names to the DataFrame
-county_names_df = pd.read_csv('BLS\\FCC\\ca_fips_county_names.csv')
+county_names_df = pd.read_csv('FCC\\ca_fips_county_names.csv')
 # Ensure the area_fips column in county_names_df is of type string and same format lenth for merge
 county_names_df['area_fips'] = county_names_df['area_fips'].apply(lambda x: f'0{x}' if len(str(x)) == 4 else str(x))    
 
