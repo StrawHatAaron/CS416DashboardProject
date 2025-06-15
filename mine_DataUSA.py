@@ -4,19 +4,22 @@ import pandas as pd
 df = pd.read_csv("DataUSA\\Income by Location.csv")
 
 # Filter out race based data
-filtered_df = df[df['Race'] == 'Total']
+# filtered_df = df[df['Race'] == 'Total']
 
 # Filter out uneeded columnss
-filtered_df = filtered_df[['ID Year',
-                           'Household Income by Race', 
-                           'Household Income by Race Moe', 
-                           'Geography', 
-                           'ID Geography', 
-                           'Slug Geography']]
+df = df[[  
+                'ID Year',
+                'Race',
+                'Household Income by Race', 
+                'Household Income by Race Moe', 
+                'Geography', 
+                'ID Geography', 
+                'Slug Geography']]
 
 # Rename some columns for clarity and drop some unnecessary ones
-filtered_df.rename(columns={
+df.rename(columns={
     'ID Year': 'Year',
+    'Race': 'Race',
     'Household Income by Race': 'Median Household Income',
     'Household Income by Race Moe': 'Median Household Income Margin of Error',
     'Geography': 'County',
@@ -25,10 +28,10 @@ filtered_df.rename(columns={
 }, inplace=True)
 
 # Filter out the string ", CA" from the column 'County'
-filtered_df['County'] = filtered_df['County'].str.replace(r', CA$', '', regex=True)
+df['County'] = df['County'].str.replace(r', CA$', '', regex=True)
 
-# Add a new column for area_fips to represent the FIPS code
-filtered_df['area_fips'] = filtered_df['ID Geography'].str.replace('05000US', '', regex=True)
+# # Add a new column for area_fips to represent the FIPS code
+df['area_fips'] = df['ID Geography'].str.replace('05000US', '', regex=False)
 
-# Save the filtered DataFrame to a new CSV file
-filtered_df.to_csv("wrangled_DataUSA_ca_county_housing.csv", index=False)
+# # Save the filtered DataFrame to a new CSV file
+df.to_csv("Wrangled_DataUSA_California_County_Housing.csv", index=False)

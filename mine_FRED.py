@@ -22,4 +22,4 @@ if df['Year'].min() > year_min or df['Year'].max() < year_max:
 df['County'] = df['County'].str.replace(', CA$', '', regex=True)
 
 
-df.to_csv("wrangled_FRED_ca_county_education.csv", index=False)
+df.to_csv("Wrangled_FRED_California_County_Education.csv", index=False)
