@@ -24,10 +24,10 @@ Attributes in  Table 1
 | Attribute Name| Attribute Definition|
 | :------- | :----------------- |
 |**County**| CA Counties|
-|**Percent_of_Adults_with_Bachelors_or_Higher**| Predicted percent of adult population that recieved a bachelors degree or higher.|
+|**Percent of Adults with Bachelors or Higher**| Predicted percent of adult population that recieved a bachelors degree or higher.|
 |**Year**| The year the data was gathered for that record|
-|**area_fips**| Geographic County locations within California|
-|**Bachelor_Degree_Quartile**| Quartiles for Percent_of_Adults_with_Bachelors_or_Higher|
+|**Area FIPs**| Geographic County locations within California|
+|**Bachelor DegOrHigher Quartiles by each Year**| Quartiles for Percent_of_Adults_with_Bachelors_or_Higher respective to that year|
 
 ---------------------------------------------------------------------------------------------------------------------
 
@@ -46,12 +46,12 @@ Attributes in  Table 2
 | Attribute Name| Attribute Definition|
 | :-------| :-----------------|
 | **Year**| The year the data was gathered for that record|
-|**Race**| Race for household (Total, White, Black, Native American, Asian, Pacific Islander, Other, Two or More, White Non-Hispanic, Hispanic)|
 |**Median Household Income**| Median Household Income in US Dollars for that Race, County and Year record|
 | **Median Household Income Margin of Error**| Median Household Income Margin of Error|
 |**County**| Any of the 58 Counties in California|
 |**ID Geography**| Global Geographic Identifier|
-|**area_fips**| Geographic County locations within California|
+|**Area FIPs**| Geographic County locations within California|
+|**Median Household Income Quartiles by each Year**| For each year a respective Median Household Income Quartile is assigned|
 
 ---------------------------------------------------------------------------------------------------------------------
 
@@ -89,6 +89,7 @@ Attributes in Table 3 derived from these [Definitions](https://www.bls.gov/cew/a
 |**oty_total_annual_wages_pct_chg**| Over-the-year percent change in total annual wages for a given year (Rounded to the tenths place) |
 |**oty_taxable_annual_wages_chg**| Over-the-year change in taxable annual wages for a given year |
 |**oty_taxable_annual_wages_pct_chg**| Over-the-year percent change in taxable annual wages for a given year (Rounded to the tenths place)|
+|**Annual_Wage_Quartiles_by_each_Year**| For each year every County is assigned a respective quartile by on avg_annual_pay|
 
 ---------------------------------------------------------------------------------------------------------------------
 
