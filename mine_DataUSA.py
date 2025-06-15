@@ -63,5 +63,13 @@ df['Median Household Income Quartiles by each Year'] = df.groupby('Year')['Media
 #         })
 #         df = pd.concat([df, missing_data], ignore_index=True)
 
+
+# Print the average of average_household_income by year and county
+average_household_income_by_year = df.groupby(['County'])['Median Household Income'].mean()
+print("Average Household Income by year and county:")
+print(average_household_income_by_year)
+# Save the average household income by year and county to a CSV file for validation
+average_household_income_by_year.to_csv("Validation_Averages/Average_Household_Income_by_Year_and_County.csv", index=False)
+
 # # Save the filtered DataFrame to a new CSV file
 df.to_csv("Wrangled_DataUSA_California_County_Housing.csv", index=False)

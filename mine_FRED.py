@@ -6,7 +6,7 @@ import pandas as pd
 # Load the Excel file from the FRED directory data from 2010 to 2023
 df = pd.read_excel('FRED\\CA_Education_by_County_over_Years.xlsx', sheet_name='Sheet1')
 
-# Validate all 58 counties are present for each year
+# Validation: Validate all 58 counties are present for each year
 expected_counties = 58
 for year in df['Year'].unique():
     # Count the number of unique counties for the current year
@@ -15,7 +15,7 @@ for year in df['Year'].unique():
     if counties_in_year != expected_counties:
         print(f"Warning: Not all counties are present for the year {year}. Expected {expected_counties}, found {counties_in_year}.")
 
-# Validate the Year column is between 2010 and 2023
+# Validation:Validate the Year column is between 2010 and 2023
 year_min = 2010
 year_max = 2023
 if df['Year'].min() > year_min or df['Year'].max() < year_max:
@@ -50,7 +50,14 @@ merged_df['Bachelor DegOrHigher Quartiles by each Year'] = merged_df.groupby('Ye
     )
 )
 
+# Sort for some manual validation with my eyes
 final_df = merged_df.sort_values(by=['Year', 'Bachelor DegOrHigher Quartiles by each Year']).reset_index(drop=True)
+
+# Validation: Print the average of each County's Percent of Adults with Bachelors or Higher for each year 
+average_bachelors_by_year = final_df.groupby(['County'])['Percent of Adults with Bachelors or Higher'].mean()
+print("Average percent of adults with Bachelors or Higher by year and county:")
+print(average_bachelors_by_year)
+average_bachelors_by_year.to_csv("Validation_Averages/Average_Bachelors_or_Higher_by_Year_and_County.csv")
 
 # Save the merged DataFrame to a new CSV file
 final_df.to_csv("Wrangled_FRED_California_County_Education.csv", index=False)

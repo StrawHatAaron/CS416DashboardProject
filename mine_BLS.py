@@ -74,5 +74,12 @@ final_california_county_filtered_df['Annual_Wage_Quartiles_by_each_Year'] = fina
 )
  
 
+# Print the average of avg_annual_pay for each year by county
+average_annual_pay_by_year = final_california_county_filtered_df.groupby(['County'])['avg_annual_pay'].mean()
+print("Average annual pay by year and county:")
+print(average_annual_pay_by_year)
+# Save the average annual pay by year and county to a CSV file for validation
+average_annual_pay_by_year.to_csv("Validation_Averages/Average_Annual_Pay_by_Year_and_County.csv", index=False)
+
 # Save the filtered DataFrame for California counties to a new CSV file
 final_california_county_filtered_df.to_csv('Wrangled_BLS_California_County_Average_Income.csv', index=False)
