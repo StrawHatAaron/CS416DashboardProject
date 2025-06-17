@@ -48,26 +48,10 @@ df['Median Household Income Quartiles by each Year'] = df.groupby('Year')['Media
     )
 )
 
-# Fill empty records for years 2010 to 2012
-# for year in range(2010, 2013):
-#     if year not in df['Year'].values:
-#         # Create a new DataFrame for the missing year with NaN values
-#         missing_data = pd.DataFrame({
-#             'Year': [year] * 58,
-#             'Median Household Income': ["Not Reported"] * 58,
-#             'Median Household Income Margin of Error': ["Not Reported"] * 58,
-#             'County': df['County'].unique(),
-#             'ID Geography': df['ID Geography'].unique(),
-#             'Area FIPs': df['Area FIPs'].unique(),
-#             'Median Household Income Quartiles by each Year': [None] * 58
-#         })
-#         df = pd.concat([df, missing_data], ignore_index=True)
-
-
 # Print the average of average_household_income by year and county
 average_household_income_by_year = df.groupby(['County'])['Median Household Income'].mean()
-print("Average Household Income by year and county:")
-print(average_household_income_by_year)
+# print("Average Household Income by year and county:")
+# print(average_household_income_by_year)
 # Save the average household income by year and county to a CSV file for validation
 average_household_income_by_year.to_csv("Validation_Averages/Average_Household_Income_by_Year_and_County.csv", index=False)
 

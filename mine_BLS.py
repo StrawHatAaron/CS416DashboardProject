@@ -7,7 +7,7 @@ import pandas as pd
 # Intialize an empty DataFrame outside the For loop scope
 total_filtered_df = pd.DataFrame()
 # Define the range of years for which Data USA and BLS CSV files are available and matching
-csv_year_range = range(2010, 2024)  # can go from 1990 to 2023
+csv_year_range = range(2013, 2024)  # can go from 1990 to 2023
 
 # Loop through the specified years to load multiple CSV files
 for year in csv_year_range:
@@ -73,11 +73,32 @@ final_california_county_filtered_df['Annual_Wage_Quartiles_by_each_Year'] = fina
     )
 )
  
+# Rename some columns for clarity
+final_california_county_filtered_df.rename(columns={
+    'area_fips': 'Area FIPs',
+    'County': 'County',
+    'own_code': 'Ownership Code',
+    'industry_code': 'Industry Code',
+    'agglvl_code': 'Agglomeration Level Code',
+    'size_code': 'Size Code',
+    'year': 'Year',
+    'annual_avg_emplvl': 'Annual Average Employment Level',
+    'total_annual_wages': 'Total Annual Wages',
+    'taxable_annual_wages': 'Taxable Annual Wages',
+    'annual_contributions': 'Annual Contributions',
+    'annual_avg_wkly_wage': 'Annual Average Weekly Wage',
+    'avg_annual_pay': 'Average Annual Pay',
+    'oty_total_annual_wages_chg': 'Over-the-Year Total Annual Wages Change',
+    'oty_total_annual_wages_pct_chg': 'Over-the-Year Total Annual Wages Percent Change',
+    'oty_taxable_annual_wages_chg': 'Over-the-Year Taxable Annual Wages Change',
+    'oty_taxable_annual_wages_pct_chg': 'Over-the-Year Taxable Annual Wages Percent Change',
+    'Annual_Wage_Quartiles_by_each_Year': 'Average Annual Wage Quartiles by each Year'
+}, inplace=True)
 
 # Print the average of avg_annual_pay for each year by county
-average_annual_pay_by_year = final_california_county_filtered_df.groupby(['County'])['avg_annual_pay'].mean()
-print("Average annual pay by year and county:")
-print(average_annual_pay_by_year)
+average_annual_pay_by_year = final_california_county_filtered_df.groupby(['County'])['Average Annual Pay'].mean()
+# print("Average annual pay by year and county:")
+# print(average_annual_pay_by_year)
 # Save the average annual pay by year and county to a CSV file for validation
 average_annual_pay_by_year.to_csv("Validation_Averages/Average_Annual_Pay_by_Year_and_County.csv", index=False)
 
