@@ -2,7 +2,62 @@
 
 ## Aaron Miller -  CS 416 Data Visualization - Dashboard Project - Summer 2025 - Professor John C. Hart
 
+
+---------------------------------------------------------------------------------------------------------------------
+
 I can make income and education  quartiles
+
+``` Tableau
+IF [Year] = 2013 THEN
+    IF [Percent of Adults with Bachelors or Higher] > 21.70 THEN "Upper Half of Bachelor/Higher Education"
+    ELSE "Lower Half of Bachelor/Higher Education"
+    END
+ELSEIF [Year] = 2014 THEN
+    IF [Percent of Adults with Bachelors or Higher] > 22.45 THEN "Upper Half of Bachelor/Higher Education"
+    ELSE "Lower Half of Bachelor/Higher Education"
+    END
+ELSEIF [Year] = 2015 THEN
+    IF [Percent of Adults with Bachelors or Higher] > 22.40 THEN "Upper Half of Bachelor/Higher Education"
+    ELSE "Lower Half of Bachelor/Higher Education"
+    END
+ELSEIF [Year] = 2016 THEN
+    IF [Percent of Adults with Bachelors or Higher] > 22.40 THEN "Upper Half of Bachelor/Higher Education"
+    ELSE "Lower Half of Bachelor/Higher Education"
+    END
+ELSEIF [Year] = 2017 THEN
+    IF [Percent of Adults with Bachelors or Higher] > 23.30 THEN "Upper Half of Bachelor/Higher Education"
+    ELSE "Lower Half of Bachelor/Higher Education"
+    END
+ELSEIF [Year] = 2018 THEN
+    IF [Percent of Adults with Bachelors or Higher] > 23.45 THEN "Upper Half of Bachelor/Higher Education"
+    ELSE "Lower Half of Bachelor/Higher Education"
+    END
+ELSEIF [Year] = 2019 THEN
+    IF [Percent of Adults with Bachelors or Higher] > 24.05 THEN "Upper Half of Bachelor/Higher Education"
+    ELSE "Lower Half of Bachelor/Higher Education"
+    END
+ELSEIF [Year] = 2020 THEN
+    IF [Percent of Adults with Bachelors or Higher] > 24.25 THEN "Upper Half of Bachelor/Higher Education"
+    ELSE "Lower Half of Bachelor/Higher Education"
+    END
+ELSEIF [Year] = 2021 THEN
+    IF [Percent of Adults with Bachelors or Higher] > 24.55 THEN "Upper Half of Bachelor/Higher Education"
+    ELSE "Lower Half of Bachelor/Higher Education"
+    END
+ELSEIF [Year] = 2022 THEN
+    IF [Percent of Adults with Bachelors or Higher] > 24.25 THEN "Upper Half of Bachelor/Higher Education"
+    ELSE "Lower Half of Bachelor/Higher Education"
+    END
+ELSEIF [Year] = 2023 THEN
+    IF [Percent of Adults with Bachelors or Higher] > 25.00 THEN "Upper Half of Bachelor/Higher Education"
+    ELSE "Lower Half of Bachelor/Higher Education"
+    END
+ELSE
+    IF [Percent of Adults with Bachelors or Higher] > 23.65 THEN "Upper Half of the pain in my @"
+    ELSE "What a pain"
+    END
+END
+```
 
 ---------------------------------------------------------------------------------------------------------------------
 
