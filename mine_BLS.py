@@ -27,10 +27,7 @@ for year in csv_year_range:
 
 # Filter the DataFrame to keep only the specified columns
 total_filtered_df = total_filtered_df[[
-                                       'area_fips', 
-                                       'own_code',
-                                       'industry_code',
-                                       'agglvl_code',
+                                       'area_fips',
                                        'size_code',
                                        'year',
                                        'annual_avg_emplvl',
@@ -43,6 +40,8 @@ total_filtered_df = total_filtered_df[[
                                        'oty_total_annual_wages_pct_chg',
                                        'oty_taxable_annual_wages_chg',
                                        'oty_taxable_annual_wages_pct_chg',
+                                       'oty_avg_annual_pay_chg',
+                                       'oty_avg_annual_pay_pct_chg',
                                        ]]
 
 # Pre-pend a 0 to the area_fips columns that have a length of 4
@@ -67,22 +66,19 @@ final_california_county_filtered_df = pd.merge(county_names_df, california_count
 final_california_county_filtered_df.rename(columns={
     'area_fips': 'Area FIPs',
     'County': 'County',
-    # 'own_code': 'Ownership Code',
-    # 'industry_code': 'Industry Code',
-    # 'agglvl_code': 'Aggregation Level Code',
-    # 'size_code': 'Size Code',
     'year': 'Year',
     'annual_avg_emplvl': 'Annual Average Number of Workers Employed',
     'total_annual_wages': 'Total Annual Wages',
     'taxable_annual_wages': 'Taxable Annual Wages',
     'annual_contributions': 'Annual Contributions',
-    'annual_avg_wkly_wage': 'Annual Average Weekly Wage',
+    'annual_avg_wkly_wage': 'Annual Average Weekly Wages',
     'avg_annual_pay': 'Average Annual Pay',
     'oty_total_annual_wages_chg': 'Over-the-Year Total Annual Wages Change',
     'oty_total_annual_wages_pct_chg': 'Over-the-Year Total Annual Wages Percent Change',
     'oty_taxable_annual_wages_chg': 'Over-the-Year Taxable Annual Wages Change',
     'oty_taxable_annual_wages_pct_chg': 'Over-the-Year Taxable Annual Wages Percent Change',
-    # 'Annual_Wage_Quartiles_by_each_Year': 'Average Annual Wage Quartiles by each Year'
+    'oty_avg_annual_pay_chg': 'Over-the-Year Average Annual Pay Change',
+    'oty_avg_annual_pay_pct_chg': 'Over-the-Year Average Annual Pay Percent Change'
 }, inplace=True)
 
 # Print the average of avg_annual_pay for each year by county
