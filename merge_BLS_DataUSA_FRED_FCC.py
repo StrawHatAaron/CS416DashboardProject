@@ -26,35 +26,19 @@ df = pd.merge(df, df_FRED, on=['County', 'Year', 'Area FIPs'], how='outer', suff
 mean_values_df = df.groupby('County').mean(numeric_only=True)
 mean_values_df['Year'] = 'All Years'
 
-
-
-
-
-
-
-
 # Add state and county names to the DataFrame
 county_names_df = pd.read_csv('FCC\\ca_fips_county_names.csv')
 
-# rename 'area_fip,s' column to 'Area FIPs' for consistency
+# rename 'area_fips' column to 'Area FIPs' for consistency
 county_names_df = county_names_df.rename(columns={'area_fips': 'Area FIPs', 'County': 'County'})
 
 # Merge the county names DataFrame with the filtered California counties DataFrame
 mean_values_df = pd.merge(county_names_df, mean_values_df, on='Area FIPs')
 
-
-
-
-
-
-
-
 # convert the 'Year' column to string type for consistency
 mean_values_df['Year'] = mean_values_df['Year'].astype(str)
 df['Year'] = df['Year'].astype(str)
 df = pd.concat([df, mean_values_df], ignore_index=True)
-
-
 
 # Create quartiles for the Average Annual Pay by each Year
 df['Annual Wage Quartiles by each Year'] = df.groupby('Year')['Average Annual Pay'].transform(
@@ -65,13 +49,6 @@ df['Annual Wage Quartiles by each Year'] = df.groupby('Year')['Average Annual Pa
             'Upper Middle Average Annual Pay',
             'High Average Annual Pay'
         ]
-    )
-)
-
-# Create numeric quartiles for the Average Annual Pay by each Year
-df['Numeric Dollar Quartiles by each Year'] = df.groupby('Year')['Average Annual Pay'].transform(
-    lambda x: pd.qcut(
-        x, 4, labels=False #, retbins=True
     )
 )
 
@@ -87,13 +64,6 @@ df['Quartiles by each Year for Bachelor Degree or Higher'] = df.groupby('Year')[
     )
 )
 
-# Create numeric quartiles for the Percent of Adults with Bachelors or Higher by each Year
-df['Numeric Percentage Quartiles by each Year for Bachelor Degree or Higher'] = df.groupby('Year')['Percent of Adults with Bachelors or Higher'].transform(
-    lambda x: pd.qcut(
-        x, 4, labels=False #, retbins=True
-    )
-)
-
 # Create quartiles for the Median Household Income by each Year
 df['Quartiles by each Year for Median Household Income'] = df.groupby('Year')['Median Household Income'].transform(
     lambda x: pd.qcut(
@@ -103,13 +73,6 @@ df['Quartiles by each Year for Median Household Income'] = df.groupby('Year')['M
             'Upper Middle Median Household Income',
             'High Median Household Income'
         ]
-    )
-)
-
-# Create numeric quartiles for the Median Household Income by each Year
-df['Numeric Dollar Quartiles by each Year for Median Household Income'] = df.groupby('Year')['Median Household Income'].transform(
-    lambda x: pd.qcut(
-        x, 4, labels=False #, retbins=True
     )
 )
 

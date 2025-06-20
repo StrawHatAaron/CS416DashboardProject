@@ -28,7 +28,6 @@ for year in csv_year_range:
 # Filter the DataFrame to keep only the specified columns
 total_filtered_df = total_filtered_df[[
                                        'area_fips',
-                                       'size_code',
                                        'year',
                                        'annual_avg_emplvl',
                                        'total_annual_wages',
