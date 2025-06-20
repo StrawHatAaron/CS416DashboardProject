@@ -1,639 +1,639 @@
-County,Percent of Adults with Bachelors or Higher,Year,Area FIPs,Bachelor DegOrHigher Quartiles by each Year
-Colusa County,13.8,2013,6011,Lower Bachelors or Higher Education
-Del Norte County,14.0,2013,6015,Lower Bachelors or Higher Education
-Glenn County,14.6,2013,6021,Lower Bachelors or Higher Education
-Imperial County,13.3,2013,6025,Lower Bachelors or Higher Education
-Kern County,15.0,2013,6029,Lower Bachelors or Higher Education
-Kings County,12.9,2013,6031,Lower Bachelors or Higher Education
-Lake County,16.2,2013,6033,Lower Bachelors or Higher Education
-Lassen County,13.1,2013,6035,Lower Bachelors or Higher Education
-Madera County,13.6,2013,6039,Lower Bachelors or Higher Education
-Merced County,12.6,2013,6047,Lower Bachelors or Higher Education
-San Joaquin County,18.1,2013,6077,Lower Bachelors or Higher Education
-Stanislaus County,16.4,2013,6099,Lower Bachelors or Higher Education
-Tehama County,13.5,2013,6103,Lower Bachelors or Higher Education
-Tulare County,13.3,2013,6107,Lower Bachelors or Higher Education
-Yuba County,13.7,2013,6115,Lower Bachelors or Higher Education
-Amador County,19.3,2013,6005,Lower Middle Bachelors or Higher Education
-Calaveras County,21.2,2013,6009,Lower Middle Bachelors or Higher Education
-Fresno County,19.6,2013,6019,Lower Middle Bachelors or Higher Education
-Inyo County,21.4,2013,6027,Lower Middle Bachelors or Higher Education
-Mariposa County,21.3,2013,6043,Lower Middle Bachelors or Higher Education
-Modoc County,18.7,2013,6049,Lower Middle Bachelors or Higher Education
-Riverside County,20.5,2013,6065,Lower Middle Bachelors or Higher Education
-San Benito County,18.2,2013,6069,Lower Middle Bachelors or Higher Education
-San Bernardino County,18.7,2013,6071,Lower Middle Bachelors or Higher Education
-Shasta County,18.8,2013,6089,Lower Middle Bachelors or Higher Education
-Sierra County,18.5,2013,6091,Lower Middle Bachelors or Higher Education
-Sutter County,18.7,2013,6101,Lower Middle Bachelors or Higher Education
-Trinity County,21.3,2013,6105,Lower Middle Bachelors or Higher Education
-Tuolumne County,19.5,2013,6109,Lower Middle Bachelors or Higher Education
-Alpine County,31.2,2013,6003,Upper Middle Bachelors or Higher Education
-Butte County,24.4,2013,6007,Upper Middle Bachelors or Higher Education
-Humboldt County,27.5,2013,6023,Upper Middle Bachelors or Higher Education
-Los Angeles County,29.7,2013,6037,Upper Middle Bachelors or Higher Education
-Mendocino County,22.0,2013,6045,Upper Middle Bachelors or Higher Education
-Mono County,29.8,2013,6051,Upper Middle Bachelors or Higher Education
-Monterey County,23.0,2013,6053,Upper Middle Bachelors or Higher Education
-Napa County,31.3,2013,6055,Upper Middle Bachelors or Higher Education
-Plumas County,22.6,2013,6063,Upper Middle Bachelors or Higher Education
-Sacramento County,28.0,2013,6067,Upper Middle Bachelors or Higher Education
-Santa Barbara County,31.3,2013,6083,Upper Middle Bachelors or Higher Education
-Siskiyou County,23.9,2013,6093,Upper Middle Bachelors or Higher Education
-Solano County,24.3,2013,6095,Upper Middle Bachelors or Higher Education
-Ventura County,31.4,2013,6111,Upper Middle Bachelors or Higher Education
-Alameda County,41.8,2013,6001,High Bachelors or Higher Education
-Contra Costa County,39.0,2013,6013,High Bachelors or Higher Education
-El Dorado County,32.0,2013,6017,High Bachelors or Higher Education
-Marin County,54.6,2013,6041,High Bachelors or Higher Education
-Nevada County,32.3,2013,6057,High Bachelors or Higher Education
-Orange County,36.8,2013,6059,High Bachelors or Higher Education
-Placer County,35.1,2013,6061,High Bachelors or Higher Education
-San Diego County,34.6,2013,6073,High Bachelors or Higher Education
-San Francisco County,52.4,2013,6075,High Bachelors or Higher Education
-San Luis Obispo County,31.5,2013,6079,High Bachelors or Higher Education
-San Mateo County,44.4,2013,6081,High Bachelors or Higher Education
-Santa Clara County,46.5,2013,6085,High Bachelors or Higher Education
-Santa Cruz County,37.0,2013,6087,High Bachelors or Higher Education
-Sonoma County,32.2,2013,6097,High Bachelors or Higher Education
-Yolo County,37.9,2013,6113,High Bachelors or Higher Education
-Colusa County,14.3,2014,6011,Lower Bachelors or Higher Education
-Del Norte County,16.0,2014,6015,Lower Bachelors or Higher Education
-Glenn County,15.7,2014,6021,Lower Bachelors or Higher Education
-Imperial County,13.4,2014,6025,Lower Bachelors or Higher Education
-Kern County,15.2,2014,6029,Lower Bachelors or Higher Education
-Kings County,12.5,2014,6031,Lower Bachelors or Higher Education
-Lake County,16.2,2014,6033,Lower Bachelors or Higher Education
-Lassen County,12.9,2014,6035,Lower Bachelors or Higher Education
-Madera County,13.5,2014,6039,Lower Bachelors or Higher Education
-Merced County,13.0,2014,6047,Lower Bachelors or Higher Education
-San Joaquin County,18.1,2014,6077,Lower Bachelors or Higher Education
-Stanislaus County,16.4,2014,6099,Lower Bachelors or Higher Education
-Tehama County,14.1,2014,6103,Lower Bachelors or Higher Education
-Tulare County,13.3,2014,6107,Lower Bachelors or Higher Education
-Yuba County,14.2,2014,6115,Lower Bachelors or Higher Education
-Amador County,20.5,2014,6005,Lower Middle Bachelors or Higher Education
-Calaveras County,21.1,2014,6009,Lower Middle Bachelors or Higher Education
-Fresno County,19.5,2014,6019,Lower Middle Bachelors or Higher Education
-Inyo County,21.4,2014,6027,Lower Middle Bachelors or Higher Education
-Mariposa County,22.4,2014,6043,Lower Middle Bachelors or Higher Education
-Modoc County,18.5,2014,6049,Lower Middle Bachelors or Higher Education
-Riverside County,20.8,2014,6065,Lower Middle Bachelors or Higher Education
-San Benito County,19.0,2014,6069,Lower Middle Bachelors or Higher Education
-San Bernardino County,18.8,2014,6071,Lower Middle Bachelors or Higher Education
-Shasta County,19.1,2014,6089,Lower Middle Bachelors or Higher Education
-Sierra County,19.0,2014,6091,Lower Middle Bachelors or Higher Education
-Sutter County,18.5,2014,6101,Lower Middle Bachelors or Higher Education
-Trinity County,22.0,2014,6105,Lower Middle Bachelors or Higher Education
-Tuolumne County,19.8,2014,6109,Lower Middle Bachelors or Higher Education
-Alpine County,30.5,2014,6003,Upper Middle Bachelors or Higher Education
-Butte County,25.0,2014,6007,Upper Middle Bachelors or Higher Education
-El Dorado County,32.1,2014,6017,Upper Middle Bachelors or Higher Education
-Humboldt County,27.5,2014,6023,Upper Middle Bachelors or Higher Education
-Los Angeles County,29.9,2014,6037,Upper Middle Bachelors or Higher Education
-Mendocino County,22.5,2014,6045,Upper Middle Bachelors or Higher Education
-Monterey County,23.1,2014,6053,Upper Middle Bachelors or Higher Education
-Napa County,31.9,2014,6055,Upper Middle Bachelors or Higher Education
-Plumas County,22.7,2014,6063,Upper Middle Bachelors or Higher Education
-Sacramento County,28.2,2014,6067,Upper Middle Bachelors or Higher Education
-San Luis Obispo County,32.1,2014,6079,Upper Middle Bachelors or Higher Education
-Santa Barbara County,31.4,2014,6083,Upper Middle Bachelors or Higher Education
-Siskiyou County,24.0,2014,6093,Upper Middle Bachelors or Higher Education
-Solano County,24.3,2014,6095,Upper Middle Bachelors or Higher Education
-Ventura County,31.6,2014,6111,Upper Middle Bachelors or Higher Education
-Alameda County,42.1,2014,6001,High Bachelors or Higher Education
-Contra Costa County,39.4,2014,6013,High Bachelors or Higher Education
-Marin County,54.8,2014,6041,High Bachelors or Higher Education
-Mono County,33.3,2014,6051,High Bachelors or Higher Education
-Nevada County,32.8,2014,6057,High Bachelors or Higher Education
-Orange County,37.3,2014,6059,High Bachelors or Higher Education
-Placer County,35.7,2014,6061,High Bachelors or Higher Education
-San Diego County,35.1,2014,6073,High Bachelors or Higher Education
-San Francisco County,52.9,2014,6075,High Bachelors or Higher Education
-San Mateo County,45.0,2014,6081,High Bachelors or Higher Education
-Santa Clara County,47.3,2014,6085,High Bachelors or Higher Education
-Santa Cruz County,37.5,2014,6087,High Bachelors or Higher Education
-Sonoma County,32.6,2014,6097,High Bachelors or Higher Education
-Yolo County,38.3,2014,6113,High Bachelors or Higher Education
-Colusa County,14.6,2015,6011,Lower Bachelors or Higher Education
-Del Norte County,15.1,2015,6015,Lower Bachelors or Higher Education
-Glenn County,14.9,2015,6021,Lower Bachelors or Higher Education
-Imperial County,14.1,2015,6025,Lower Bachelors or Higher Education
-Kern County,15.4,2015,6029,Lower Bachelors or Higher Education
-Kings County,13.4,2015,6031,Lower Bachelors or Higher Education
-Lake County,16.0,2015,6033,Lower Bachelors or Higher Education
-Lassen County,12.3,2015,6035,Lower Bachelors or Higher Education
-Madera County,13.3,2015,6039,Lower Bachelors or Higher Education
-Merced County,13.1,2015,6047,Lower Bachelors or Higher Education
-Stanislaus County,16.5,2015,6099,Lower Bachelors or Higher Education
-Sutter County,17.6,2015,6101,Lower Bachelors or Higher Education
-Tehama County,14.4,2015,6103,Lower Bachelors or Higher Education
-Tulare County,13.8,2015,6107,Lower Bachelors or Higher Education
-Yuba County,14.3,2015,6115,Lower Bachelors or Higher Education
-Amador County,21.3,2015,6005,Lower Middle Bachelors or Higher Education
-Calaveras County,20.9,2015,6009,Lower Middle Bachelors or Higher Education
-Fresno County,19.4,2015,6019,Lower Middle Bachelors or Higher Education
-Mariposa County,22.1,2015,6043,Lower Middle Bachelors or Higher Education
-Modoc County,18.0,2015,6049,Lower Middle Bachelors or Higher Education
-Plumas County,22.0,2015,6063,Lower Middle Bachelors or Higher Education
-Riverside County,20.9,2015,6065,Lower Middle Bachelors or Higher Education
-San Benito County,19.0,2015,6069,Lower Middle Bachelors or Higher Education
-San Bernardino County,19.0,2015,6071,Lower Middle Bachelors or Higher Education
-San Joaquin County,18.4,2015,6077,Lower Middle Bachelors or Higher Education
-Shasta County,19.6,2015,6089,Lower Middle Bachelors or Higher Education
-Sierra County,18.9,2015,6091,Lower Middle Bachelors or Higher Education
-Trinity County,20.0,2015,6105,Lower Middle Bachelors or Higher Education
-Tuolumne County,20.4,2015,6109,Lower Middle Bachelors or Higher Education
-Alpine County,27.5,2015,6003,Upper Middle Bachelors or Higher Education
-Butte County,25.9,2015,6007,Upper Middle Bachelors or Higher Education
-El Dorado County,32.1,2015,6017,Upper Middle Bachelors or Higher Education
-Humboldt County,28.0,2015,6023,Upper Middle Bachelors or Higher Education
-Inyo County,23.9,2015,6027,Upper Middle Bachelors or Higher Education
-Los Angeles County,30.3,2015,6037,Upper Middle Bachelors or Higher Education
-Mendocino County,23.7,2015,6045,Upper Middle Bachelors or Higher Education
-Mono County,32.3,2015,6051,Upper Middle Bachelors or Higher Education
-Monterey County,23.1,2015,6053,Upper Middle Bachelors or Higher Education
-Sacramento County,28.8,2015,6067,Upper Middle Bachelors or Higher Education
-Santa Barbara County,32.2,2015,6083,Upper Middle Bachelors or Higher Education
-Siskiyou County,22.7,2015,6093,Upper Middle Bachelors or Higher Education
-Solano County,24.9,2015,6095,Upper Middle Bachelors or Higher Education
-Ventura County,31.7,2015,6111,Upper Middle Bachelors or Higher Education
-Alameda County,43.0,2015,6001,High Bachelors or Higher Education
-Contra Costa County,39.6,2015,6013,High Bachelors or Higher Education
-Marin County,55.8,2015,6041,High Bachelors or Higher Education
-Napa County,32.4,2015,6055,High Bachelors or Higher Education
-Nevada County,33.7,2015,6057,High Bachelors or Higher Education
-Orange County,37.7,2015,6059,High Bachelors or Higher Education
-Placer County,36.4,2015,6061,High Bachelors or Higher Education
-San Diego County,35.7,2015,6073,High Bachelors or Higher Education
-San Francisco County,53.8,2015,6075,High Bachelors or Higher Education
-San Luis Obispo County,33.0,2015,6079,High Bachelors or Higher Education
-San Mateo County,45.6,2015,6081,High Bachelors or Higher Education
-Santa Clara County,47.9,2015,6085,High Bachelors or Higher Education
-Santa Cruz County,38.2,2015,6087,High Bachelors or Higher Education
-Sonoma County,32.9,2015,6097,High Bachelors or Higher Education
-Yolo County,39.0,2015,6113,High Bachelors or Higher Education
-Colusa County,14.4,2016,6011,Lower Bachelors or Higher Education
-Del Norte County,14.9,2016,6015,Lower Bachelors or Higher Education
-Glenn County,12.7,2016,6021,Lower Bachelors or Higher Education
-Imperial County,14.0,2016,6025,Lower Bachelors or Higher Education
-Kern County,15.7,2016,6029,Lower Bachelors or Higher Education
-Kings County,12.8,2016,6031,Lower Bachelors or Higher Education
-Lake County,16.2,2016,6033,Lower Bachelors or Higher Education
-Lassen County,12.5,2016,6035,Lower Bachelors or Higher Education
-Madera County,13.1,2016,6039,Lower Bachelors or Higher Education
-Merced County,13.7,2016,6047,Lower Bachelors or Higher Education
-Stanislaus County,16.5,2016,6099,Lower Bachelors or Higher Education
-Sutter County,17.9,2016,6101,Lower Bachelors or Higher Education
-Tehama County,13.8,2016,6103,Lower Bachelors or Higher Education
-Tulare County,14.0,2016,6107,Lower Bachelors or Higher Education
-Yuba County,15.5,2016,6115,Lower Bachelors or Higher Education
-Amador County,21.5,2016,6005,Lower Middle Bachelors or Higher Education
-Calaveras County,20.2,2016,6009,Lower Middle Bachelors or Higher Education
-Fresno County,19.7,2016,6019,Lower Middle Bachelors or Higher Education
-Modoc County,18.3,2016,6049,Lower Middle Bachelors or Higher Education
-Plumas County,21.9,2016,6063,Lower Middle Bachelors or Higher Education
-Riverside County,21.2,2016,6065,Lower Middle Bachelors or Higher Education
-San Benito County,19.0,2016,6069,Lower Middle Bachelors or Higher Education
-San Bernardino County,19.3,2016,6071,Lower Middle Bachelors or Higher Education
-San Joaquin County,18.2,2016,6077,Lower Middle Bachelors or Higher Education
-Shasta County,20.1,2016,6089,Lower Middle Bachelors or Higher Education
-Sierra County,19.8,2016,6091,Lower Middle Bachelors or Higher Education
-Siskiyou County,22.2,2016,6093,Lower Middle Bachelors or Higher Education
-Trinity County,20.1,2016,6105,Lower Middle Bachelors or Higher Education
-Tuolumne County,19.7,2016,6109,Lower Middle Bachelors or Higher Education
-Alpine County,29.7,2016,6003,Upper Middle Bachelors or Higher Education
-Butte County,26.1,2016,6007,Upper Middle Bachelors or Higher Education
-El Dorado County,33.0,2016,6017,Upper Middle Bachelors or Higher Education
-Humboldt County,28.2,2016,6023,Upper Middle Bachelors or Higher Education
-Inyo County,24.5,2016,6027,Upper Middle Bachelors or Higher Education
-Los Angeles County,30.8,2016,6037,Upper Middle Bachelors or Higher Education
-Mariposa County,22.6,2016,6043,Upper Middle Bachelors or Higher Education
-Mendocino County,24.1,2016,6045,Upper Middle Bachelors or Higher Education
-Mono County,30.6,2016,6051,Upper Middle Bachelors or Higher Education
-Monterey County,23.6,2016,6053,Upper Middle Bachelors or Higher Education
-Napa County,33.0,2016,6055,Upper Middle Bachelors or Higher Education
-Sacramento County,29.3,2016,6067,Upper Middle Bachelors or Higher Education
-Santa Barbara County,32.2,2016,6083,Upper Middle Bachelors or Higher Education
-Solano County,25.1,2016,6095,Upper Middle Bachelors or Higher Education
-Ventura County,32.2,2016,6111,Upper Middle Bachelors or Higher Education
-Alameda County,43.9,2016,6001,High Bachelors or Higher Education
-Contra Costa County,40.3,2016,6013,High Bachelors or Higher Education
-Marin County,57.1,2016,6041,High Bachelors or Higher Education
-Nevada County,34.4,2016,6057,High Bachelors or Higher Education
-Orange County,38.4,2016,6059,High Bachelors or Higher Education
-Placer County,36.9,2016,6061,High Bachelors or Higher Education
-San Diego County,36.5,2016,6073,High Bachelors or Higher Education
-San Francisco County,54.8,2016,6075,High Bachelors or Higher Education
-San Luis Obispo County,34.1,2016,6079,High Bachelors or Higher Education
-San Mateo County,47.1,2016,6081,High Bachelors or Higher Education
-Santa Clara County,49.1,2016,6085,High Bachelors or Higher Education
-Santa Cruz County,39.0,2016,6087,High Bachelors or Higher Education
-Sonoma County,33.1,2016,6097,High Bachelors or Higher Education
-Yolo County,40.0,2016,6113,High Bachelors or Higher Education
-Colusa County,15.7,2017,6011,Lower Bachelors or Higher Education
-Del Norte County,14.4,2017,6015,Lower Bachelors or Higher Education
-Glenn County,13.0,2017,6021,Lower Bachelors or Higher Education
-Imperial County,14.3,2017,6025,Lower Bachelors or Higher Education
-Kern County,15.8,2017,6029,Lower Bachelors or Higher Education
-Kings County,13.0,2017,6031,Lower Bachelors or Higher Education
-Lake County,15.3,2017,6033,Lower Bachelors or Higher Education
-Lassen County,12.4,2017,6035,Lower Bachelors or Higher Education
-Madera County,13.8,2017,6039,Lower Bachelors or Higher Education
-Merced County,13.8,2017,6047,Lower Bachelors or Higher Education
-Modoc County,16.6,2017,6049,Lower Bachelors or Higher Education
-Stanislaus County,16.7,2017,6099,Lower Bachelors or Higher Education
-Tehama County,14.4,2017,6103,Lower Bachelors or Higher Education
-Tulare County,13.8,2017,6107,Lower Bachelors or Higher Education
-Yuba County,16.4,2017,6115,Lower Bachelors or Higher Education
-Amador County,22.1,2017,6005,Lower Middle Bachelors or Higher Education
-Calaveras County,19.3,2017,6009,Lower Middle Bachelors or Higher Education
-Fresno County,20.1,2017,6019,Lower Middle Bachelors or Higher Education
-Plumas County,22.6,2017,6063,Lower Middle Bachelors or Higher Education
-Riverside County,21.5,2017,6065,Lower Middle Bachelors or Higher Education
-San Benito County,19.2,2017,6069,Lower Middle Bachelors or Higher Education
-San Bernardino County,19.8,2017,6071,Lower Middle Bachelors or Higher Education
-San Joaquin County,18.1,2017,6077,Lower Middle Bachelors or Higher Education
-Shasta County,21.4,2017,6089,Lower Middle Bachelors or Higher Education
-Sierra County,21.4,2017,6091,Lower Middle Bachelors or Higher Education
-Siskiyou County,22.7,2017,6093,Lower Middle Bachelors or Higher Education
-Sutter County,17.5,2017,6101,Lower Middle Bachelors or Higher Education
-Trinity County,19.5,2017,6105,Lower Middle Bachelors or Higher Education
-Tuolumne County,20.6,2017,6109,Lower Middle Bachelors or Higher Education
-Alpine County,25.6,2017,6003,Upper Middle Bachelors or Higher Education
-Butte County,26.6,2017,6007,Upper Middle Bachelors or Higher Education
-El Dorado County,33.3,2017,6017,Upper Middle Bachelors or Higher Education
-Humboldt County,29.4,2017,6023,Upper Middle Bachelors or Higher Education
-Inyo County,25.3,2017,6027,Upper Middle Bachelors or Higher Education
-Los Angeles County,31.2,2017,6037,Upper Middle Bachelors or Higher Education
-Mariposa County,24.4,2017,6043,Upper Middle Bachelors or Higher Education
-Mendocino County,24.8,2017,6045,Upper Middle Bachelors or Higher Education
-Mono County,31.5,2017,6051,Upper Middle Bachelors or Higher Education
-Monterey County,23.9,2017,6053,Upper Middle Bachelors or Higher Education
-Sacramento County,29.9,2017,6067,Upper Middle Bachelors or Higher Education
-Santa Barbara County,33.3,2017,6083,Upper Middle Bachelors or Higher Education
-Solano County,25.6,2017,6095,Upper Middle Bachelors or Higher Education
-Ventura County,32.6,2017,6111,Upper Middle Bachelors or Higher Education
-Alameda County,44.7,2017,6001,High Bachelors or Higher Education
-Contra Costa County,40.7,2017,6013,High Bachelors or Higher Education
-Marin County,57.5,2017,6041,High Bachelors or Higher Education
-Napa County,34.6,2017,6055,High Bachelors or Higher Education
-Nevada County,35.8,2017,6057,High Bachelors or Higher Education
-Orange County,39.1,2017,6059,High Bachelors or Higher Education
-Placer County,37.5,2017,6061,High Bachelors or Higher Education
-San Diego County,37.4,2017,6073,High Bachelors or Higher Education
-San Francisco County,55.8,2017,6075,High Bachelors or Higher Education
-San Luis Obispo County,34.0,2017,6079,High Bachelors or Higher Education
-San Mateo County,48.5,2017,6081,High Bachelors or Higher Education
-Santa Clara County,50.0,2017,6085,High Bachelors or Higher Education
-Santa Cruz County,39.8,2017,6087,High Bachelors or Higher Education
-Sonoma County,33.8,2017,6097,High Bachelors or Higher Education
-Yolo County,40.6,2017,6113,High Bachelors or Higher Education
-Colusa County,15.4,2018,6011,Lower Bachelors or Higher Education
-Del Norte County,14.3,2018,6015,Lower Bachelors or Higher Education
-Glenn County,13.9,2018,6021,Lower Bachelors or Higher Education
-Imperial County,14.5,2018,6025,Lower Bachelors or Higher Education
-Kern County,16.1,2018,6029,Lower Bachelors or Higher Education
-Kings County,13.5,2018,6031,Lower Bachelors or Higher Education
-Lake County,15.8,2018,6033,Lower Bachelors or Higher Education
-Lassen County,12.0,2018,6035,Lower Bachelors or Higher Education
-Madera County,14.5,2018,6039,Lower Bachelors or Higher Education
-Merced County,14.0,2018,6047,Lower Bachelors or Higher Education
-Modoc County,15.9,2018,6049,Lower Bachelors or Higher Education
-Stanislaus County,16.9,2018,6099,Lower Bachelors or Higher Education
-Tehama County,15.5,2018,6103,Lower Bachelors or Higher Education
-Tulare County,14.3,2018,6107,Lower Bachelors or Higher Education
-Yuba County,16.7,2018,6115,Lower Bachelors or Higher Education
-Amador County,20.3,2018,6005,Lower Middle Bachelors or Higher Education
-Calaveras County,18.7,2018,6009,Lower Middle Bachelors or Higher Education
-Fresno County,20.7,2018,6019,Lower Middle Bachelors or Higher Education
-Mariposa County,23.4,2018,6043,Lower Middle Bachelors or Higher Education
-Riverside County,21.8,2018,6065,Lower Middle Bachelors or Higher Education
-San Benito County,19.7,2018,6069,Lower Middle Bachelors or Higher Education
-San Bernardino County,20.3,2018,6071,Lower Middle Bachelors or Higher Education
-San Joaquin County,18.4,2018,6077,Lower Middle Bachelors or Higher Education
-Shasta County,22.2,2018,6089,Lower Middle Bachelors or Higher Education
-Sierra County,18.7,2018,6091,Lower Middle Bachelors or Higher Education
-Siskiyou County,22.5,2018,6093,Lower Middle Bachelors or Higher Education
-Sutter County,17.7,2018,6101,Lower Middle Bachelors or Higher Education
-Trinity County,19.7,2018,6105,Lower Middle Bachelors or Higher Education
-Tuolumne County,20.0,2018,6109,Lower Middle Bachelors or Higher Education
-Alpine County,30.0,2018,6003,Upper Middle Bachelors or Higher Education
-Butte County,26.5,2018,6007,Upper Middle Bachelors or Higher Education
-El Dorado County,33.7,2018,6017,Upper Middle Bachelors or Higher Education
-Humboldt County,29.8,2018,6023,Upper Middle Bachelors or Higher Education
-Inyo County,26.1,2018,6027,Upper Middle Bachelors or Higher Education
-Los Angeles County,31.8,2018,6037,Upper Middle Bachelors or Higher Education
-Mendocino County,24.7,2018,6045,Upper Middle Bachelors or Higher Education
-Mono County,30.6,2018,6051,Upper Middle Bachelors or Higher Education
-Monterey County,24.5,2018,6053,Upper Middle Bachelors or Higher Education
-Plumas County,23.5,2018,6063,Upper Middle Bachelors or Higher Education
-Sacramento County,30.4,2018,6067,Upper Middle Bachelors or Higher Education
-Santa Barbara County,33.8,2018,6083,Upper Middle Bachelors or Higher Education
-Solano County,26.2,2018,6095,Upper Middle Bachelors or Higher Education
-Ventura County,33.1,2018,6111,Upper Middle Bachelors or Higher Education
-Alameda County,46.0,2018,6001,High Bachelors or Higher Education
-Contra Costa County,41.7,2018,6013,High Bachelors or Higher Education
-Marin County,58.8,2018,6041,High Bachelors or Higher Education
-Napa County,34.9,2018,6055,High Bachelors or Higher Education
-Nevada County,36.6,2018,6057,High Bachelors or Higher Education
-Orange County,39.9,2018,6059,High Bachelors or Higher Education
-Placer County,38.6,2018,6061,High Bachelors or Higher Education
-San Diego County,38.1,2018,6073,High Bachelors or Higher Education
-San Francisco County,57.1,2018,6075,High Bachelors or Higher Education
-San Luis Obispo County,34.6,2018,6079,High Bachelors or Higher Education
-San Mateo County,49.9,2018,6081,High Bachelors or Higher Education
-Santa Clara County,51.3,2018,6085,High Bachelors or Higher Education
-Santa Cruz County,40.0,2018,6087,High Bachelors or Higher Education
-Sonoma County,34.9,2018,6097,High Bachelors or Higher Education
-Yolo County,41.6,2018,6113,High Bachelors or Higher Education
-Colusa County,15.0,2019,6011,Lower Bachelors or Higher Education
-Del Norte County,14.8,2019,6015,Lower Bachelors or Higher Education
-Glenn County,14.2,2019,6021,Lower Bachelors or Higher Education
-Imperial County,15.2,2019,6025,Lower Bachelors or Higher Education
-Kern County,16.4,2019,6029,Lower Bachelors or Higher Education
-Kings County,14.7,2019,6031,Lower Bachelors or Higher Education
-Lake County,15.5,2019,6033,Lower Bachelors or Higher Education
-Lassen County,12.9,2019,6035,Lower Bachelors or Higher Education
-Madera County,14.6,2019,6039,Lower Bachelors or Higher Education
-Merced County,13.8,2019,6047,Lower Bachelors or Higher Education
-Modoc County,15.2,2019,6049,Lower Bachelors or Higher Education
-Stanislaus County,17.1,2019,6099,Lower Bachelors or Higher Education
-Tehama County,15.7,2019,6103,Lower Bachelors or Higher Education
-Tulare County,14.6,2019,6107,Lower Bachelors or Higher Education
-Yuba County,17.1,2019,6115,Lower Bachelors or Higher Education
-Amador County,19.3,2019,6005,Lower Middle Bachelors or Higher Education
-Calaveras County,18.3,2019,6009,Lower Middle Bachelors or Higher Education
-Fresno County,21.2,2019,6019,Lower Middle Bachelors or Higher Education
-Plumas County,23.7,2019,6063,Lower Middle Bachelors or Higher Education
-Riverside County,22.3,2019,6065,Lower Middle Bachelors or Higher Education
-San Benito County,19.7,2019,6069,Lower Middle Bachelors or Higher Education
-San Bernardino County,21.0,2019,6071,Lower Middle Bachelors or Higher Education
-San Joaquin County,18.8,2019,6077,Lower Middle Bachelors or Higher Education
-Shasta County,22.2,2019,6089,Lower Middle Bachelors or Higher Education
-Sierra County,17.9,2019,6091,Lower Middle Bachelors or Higher Education
-Siskiyou County,23.2,2019,6093,Lower Middle Bachelors or Higher Education
-Sutter County,18.2,2019,6101,Lower Middle Bachelors or Higher Education
-Trinity County,19.5,2019,6105,Lower Middle Bachelors or Higher Education
-Tuolumne County,20.5,2019,6109,Lower Middle Bachelors or Higher Education
-Alpine County,34.5,2019,6003,Upper Middle Bachelors or Higher Education
-Butte County,27.2,2019,6007,Upper Middle Bachelors or Higher Education
-El Dorado County,34.3,2019,6017,Upper Middle Bachelors or Higher Education
-Humboldt County,30.4,2019,6023,Upper Middle Bachelors or Higher Education
-Inyo County,27.2,2019,6027,Upper Middle Bachelors or Higher Education
-Los Angeles County,32.5,2019,6037,Upper Middle Bachelors or Higher Education
-Mariposa County,24.6,2019,6043,Upper Middle Bachelors or Higher Education
-Mendocino County,24.4,2019,6045,Upper Middle Bachelors or Higher Education
-Mono County,28.8,2019,6051,Upper Middle Bachelors or Higher Education
-Monterey County,24.7,2019,6053,Upper Middle Bachelors or Higher Education
-Sacramento County,30.9,2019,6067,Upper Middle Bachelors or Higher Education
-Santa Barbara County,34.2,2019,6083,Upper Middle Bachelors or Higher Education
-Solano County,26.9,2019,6095,Upper Middle Bachelors or Higher Education
-Ventura County,33.8,2019,6111,Upper Middle Bachelors or Higher Education
-Alameda County,47.4,2019,6001,High Bachelors or Higher Education
-Contra Costa County,42.4,2019,6013,High Bachelors or Higher Education
-Marin County,59.5,2019,6041,High Bachelors or Higher Education
-Napa County,35.7,2019,6055,High Bachelors or Higher Education
-Nevada County,37.2,2019,6057,High Bachelors or Higher Education
-Orange County,40.6,2019,6059,High Bachelors or Higher Education
-Placer County,39.7,2019,6061,High Bachelors or Higher Education
-San Diego County,38.8,2019,6073,High Bachelors or Higher Education
-San Francisco County,58.1,2019,6075,High Bachelors or Higher Education
-San Luis Obispo County,35.4,2019,6079,High Bachelors or Higher Education
-San Mateo County,51.0,2019,6081,High Bachelors or Higher Education
-Santa Clara County,52.4,2019,6085,High Bachelors or Higher Education
-Santa Cruz County,40.8,2019,6087,High Bachelors or Higher Education
-Sonoma County,35.5,2019,6097,High Bachelors or Higher Education
-Yolo County,41.4,2019,6113,High Bachelors or Higher Education
-Amador County,18.1,2020,6005,Lower Bachelors or Higher Education
-Colusa County,14.9,2020,6011,Lower Bachelors or Higher Education
-Del Norte County,15.4,2020,6015,Lower Bachelors or Higher Education
-Glenn County,14.4,2020,6021,Lower Bachelors or Higher Education
-Imperial County,15.4,2020,6025,Lower Bachelors or Higher Education
-Kern County,17.1,2020,6029,Lower Bachelors or Higher Education
-Kings County,15.0,2020,6031,Lower Bachelors or Higher Education
-Lake County,16.7,2020,6033,Lower Bachelors or Higher Education
-Lassen County,12.7,2020,6035,Lower Bachelors or Higher Education
-Madera County,15.2,2020,6039,Lower Bachelors or Higher Education
-Merced County,14.1,2020,6047,Lower Bachelors or Higher Education
-Stanislaus County,17.7,2020,6099,Lower Bachelors or Higher Education
-Tehama County,17.4,2020,6103,Lower Bachelors or Higher Education
-Tulare County,14.5,2020,6107,Lower Bachelors or Higher Education
-Yuba County,18.0,2020,6115,Lower Bachelors or Higher Education
-Calaveras County,19.8,2020,6009,Lower Middle Bachelors or Higher Education
-Fresno County,22.0,2020,6019,Lower Middle Bachelors or Higher Education
-Mendocino County,24.0,2020,6045,Lower Middle Bachelors or Higher Education
-Modoc County,18.2,2020,6049,Lower Middle Bachelors or Higher Education
-Riverside County,23.2,2020,6065,Lower Middle Bachelors or Higher Education
-San Benito County,20.1,2020,6069,Lower Middle Bachelors or Higher Education
-San Bernardino County,21.4,2020,6071,Lower Middle Bachelors or Higher Education
-San Joaquin County,19.2,2020,6077,Lower Middle Bachelors or Higher Education
-Shasta County,22.1,2020,6089,Lower Middle Bachelors or Higher Education
-Sierra County,19.4,2020,6091,Lower Middle Bachelors or Higher Education
-Siskiyou County,22.1,2020,6093,Lower Middle Bachelors or Higher Education
-Sutter County,20.0,2020,6101,Lower Middle Bachelors or Higher Education
-Trinity County,19.2,2020,6105,Lower Middle Bachelors or Higher Education
-Tuolumne County,22.3,2020,6109,Lower Middle Bachelors or Higher Education
-Butte County,28.3,2020,6007,Upper Middle Bachelors or Higher Education
-El Dorado County,35.2,2020,6017,Upper Middle Bachelors or Higher Education
-Humboldt County,30.9,2020,6023,Upper Middle Bachelors or Higher Education
-Inyo County,26.4,2020,6027,Upper Middle Bachelors or Higher Education
-Los Angeles County,33.5,2020,6037,Upper Middle Bachelors or Higher Education
-Mariposa County,26.9,2020,6043,Upper Middle Bachelors or Higher Education
-Mono County,32.1,2020,6051,Upper Middle Bachelors or Higher Education
-Monterey County,26.2,2020,6053,Upper Middle Bachelors or Higher Education
-Plumas County,24.5,2020,6063,Upper Middle Bachelors or Higher Education
-Sacramento County,31.4,2020,6067,Upper Middle Bachelors or Higher Education
-San Luis Obispo County,36.1,2020,6079,Upper Middle Bachelors or Higher Education
-Santa Barbara County,35.0,2020,6083,Upper Middle Bachelors or Higher Education
-Solano County,27.1,2020,6095,Upper Middle Bachelors or Higher Education
-Ventura County,33.9,2020,6111,Upper Middle Bachelors or Higher Education
-Alameda County,48.7,2020,6001,High Bachelors or Higher Education
-Alpine County,38.4,2020,6003,High Bachelors or Higher Education
-Contra Costa County,43.3,2020,6013,High Bachelors or Higher Education
-Marin County,60.2,2020,6041,High Bachelors or Higher Education
-Napa County,37.2,2020,6055,High Bachelors or Higher Education
-Nevada County,37.6,2020,6057,High Bachelors or Higher Education
-Orange County,41.2,2020,6059,High Bachelors or Higher Education
-Placer County,40.8,2020,6061,High Bachelors or Higher Education
-San Diego County,39.5,2020,6073,High Bachelors or Higher Education
-San Francisco County,58.8,2020,6075,High Bachelors or Higher Education
-San Mateo County,52.1,2020,6081,High Bachelors or Higher Education
-Santa Clara County,53.5,2020,6085,High Bachelors or Higher Education
-Santa Cruz County,41.8,2020,6087,High Bachelors or Higher Education
-Sonoma County,36.4,2020,6097,High Bachelors or Higher Education
-Yolo County,42.6,2020,6113,High Bachelors or Higher Education
-Colusa County,14.7,2021,6011,Lower Bachelors or Higher Education
-Del Norte County,16.1,2021,6015,Lower Bachelors or Higher Education
-Glenn County,14.9,2021,6021,Lower Bachelors or Higher Education
-Imperial County,15.2,2021,6025,Lower Bachelors or Higher Education
-Kern County,17.6,2021,6029,Lower Bachelors or Higher Education
-Kings County,14.3,2021,6031,Lower Bachelors or Higher Education
-Lake County,17.5,2021,6033,Lower Bachelors or Higher Education
-Lassen County,11.8,2021,6035,Lower Bachelors or Higher Education
-Madera County,16.4,2021,6039,Lower Bachelors or Higher Education
-Merced County,14.1,2021,6047,Lower Bachelors or Higher Education
-Stanislaus County,17.9,2021,6099,Lower Bachelors or Higher Education
-Tehama County,17.0,2021,6103,Lower Bachelors or Higher Education
-Trinity County,18.6,2021,6105,Lower Bachelors or Higher Education
-Tulare County,15.2,2021,6107,Lower Bachelors or Higher Education
-Yuba County,17.7,2021,6115,Lower Bachelors or Higher Education
-Amador County,19.5,2021,6005,Lower Middle Bachelors or Higher Education
-Calaveras County,19.9,2021,6009,Lower Middle Bachelors or Higher Education
-Fresno County,22.6,2021,6019,Lower Middle Bachelors or Higher Education
-Mendocino County,24.5,2021,6045,Lower Middle Bachelors or Higher Education
-Modoc County,19.7,2021,6049,Lower Middle Bachelors or Higher Education
-Plumas County,23.0,2021,6063,Lower Middle Bachelors or Higher Education
-Riverside County,23.5,2021,6065,Lower Middle Bachelors or Higher Education
-San Benito County,20.5,2021,6069,Lower Middle Bachelors or Higher Education
-San Bernardino County,21.9,2021,6071,Lower Middle Bachelors or Higher Education
-San Joaquin County,19.5,2021,6077,Lower Middle Bachelors or Higher Education
-Shasta County,22.6,2021,6089,Lower Middle Bachelors or Higher Education
-Sierra County,22.3,2021,6091,Lower Middle Bachelors or Higher Education
-Siskiyou County,21.5,2021,6093,Lower Middle Bachelors or Higher Education
-Sutter County,20.0,2021,6101,Lower Middle Bachelors or Higher Education
-Butte County,29.8,2021,6007,Upper Middle Bachelors or Higher Education
-El Dorado County,36.8,2021,6017,Upper Middle Bachelors or Higher Education
-Humboldt County,31.2,2021,6023,Upper Middle Bachelors or Higher Education
-Inyo County,27.3,2021,6027,Upper Middle Bachelors or Higher Education
-Los Angeles County,34.0,2021,6037,Upper Middle Bachelors or Higher Education
-Mariposa County,28.9,2021,6043,Upper Middle Bachelors or Higher Education
-Mono County,29.5,2021,6051,Upper Middle Bachelors or Higher Education
-Monterey County,26.5,2021,6053,Upper Middle Bachelors or Higher Education
-Sacramento County,32.0,2021,6067,Upper Middle Bachelors or Higher Education
-San Luis Obispo County,36.7,2021,6079,Upper Middle Bachelors or Higher Education
-Santa Barbara County,35.1,2021,6083,Upper Middle Bachelors or Higher Education
-Solano County,27.8,2021,6095,Upper Middle Bachelors or Higher Education
-Tuolumne County,24.6,2021,6109,Upper Middle Bachelors or Higher Education
-Ventura County,34.0,2021,6111,Upper Middle Bachelors or Higher Education
-Alameda County,49.6,2021,6001,High Bachelors or Higher Education
-Alpine County,39.3,2021,6003,High Bachelors or Higher Education
-Contra Costa County,44.1,2021,6013,High Bachelors or Higher Education
-Marin County,60.1,2021,6041,High Bachelors or Higher Education
-Napa County,37.0,2021,6055,High Bachelors or Higher Education
-Nevada County,38.7,2021,6057,High Bachelors or Higher Education
-Orange County,42.1,2021,6059,High Bachelors or Higher Education
-Placer County,41.6,2021,6061,High Bachelors or Higher Education
-San Diego County,40.3,2021,6073,High Bachelors or Higher Education
-San Francisco County,59.5,2021,6075,High Bachelors or Higher Education
-San Mateo County,52.5,2021,6081,High Bachelors or Higher Education
-Santa Clara County,54.4,2021,6085,High Bachelors or Higher Education
-Santa Cruz County,41.9,2021,6087,High Bachelors or Higher Education
-Sonoma County,37.1,2021,6097,High Bachelors or Higher Education
-Yolo County,43.1,2021,6113,High Bachelors or Higher Education
-Colusa County,14.3,2022,6011,Lower Bachelors or Higher Education
-Del Norte County,17.7,2022,6015,Lower Bachelors or Higher Education
-Glenn County,14.9,2022,6021,Lower Bachelors or Higher Education
-Imperial County,15.9,2022,6025,Lower Bachelors or Higher Education
-Kern County,18.3,2022,6029,Lower Bachelors or Higher Education
-Kings County,14.7,2022,6031,Lower Bachelors or Higher Education
-Lake County,18.2,2022,6033,Lower Bachelors or Higher Education
-Lassen County,12.1,2022,6035,Lower Bachelors or Higher Education
-Madera County,17.2,2022,6039,Lower Bachelors or Higher Education
-Merced County,14.6,2022,6047,Lower Bachelors or Higher Education
-Stanislaus County,18.2,2022,6099,Lower Bachelors or Higher Education
-Tehama County,18.2,2022,6103,Lower Bachelors or Higher Education
-Trinity County,19.2,2022,6105,Lower Bachelors or Higher Education
-Tulare County,15.6,2022,6107,Lower Bachelors or Higher Education
-Yuba County,17.4,2022,6115,Lower Bachelors or Higher Education
-Amador County,20.6,2022,6005,Lower Middle Bachelors or Higher Education
-Calaveras County,21.4,2022,6009,Lower Middle Bachelors or Higher Education
-Fresno County,23.4,2022,6019,Lower Middle Bachelors or Higher Education
-Mendocino County,24.0,2022,6045,Lower Middle Bachelors or Higher Education
-Modoc County,23.8,2022,6049,Lower Middle Bachelors or Higher Education
-Plumas County,21.2,2022,6063,Lower Middle Bachelors or Higher Education
-Riverside County,24.1,2022,6065,Lower Middle Bachelors or Higher Education
-San Benito County,22.0,2022,6069,Lower Middle Bachelors or Higher Education
-San Bernardino County,22.4,2022,6071,Lower Middle Bachelors or Higher Education
-San Joaquin County,20.3,2022,6077,Lower Middle Bachelors or Higher Education
-Shasta County,22.8,2022,6089,Lower Middle Bachelors or Higher Education
-Sierra County,23.9,2022,6091,Lower Middle Bachelors or Higher Education
-Siskiyou County,22.0,2022,6093,Lower Middle Bachelors or Higher Education
-Sutter County,20.6,2022,6101,Lower Middle Bachelors or Higher Education
-Butte County,30.8,2022,6007,Upper Middle Bachelors or Higher Education
-Humboldt County,31.1,2022,6023,Upper Middle Bachelors or Higher Education
-Inyo County,29.0,2022,6027,Upper Middle Bachelors or Higher Education
-Los Angeles County,34.6,2022,6037,Upper Middle Bachelors or Higher Education
-Mariposa County,28.9,2022,6043,Upper Middle Bachelors or Higher Education
-Mono County,31.7,2022,6051,Upper Middle Bachelors or Higher Education
-Monterey County,27.1,2022,6053,Upper Middle Bachelors or Higher Education
-Napa County,37.8,2022,6055,Upper Middle Bachelors or Higher Education
-Sacramento County,32.6,2022,6067,Upper Middle Bachelors or Higher Education
-Santa Barbara County,35.7,2022,6083,Upper Middle Bachelors or Higher Education
-Solano County,28.2,2022,6095,Upper Middle Bachelors or Higher Education
-Sonoma County,37.8,2022,6097,Upper Middle Bachelors or Higher Education
-Tuolumne County,24.4,2022,6109,Upper Middle Bachelors or Higher Education
-Ventura County,34.7,2022,6111,Upper Middle Bachelors or Higher Education
-Alameda County,50.9,2022,6001,High Bachelors or Higher Education
-Alpine County,39.6,2022,6003,High Bachelors or Higher Education
-Contra Costa County,44.5,2022,6013,High Bachelors or Higher Education
-El Dorado County,38.0,2022,6017,High Bachelors or Higher Education
-Marin County,61.1,2022,6041,High Bachelors or Higher Education
-Nevada County,38.8,2022,6057,High Bachelors or Higher Education
-Orange County,42.8,2022,6059,High Bachelors or Higher Education
-Placer County,42.4,2022,6061,High Bachelors or Higher Education
-San Diego County,41.0,2022,6073,High Bachelors or Higher Education
-San Francisco County,59.8,2022,6075,High Bachelors or Higher Education
-San Luis Obispo County,38.0,2022,6079,High Bachelors or Higher Education
-San Mateo County,52.9,2022,6081,High Bachelors or Higher Education
-Santa Clara County,55.3,2022,6085,High Bachelors or Higher Education
-Santa Cruz County,42.5,2022,6087,High Bachelors or Higher Education
-Yolo County,43.3,2022,6113,High Bachelors or Higher Education
-Colusa County,14.5,2023,6011,Lower Bachelors or Higher Education
-Glenn County,16.5,2023,6021,Lower Bachelors or Higher Education
-Imperial County,16.1,2023,6025,Lower Bachelors or Higher Education
-Kern County,18.6,2023,6029,Lower Bachelors or Higher Education
-Kings County,13.9,2023,6031,Lower Bachelors or Higher Education
-Lake County,17.7,2023,6033,Lower Bachelors or Higher Education
-Lassen County,13.2,2023,6035,Lower Bachelors or Higher Education
-Madera County,17.1,2023,6039,Lower Bachelors or Higher Education
-Merced County,14.8,2023,6047,Lower Bachelors or Higher Education
-Stanislaus County,19.1,2023,6099,Lower Bachelors or Higher Education
-Sutter County,20.2,2023,6101,Lower Bachelors or Higher Education
-Tehama County,18.8,2023,6103,Lower Bachelors or Higher Education
-Trinity County,18.0,2023,6105,Lower Bachelors or Higher Education
-Tulare County,15.8,2023,6107,Lower Bachelors or Higher Education
-Yuba County,17.9,2023,6115,Lower Bachelors or Higher Education
-Amador County,22.4,2023,6005,Lower Middle Bachelors or Higher Education
-Calaveras County,22.2,2023,6009,Lower Middle Bachelors or Higher Education
-Del Norte County,21.0,2023,6015,Lower Middle Bachelors or Higher Education
-Fresno County,23.9,2023,6019,Lower Middle Bachelors or Higher Education
-Mendocino County,24.9,2023,6045,Lower Middle Bachelors or Higher Education
-Modoc County,23.0,2023,6049,Lower Middle Bachelors or Higher Education
-Plumas County,20.5,2023,6063,Lower Middle Bachelors or Higher Education
-San Benito County,22.4,2023,6069,Lower Middle Bachelors or Higher Education
-San Bernardino County,22.9,2023,6071,Lower Middle Bachelors or Higher Education
-San Joaquin County,21.6,2023,6077,Lower Middle Bachelors or Higher Education
-Shasta County,23.3,2023,6089,Lower Middle Bachelors or Higher Education
-Sierra County,24.4,2023,6091,Lower Middle Bachelors or Higher Education
-Siskiyou County,23.1,2023,6093,Lower Middle Bachelors or Higher Education
-Tuolumne County,23.9,2023,6109,Lower Middle Bachelors or Higher Education
-Butte County,31.7,2023,6007,Upper Middle Bachelors or Higher Education
-Humboldt County,32.1,2023,6023,Upper Middle Bachelors or Higher Education
-Inyo County,31.8,2023,6027,Upper Middle Bachelors or Higher Education
-Los Angeles County,35.5,2023,6037,Upper Middle Bachelors or Higher Education
-Mariposa County,30.9,2023,6043,Upper Middle Bachelors or Higher Education
-Mono County,34.3,2023,6051,Upper Middle Bachelors or Higher Education
-Monterey County,27.9,2023,6053,Upper Middle Bachelors or Higher Education
-Napa County,38.5,2023,6055,Upper Middle Bachelors or Higher Education
-Riverside County,25.1,2023,6065,Upper Middle Bachelors or Higher Education
-Sacramento County,33.3,2023,6067,Upper Middle Bachelors or Higher Education
-Santa Barbara County,35.9,2023,6083,Upper Middle Bachelors or Higher Education
-Solano County,28.4,2023,6095,Upper Middle Bachelors or Higher Education
-Sonoma County,37.8,2023,6097,Upper Middle Bachelors or Higher Education
-Ventura County,35.7,2023,6111,Upper Middle Bachelors or Higher Education
-Alameda County,51.5,2023,6001,High Bachelors or Higher Education
-Alpine County,42.1,2023,6003,High Bachelors or Higher Education
-Contra Costa County,44.9,2023,6013,High Bachelors or Higher Education
-El Dorado County,38.8,2023,6017,High Bachelors or Higher Education
-Marin County,60.5,2023,6041,High Bachelors or Higher Education
-Nevada County,39.5,2023,6057,High Bachelors or Higher Education
-Orange County,43.4,2023,6059,High Bachelors or Higher Education
-Placer County,42.9,2023,6061,High Bachelors or Higher Education
-San Diego County,42.1,2023,6073,High Bachelors or Higher Education
-San Francisco County,60.1,2023,6075,High Bachelors or Higher Education
-San Luis Obispo County,39.2,2023,6079,High Bachelors or Higher Education
-San Mateo County,53.1,2023,6081,High Bachelors or Higher Education
-Santa Clara County,55.9,2023,6085,High Bachelors or Higher Education
-Santa Cruz County,43.6,2023,6087,High Bachelors or Higher Education
-Yolo County,44.1,2023,6113,High Bachelors or Higher Education
+County,Percent of Adults with Bachelors or Higher,Year,Area FIPs
+Alameda County,51.5,2023,6001
+Alpine County,42.1,2023,6003
+Amador County,22.4,2023,6005
+Butte County,31.7,2023,6007
+Calaveras County,22.2,2023,6009
+Colusa County,14.5,2023,6011
+Contra Costa County,44.9,2023,6013
+Del Norte County,21.0,2023,6015
+El Dorado County,38.8,2023,6017
+Fresno County,23.9,2023,6019
+Glenn County,16.5,2023,6021
+Humboldt County,32.1,2023,6023
+Imperial County,16.1,2023,6025
+Inyo County,31.8,2023,6027
+Kern County,18.6,2023,6029
+Kings County,13.9,2023,6031
+Lake County,17.7,2023,6033
+Lassen County,13.2,2023,6035
+Los Angeles County,35.5,2023,6037
+Madera County,17.1,2023,6039
+Marin County,60.5,2023,6041
+Mariposa County,30.9,2023,6043
+Mendocino County,24.9,2023,6045
+Merced County,14.8,2023,6047
+Modoc County,23.0,2023,6049
+Mono County,34.3,2023,6051
+Monterey County,27.9,2023,6053
+Napa County,38.5,2023,6055
+Nevada County,39.5,2023,6057
+Orange County,43.4,2023,6059
+Placer County,42.9,2023,6061
+Plumas County,20.5,2023,6063
+Riverside County,25.1,2023,6065
+Sacramento County,33.3,2023,6067
+San Benito County,22.4,2023,6069
+San Bernardino County,22.9,2023,6071
+San Diego County,42.1,2023,6073
+San Francisco County,60.1,2023,6075
+San Joaquin County,21.6,2023,6077
+San Luis Obispo County,39.2,2023,6079
+San Mateo County,53.1,2023,6081
+Santa Barbara County,35.9,2023,6083
+Santa Clara County,55.9,2023,6085
+Santa Cruz County,43.6,2023,6087
+Shasta County,23.3,2023,6089
+Sierra County,24.4,2023,6091
+Siskiyou County,23.1,2023,6093
+Solano County,28.4,2023,6095
+Sonoma County,37.8,2023,6097
+Stanislaus County,19.1,2023,6099
+Sutter County,20.2,2023,6101
+Tehama County,18.8,2023,6103
+Trinity County,18.0,2023,6105
+Tulare County,15.8,2023,6107
+Tuolumne County,23.9,2023,6109
+Ventura County,35.7,2023,6111
+Yolo County,44.1,2023,6113
+Yuba County,17.9,2023,6115
+Alameda County,50.9,2022,6001
+Alpine County,39.6,2022,6003
+Amador County,20.6,2022,6005
+Butte County,30.8,2022,6007
+Calaveras County,21.4,2022,6009
+Colusa County,14.3,2022,6011
+Contra Costa County,44.5,2022,6013
+Del Norte County,17.7,2022,6015
+El Dorado County,38.0,2022,6017
+Fresno County,23.4,2022,6019
+Glenn County,14.9,2022,6021
+Humboldt County,31.1,2022,6023
+Imperial County,15.9,2022,6025
+Inyo County,29.0,2022,6027
+Kern County,18.3,2022,6029
+Kings County,14.7,2022,6031
+Lake County,18.2,2022,6033
+Lassen County,12.1,2022,6035
+Los Angeles County,34.6,2022,6037
+Madera County,17.2,2022,6039
+Marin County,61.1,2022,6041
+Mariposa County,28.9,2022,6043
+Mendocino County,24.0,2022,6045
+Merced County,14.6,2022,6047
+Modoc County,23.8,2022,6049
+Mono County,31.7,2022,6051
+Monterey County,27.1,2022,6053
+Napa County,37.8,2022,6055
+Nevada County,38.8,2022,6057
+Orange County,42.8,2022,6059
+Placer County,42.4,2022,6061
+Plumas County,21.2,2022,6063
+Riverside County,24.1,2022,6065
+Sacramento County,32.6,2022,6067
+San Benito County,22.0,2022,6069
+San Bernardino County,22.4,2022,6071
+San Diego County,41.0,2022,6073
+San Francisco County,59.8,2022,6075
+San Joaquin County,20.3,2022,6077
+San Luis Obispo County,38.0,2022,6079
+San Mateo County,52.9,2022,6081
+Santa Barbara County,35.7,2022,6083
+Santa Clara County,55.3,2022,6085
+Santa Cruz County,42.5,2022,6087
+Shasta County,22.8,2022,6089
+Sierra County,23.9,2022,6091
+Siskiyou County,22.0,2022,6093
+Solano County,28.2,2022,6095
+Sonoma County,37.8,2022,6097
+Stanislaus County,18.2,2022,6099
+Sutter County,20.6,2022,6101
+Tehama County,18.2,2022,6103
+Trinity County,19.2,2022,6105
+Tulare County,15.6,2022,6107
+Tuolumne County,24.4,2022,6109
+Ventura County,34.7,2022,6111
+Yolo County,43.3,2022,6113
+Yuba County,17.4,2022,6115
+Alameda County,49.6,2021,6001
+Alpine County,39.3,2021,6003
+Amador County,19.5,2021,6005
+Butte County,29.8,2021,6007
+Calaveras County,19.9,2021,6009
+Colusa County,14.7,2021,6011
+Contra Costa County,44.1,2021,6013
+Del Norte County,16.1,2021,6015
+El Dorado County,36.8,2021,6017
+Fresno County,22.6,2021,6019
+Glenn County,14.9,2021,6021
+Humboldt County,31.2,2021,6023
+Imperial County,15.2,2021,6025
+Inyo County,27.3,2021,6027
+Kern County,17.6,2021,6029
+Kings County,14.3,2021,6031
+Lake County,17.5,2021,6033
+Lassen County,11.8,2021,6035
+Los Angeles County,34.0,2021,6037
+Madera County,16.4,2021,6039
+Marin County,60.1,2021,6041
+Mariposa County,28.9,2021,6043
+Mendocino County,24.5,2021,6045
+Merced County,14.1,2021,6047
+Modoc County,19.7,2021,6049
+Mono County,29.5,2021,6051
+Monterey County,26.5,2021,6053
+Napa County,37.0,2021,6055
+Nevada County,38.7,2021,6057
+Orange County,42.1,2021,6059
+Placer County,41.6,2021,6061
+Plumas County,23.0,2021,6063
+Riverside County,23.5,2021,6065
+Sacramento County,32.0,2021,6067
+San Benito County,20.5,2021,6069
+San Bernardino County,21.9,2021,6071
+San Diego County,40.3,2021,6073
+San Francisco County,59.5,2021,6075
+San Joaquin County,19.5,2021,6077
+San Luis Obispo County,36.7,2021,6079
+San Mateo County,52.5,2021,6081
+Santa Barbara County,35.1,2021,6083
+Santa Clara County,54.4,2021,6085
+Santa Cruz County,41.9,2021,6087
+Shasta County,22.6,2021,6089
+Sierra County,22.3,2021,6091
+Siskiyou County,21.5,2021,6093
+Solano County,27.8,2021,6095
+Sonoma County,37.1,2021,6097
+Stanislaus County,17.9,2021,6099
+Sutter County,20.0,2021,6101
+Tehama County,17.0,2021,6103
+Trinity County,18.6,2021,6105
+Tulare County,15.2,2021,6107
+Tuolumne County,24.6,2021,6109
+Ventura County,34.0,2021,6111
+Yolo County,43.1,2021,6113
+Yuba County,17.7,2021,6115
+Alameda County,48.7,2020,6001
+Alpine County,38.4,2020,6003
+Amador County,18.1,2020,6005
+Butte County,28.3,2020,6007
+Calaveras County,19.8,2020,6009
+Colusa County,14.9,2020,6011
+Contra Costa County,43.3,2020,6013
+Del Norte County,15.4,2020,6015
+El Dorado County,35.2,2020,6017
+Fresno County,22.0,2020,6019
+Glenn County,14.4,2020,6021
+Humboldt County,30.9,2020,6023
+Imperial County,15.4,2020,6025
+Inyo County,26.4,2020,6027
+Kern County,17.1,2020,6029
+Kings County,15.0,2020,6031
+Lake County,16.7,2020,6033
+Lassen County,12.7,2020,6035
+Los Angeles County,33.5,2020,6037
+Madera County,15.2,2020,6039
+Marin County,60.2,2020,6041
+Mariposa County,26.9,2020,6043
+Mendocino County,24.0,2020,6045
+Merced County,14.1,2020,6047
+Modoc County,18.2,2020,6049
+Mono County,32.1,2020,6051
+Monterey County,26.2,2020,6053
+Napa County,37.2,2020,6055
+Nevada County,37.6,2020,6057
+Orange County,41.2,2020,6059
+Placer County,40.8,2020,6061
+Plumas County,24.5,2020,6063
+Riverside County,23.2,2020,6065
+Sacramento County,31.4,2020,6067
+San Benito County,20.1,2020,6069
+San Bernardino County,21.4,2020,6071
+San Diego County,39.5,2020,6073
+San Francisco County,58.8,2020,6075
+San Joaquin County,19.2,2020,6077
+San Luis Obispo County,36.1,2020,6079
+San Mateo County,52.1,2020,6081
+Santa Barbara County,35.0,2020,6083
+Santa Clara County,53.5,2020,6085
+Santa Cruz County,41.8,2020,6087
+Shasta County,22.1,2020,6089
+Sierra County,19.4,2020,6091
+Siskiyou County,22.1,2020,6093
+Solano County,27.1,2020,6095
+Sonoma County,36.4,2020,6097
+Stanislaus County,17.7,2020,6099
+Sutter County,20.0,2020,6101
+Tehama County,17.4,2020,6103
+Trinity County,19.2,2020,6105
+Tulare County,14.5,2020,6107
+Tuolumne County,22.3,2020,6109
+Ventura County,33.9,2020,6111
+Yolo County,42.6,2020,6113
+Yuba County,18.0,2020,6115
+Alameda County,47.4,2019,6001
+Alpine County,34.5,2019,6003
+Amador County,19.3,2019,6005
+Butte County,27.2,2019,6007
+Calaveras County,18.3,2019,6009
+Colusa County,15.0,2019,6011
+Contra Costa County,42.4,2019,6013
+Del Norte County,14.8,2019,6015
+El Dorado County,34.3,2019,6017
+Fresno County,21.2,2019,6019
+Glenn County,14.2,2019,6021
+Humboldt County,30.4,2019,6023
+Imperial County,15.2,2019,6025
+Inyo County,27.2,2019,6027
+Kern County,16.4,2019,6029
+Kings County,14.7,2019,6031
+Lake County,15.5,2019,6033
+Lassen County,12.9,2019,6035
+Los Angeles County,32.5,2019,6037
+Madera County,14.6,2019,6039
+Marin County,59.5,2019,6041
+Mariposa County,24.6,2019,6043
+Mendocino County,24.4,2019,6045
+Merced County,13.8,2019,6047
+Modoc County,15.2,2019,6049
+Mono County,28.8,2019,6051
+Monterey County,24.7,2019,6053
+Napa County,35.7,2019,6055
+Nevada County,37.2,2019,6057
+Orange County,40.6,2019,6059
+Placer County,39.7,2019,6061
+Plumas County,23.7,2019,6063
+Riverside County,22.3,2019,6065
+Sacramento County,30.9,2019,6067
+San Benito County,19.7,2019,6069
+San Bernardino County,21.0,2019,6071
+San Diego County,38.8,2019,6073
+San Francisco County,58.1,2019,6075
+San Joaquin County,18.8,2019,6077
+San Luis Obispo County,35.4,2019,6079
+San Mateo County,51.0,2019,6081
+Santa Barbara County,34.2,2019,6083
+Santa Clara County,52.4,2019,6085
+Santa Cruz County,40.8,2019,6087
+Shasta County,22.2,2019,6089
+Sierra County,17.9,2019,6091
+Siskiyou County,23.2,2019,6093
+Solano County,26.9,2019,6095
+Sonoma County,35.5,2019,6097
+Stanislaus County,17.1,2019,6099
+Sutter County,18.2,2019,6101
+Tehama County,15.7,2019,6103
+Trinity County,19.5,2019,6105
+Tulare County,14.6,2019,6107
+Tuolumne County,20.5,2019,6109
+Ventura County,33.8,2019,6111
+Yolo County,41.4,2019,6113
+Yuba County,17.1,2019,6115
+Alameda County,46.0,2018,6001
+Alpine County,30.0,2018,6003
+Amador County,20.3,2018,6005
+Butte County,26.5,2018,6007
+Calaveras County,18.7,2018,6009
+Colusa County,15.4,2018,6011
+Contra Costa County,41.7,2018,6013
+Del Norte County,14.3,2018,6015
+El Dorado County,33.7,2018,6017
+Fresno County,20.7,2018,6019
+Glenn County,13.9,2018,6021
+Humboldt County,29.8,2018,6023
+Imperial County,14.5,2018,6025
+Inyo County,26.1,2018,6027
+Kern County,16.1,2018,6029
+Kings County,13.5,2018,6031
+Lake County,15.8,2018,6033
+Lassen County,12.0,2018,6035
+Los Angeles County,31.8,2018,6037
+Madera County,14.5,2018,6039
+Marin County,58.8,2018,6041
+Mariposa County,23.4,2018,6043
+Mendocino County,24.7,2018,6045
+Merced County,14.0,2018,6047
+Modoc County,15.9,2018,6049
+Mono County,30.6,2018,6051
+Monterey County,24.5,2018,6053
+Napa County,34.9,2018,6055
+Nevada County,36.6,2018,6057
+Orange County,39.9,2018,6059
+Placer County,38.6,2018,6061
+Plumas County,23.5,2018,6063
+Riverside County,21.8,2018,6065
+Sacramento County,30.4,2018,6067
+San Benito County,19.7,2018,6069
+San Bernardino County,20.3,2018,6071
+San Diego County,38.1,2018,6073
+San Francisco County,57.1,2018,6075
+San Joaquin County,18.4,2018,6077
+San Luis Obispo County,34.6,2018,6079
+San Mateo County,49.9,2018,6081
+Santa Barbara County,33.8,2018,6083
+Santa Clara County,51.3,2018,6085
+Santa Cruz County,40.0,2018,6087
+Shasta County,22.2,2018,6089
+Sierra County,18.7,2018,6091
+Siskiyou County,22.5,2018,6093
+Solano County,26.2,2018,6095
+Sonoma County,34.9,2018,6097
+Stanislaus County,16.9,2018,6099
+Sutter County,17.7,2018,6101
+Tehama County,15.5,2018,6103
+Trinity County,19.7,2018,6105
+Tulare County,14.3,2018,6107
+Tuolumne County,20.0,2018,6109
+Ventura County,33.1,2018,6111
+Yolo County,41.6,2018,6113
+Yuba County,16.7,2018,6115
+Alameda County,44.7,2017,6001
+Alpine County,25.6,2017,6003
+Amador County,22.1,2017,6005
+Butte County,26.6,2017,6007
+Calaveras County,19.3,2017,6009
+Colusa County,15.7,2017,6011
+Contra Costa County,40.7,2017,6013
+Del Norte County,14.4,2017,6015
+El Dorado County,33.3,2017,6017
+Fresno County,20.1,2017,6019
+Glenn County,13.0,2017,6021
+Humboldt County,29.4,2017,6023
+Imperial County,14.3,2017,6025
+Inyo County,25.3,2017,6027
+Kern County,15.8,2017,6029
+Kings County,13.0,2017,6031
+Lake County,15.3,2017,6033
+Lassen County,12.4,2017,6035
+Los Angeles County,31.2,2017,6037
+Madera County,13.8,2017,6039
+Marin County,57.5,2017,6041
+Mariposa County,24.4,2017,6043
+Mendocino County,24.8,2017,6045
+Merced County,13.8,2017,6047
+Modoc County,16.6,2017,6049
+Mono County,31.5,2017,6051
+Monterey County,23.9,2017,6053
+Napa County,34.6,2017,6055
+Nevada County,35.8,2017,6057
+Orange County,39.1,2017,6059
+Placer County,37.5,2017,6061
+Plumas County,22.6,2017,6063
+Riverside County,21.5,2017,6065
+Sacramento County,29.9,2017,6067
+San Benito County,19.2,2017,6069
+San Bernardino County,19.8,2017,6071
+San Diego County,37.4,2017,6073
+San Francisco County,55.8,2017,6075
+San Joaquin County,18.1,2017,6077
+San Luis Obispo County,34.0,2017,6079
+San Mateo County,48.5,2017,6081
+Santa Barbara County,33.3,2017,6083
+Santa Clara County,50.0,2017,6085
+Santa Cruz County,39.8,2017,6087
+Shasta County,21.4,2017,6089
+Sierra County,21.4,2017,6091
+Siskiyou County,22.7,2017,6093
+Solano County,25.6,2017,6095
+Sonoma County,33.8,2017,6097
+Stanislaus County,16.7,2017,6099
+Sutter County,17.5,2017,6101
+Tehama County,14.4,2017,6103
+Trinity County,19.5,2017,6105
+Tulare County,13.8,2017,6107
+Tuolumne County,20.6,2017,6109
+Ventura County,32.6,2017,6111
+Yolo County,40.6,2017,6113
+Yuba County,16.4,2017,6115
+Alameda County,43.9,2016,6001
+Alpine County,29.7,2016,6003
+Amador County,21.5,2016,6005
+Butte County,26.1,2016,6007
+Calaveras County,20.2,2016,6009
+Colusa County,14.4,2016,6011
+Contra Costa County,40.3,2016,6013
+Del Norte County,14.9,2016,6015
+El Dorado County,33.0,2016,6017
+Fresno County,19.7,2016,6019
+Glenn County,12.7,2016,6021
+Humboldt County,28.2,2016,6023
+Imperial County,14.0,2016,6025
+Inyo County,24.5,2016,6027
+Kern County,15.7,2016,6029
+Kings County,12.8,2016,6031
+Lake County,16.2,2016,6033
+Lassen County,12.5,2016,6035
+Los Angeles County,30.8,2016,6037
+Madera County,13.1,2016,6039
+Marin County,57.1,2016,6041
+Mariposa County,22.6,2016,6043
+Mendocino County,24.1,2016,6045
+Merced County,13.7,2016,6047
+Modoc County,18.3,2016,6049
+Mono County,30.6,2016,6051
+Monterey County,23.6,2016,6053
+Napa County,33.0,2016,6055
+Nevada County,34.4,2016,6057
+Orange County,38.4,2016,6059
+Placer County,36.9,2016,6061
+Plumas County,21.9,2016,6063
+Riverside County,21.2,2016,6065
+Sacramento County,29.3,2016,6067
+San Benito County,19.0,2016,6069
+San Bernardino County,19.3,2016,6071
+San Diego County,36.5,2016,6073
+San Francisco County,54.8,2016,6075
+San Joaquin County,18.2,2016,6077
+San Luis Obispo County,34.1,2016,6079
+San Mateo County,47.1,2016,6081
+Santa Barbara County,32.2,2016,6083
+Santa Clara County,49.1,2016,6085
+Santa Cruz County,39.0,2016,6087
+Shasta County,20.1,2016,6089
+Sierra County,19.8,2016,6091
+Siskiyou County,22.2,2016,6093
+Solano County,25.1,2016,6095
+Sonoma County,33.1,2016,6097
+Stanislaus County,16.5,2016,6099
+Sutter County,17.9,2016,6101
+Tehama County,13.8,2016,6103
+Trinity County,20.1,2016,6105
+Tulare County,14.0,2016,6107
+Tuolumne County,19.7,2016,6109
+Ventura County,32.2,2016,6111
+Yolo County,40.0,2016,6113
+Yuba County,15.5,2016,6115
+Alameda County,43.0,2015,6001
+Alpine County,27.5,2015,6003
+Amador County,21.3,2015,6005
+Butte County,25.9,2015,6007
+Calaveras County,20.9,2015,6009
+Colusa County,14.6,2015,6011
+Contra Costa County,39.6,2015,6013
+Del Norte County,15.1,2015,6015
+El Dorado County,32.1,2015,6017
+Fresno County,19.4,2015,6019
+Glenn County,14.9,2015,6021
+Humboldt County,28.0,2015,6023
+Imperial County,14.1,2015,6025
+Inyo County,23.9,2015,6027
+Kern County,15.4,2015,6029
+Kings County,13.4,2015,6031
+Lake County,16.0,2015,6033
+Lassen County,12.3,2015,6035
+Los Angeles County,30.3,2015,6037
+Madera County,13.3,2015,6039
+Marin County,55.8,2015,6041
+Mariposa County,22.1,2015,6043
+Mendocino County,23.7,2015,6045
+Merced County,13.1,2015,6047
+Modoc County,18.0,2015,6049
+Mono County,32.3,2015,6051
+Monterey County,23.1,2015,6053
+Napa County,32.4,2015,6055
+Nevada County,33.7,2015,6057
+Orange County,37.7,2015,6059
+Placer County,36.4,2015,6061
+Plumas County,22.0,2015,6063
+Riverside County,20.9,2015,6065
+Sacramento County,28.8,2015,6067
+San Benito County,19.0,2015,6069
+San Bernardino County,19.0,2015,6071
+San Diego County,35.7,2015,6073
+San Francisco County,53.8,2015,6075
+San Joaquin County,18.4,2015,6077
+San Luis Obispo County,33.0,2015,6079
+San Mateo County,45.6,2015,6081
+Santa Barbara County,32.2,2015,6083
+Santa Clara County,47.9,2015,6085
+Santa Cruz County,38.2,2015,6087
+Shasta County,19.6,2015,6089
+Sierra County,18.9,2015,6091
+Siskiyou County,22.7,2015,6093
+Solano County,24.9,2015,6095
+Sonoma County,32.9,2015,6097
+Stanislaus County,16.5,2015,6099
+Sutter County,17.6,2015,6101
+Tehama County,14.4,2015,6103
+Trinity County,20.0,2015,6105
+Tulare County,13.8,2015,6107
+Tuolumne County,20.4,2015,6109
+Ventura County,31.7,2015,6111
+Yolo County,39.0,2015,6113
+Yuba County,14.3,2015,6115
+Alameda County,42.1,2014,6001
+Alpine County,30.5,2014,6003
+Amador County,20.5,2014,6005
+Butte County,25.0,2014,6007
+Calaveras County,21.1,2014,6009
+Colusa County,14.3,2014,6011
+Contra Costa County,39.4,2014,6013
+Del Norte County,16.0,2014,6015
+El Dorado County,32.1,2014,6017
+Fresno County,19.5,2014,6019
+Glenn County,15.7,2014,6021
+Humboldt County,27.5,2014,6023
+Imperial County,13.4,2014,6025
+Inyo County,21.4,2014,6027
+Kern County,15.2,2014,6029
+Kings County,12.5,2014,6031
+Lake County,16.2,2014,6033
+Lassen County,12.9,2014,6035
+Los Angeles County,29.9,2014,6037
+Madera County,13.5,2014,6039
+Marin County,54.8,2014,6041
+Mariposa County,22.4,2014,6043
+Mendocino County,22.5,2014,6045
+Merced County,13.0,2014,6047
+Modoc County,18.5,2014,6049
+Mono County,33.3,2014,6051
+Monterey County,23.1,2014,6053
+Napa County,31.9,2014,6055
+Nevada County,32.8,2014,6057
+Orange County,37.3,2014,6059
+Placer County,35.7,2014,6061
+Plumas County,22.7,2014,6063
+Riverside County,20.8,2014,6065
+Sacramento County,28.2,2014,6067
+San Benito County,19.0,2014,6069
+San Bernardino County,18.8,2014,6071
+San Diego County,35.1,2014,6073
+San Francisco County,52.9,2014,6075
+San Joaquin County,18.1,2014,6077
+San Luis Obispo County,32.1,2014,6079
+San Mateo County,45.0,2014,6081
+Santa Barbara County,31.4,2014,6083
+Santa Clara County,47.3,2014,6085
+Santa Cruz County,37.5,2014,6087
+Shasta County,19.1,2014,6089
+Sierra County,19.0,2014,6091
+Siskiyou County,24.0,2014,6093
+Solano County,24.3,2014,6095
+Sonoma County,32.6,2014,6097
+Stanislaus County,16.4,2014,6099
+Sutter County,18.5,2014,6101
+Tehama County,14.1,2014,6103
+Trinity County,22.0,2014,6105
+Tulare County,13.3,2014,6107
+Tuolumne County,19.8,2014,6109
+Ventura County,31.6,2014,6111
+Yolo County,38.3,2014,6113
+Yuba County,14.2,2014,6115
+Alameda County,41.8,2013,6001
+Alpine County,31.2,2013,6003
+Amador County,19.3,2013,6005
+Butte County,24.4,2013,6007
+Calaveras County,21.2,2013,6009
+Colusa County,13.8,2013,6011
+Contra Costa County,39.0,2013,6013
+Del Norte County,14.0,2013,6015
+El Dorado County,32.0,2013,6017
+Fresno County,19.6,2013,6019
+Glenn County,14.6,2013,6021
+Humboldt County,27.5,2013,6023
+Imperial County,13.3,2013,6025
+Inyo County,21.4,2013,6027
+Kern County,15.0,2013,6029
+Kings County,12.9,2013,6031
+Lake County,16.2,2013,6033
+Lassen County,13.1,2013,6035
+Los Angeles County,29.7,2013,6037
+Madera County,13.6,2013,6039
+Marin County,54.6,2013,6041
+Mariposa County,21.3,2013,6043
+Mendocino County,22.0,2013,6045
+Merced County,12.6,2013,6047
+Modoc County,18.7,2013,6049
+Mono County,29.8,2013,6051
+Monterey County,23.0,2013,6053
+Napa County,31.3,2013,6055
+Nevada County,32.3,2013,6057
+Orange County,36.8,2013,6059
+Placer County,35.1,2013,6061
+Plumas County,22.6,2013,6063
+Riverside County,20.5,2013,6065
+Sacramento County,28.0,2013,6067
+San Benito County,18.2,2013,6069
+San Bernardino County,18.7,2013,6071
+San Diego County,34.6,2013,6073
+San Francisco County,52.4,2013,6075
+San Joaquin County,18.1,2013,6077
+San Luis Obispo County,31.5,2013,6079
+San Mateo County,44.4,2013,6081
+Santa Barbara County,31.3,2013,6083
+Santa Clara County,46.5,2013,6085
+Santa Cruz County,37.0,2013,6087
+Shasta County,18.8,2013,6089
+Sierra County,18.5,2013,6091
+Siskiyou County,23.9,2013,6093
+Solano County,24.3,2013,6095
+Sonoma County,32.2,2013,6097
+Stanislaus County,16.4,2013,6099
+Sutter County,18.7,2013,6101
+Tehama County,13.5,2013,6103
+Trinity County,21.3,2013,6105
+Tulare County,13.3,2013,6107
+Tuolumne County,19.5,2013,6109
+Ventura County,31.4,2013,6111
+Yolo County,37.9,2013,6113
+Yuba County,13.7,2013,6115

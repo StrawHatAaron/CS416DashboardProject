@@ -7,11 +7,99 @@
 
 I can make income and education  quartiles
 
+```Tableua
+IF [Year] = 2013 THEN
+    IF [Average Annual Pay] > 48016.75 THEN "Upper Average Pay"
+    ELSEIF [Average Annual Pay] < 48016.75 AND [Average Annual Pay] > 39998.50 THEN "Upper Middle Average Pay"
+    ELSEIF [Average Annual Pay] < 39998.50 AND [Average Annual Pay] > 36205.50 THEN "Lower Middle Average Pay"
+    ELSE "Lower Average Pay"
+    END
+
+    ELSEIF [Year] = 2014 THEN
+    IF [Average Annual Pay] > 49509.00 THEN "Upper Average Pay"
+    ELSEIF [Average Annual Pay] <  49509.00 AND [Average Annual Pay] > 41015.00 THEN "Upper Middle Average Pay"
+    ELSEIF [Average Annual Pay] <  41015.00 AND [Average Annual Pay] > 37151.25 THEN "Lower Middle Average Pay"
+    ELSE "Lower Average Pay"
+    END
+    
+    ELSEIF [Year] = 2015 THEN    
+    IF [Average Annual Pay] > 50554.75 THEN "Upper Average Pay"
+    ELSEIF [Average Annual Pay] < 50554.75 AND [Average Annual Pay] > 42594.00 THEN "Upper Middle Average Pay"
+    ELSEIF [Average Annual Pay] < 42594.00 AND [Average Annual Pay] > 38773.25  THEN "Lower Middle Average Pay"
+    ELSE "Lower Average Pay"
+    END
+
+    ELSEIF [Year] = 2016 THEN    
+    IF [Average Annual Pay] > 51813.25 THEN "Upper Average Pay"
+    ELSEIF [Average Annual Pay] < 51813.25 AND [Average Annual Pay] > 43139.00 THEN "Upper Middle Average Pay"
+    ELSEIF [Average Annual Pay] < 43139.00 AND [Average Annual Pay] > 38627.25 THEN "Lower Middle Average Pay"
+    ELSE "Lower Average Pay"
+    END
+
+    ELSEIF [Year] = 2017 THEN
+    IF [Average Annual Pay] > 53587.50 THEN "Upper Average Pay"
+    ELSEIF [Average Annual Pay] < 53587.50 AND [Average Annual Pay] > 44302.50 THEN "Upper Middle Average Pay"
+    ELSEIF [Average Annual Pay] < 44302.50 AND [Average Annual Pay] > 40662.50 THEN "Lower Middle Average Pay"
+    ELSE "Lower Average Pay"
+    END
+
+    ELSEIF [Year] = 2018 THEN
+    IF [Average Annual Pay] > 55089.50 THEN "Upper Average Pay"
+    ELSEIF [Average Annual Pay] < 55089.50 AND [Average Annual Pay] > 45271.50 THEN "Upper Middle Average Pay"
+    ELSEIF [Average Annual Pay] < 45271.50 AND [Average Annual Pay] > 41700.00 THEN "Lower Middle Average Pay"
+    ELSE "Lower Average Pay"
+    END
+
+    ELSEIF [Year] = 2019 THEN
+    IF [Average Annual Pay] > 57630.75 THEN "Upper Average Pay"
+    ELSEIF [Average Annual Pay] < 57630.75 AND [Average Annual Pay] > 46815.00 THEN "Upper Middle Average Pay"
+    ELSEIF [Average Annual Pay] < 46815.00 AND [Average Annual Pay] > 43121.50 THEN "Lower Middle Average Pay"
+    ELSE "Lower Average Pay"
+    END
+
+    ELSEIF [Year] = 2020 THEN
+    IF [Average Annual Pay] > 63154.25 THEN "Upper Average Pay"
+    ELSEIF [Average Annual Pay] < 63154.25 AND [Average Annual Pay] > 51482.00 THEN "Upper Middle Average Pay"
+    ELSEIF [Average Annual Pay] < 51482.00 AND [Average Annual Pay] > 46890.25 THEN "Lower Middle Average Pay"
+    ELSE "Lower Average Pay"
+    END
+
+    ELSEIF [Year] = 2021 THEN
+    IF [Average Annual Pay] > 65554.75 THEN "Upper Average Pay"
+    ELSEIF [Average Annual Pay] < 65554.75 AND [Average Annual Pay] > 53700.50 THEN "Upper Middle Average Pay"
+    ELSEIF [Average Annual Pay] < 53700.50 AND [Average Annual Pay] > 49444.75 THEN "Lower Middle Average Pay"
+    ELSE "Lower Average Pay"
+    END
+
+    ELSEIF [Year] = 2022 THEN
+    IF [Average Annual Pay] > 66427.50 THEN "Upper Average Pay"
+    ELSEIF [Average Annual Pay] < 66427.50 AND [Average Annual Pay] > 54972.50 THEN "Upper Middle Average Pay"
+    ELSEIF [Average Annual Pay] < 54972.50 AND [Average Annual Pay] > 51566.50 THEN "Lower Middle Average Pay"
+    ELSE "Lower Average Pay"
+    END
+
+    ELSEIF [Year] = 2023 THEN
+    IF [Average Annual Pay] > 68327.75 THEN "Upper Average Pay"
+    ELSEIF [Average Annual Pay] < 68327.75 AND [Average Annual Pay] > 57587.00 THEN "Upper Middle Average Pay"
+    ELSEIF [Average Annual Pay] < 57587.00 AND [Average Annual Pay] > 53225.75 THEN "Lower Middle Average Pay"
+    ELSE "Lower Average Pay"
+    END
+
+    ELSE
+    IF [Average Annual Pay] > 57468.50 THEN "Upper Average Pay"
+    ELSEIF [Average Annual Pay] < 57468.50 AND [Average Annual Pay] > 49000.50 THEN "Upper Middle Average Pay"
+    ELSEIF [Average Annual Pay] < 49000.50 AND [Average Annual Pay] > 41676.75 THEN "Lower Middle Average Pay"
+    ELSE "Lower Average Pay"
+    END
+END
+```
+
+
 ``` Tableau
 IF [Year] = 2013 THEN
     IF [Percent of Adults with Bachelors or Higher] > 21.70 THEN "Upper Half of Bachelor/Higher Education"
     ELSE "Lower Half of Bachelor/Higher Education"
-    END
+    ENDv
 ELSEIF [Year] = 2014 THEN
     IF [Percent of Adults with Bachelors or Higher] > 22.45 THEN "Upper Half of Bachelor/Higher Education"
     ELSE "Lower Half of Bachelor/Higher Education"

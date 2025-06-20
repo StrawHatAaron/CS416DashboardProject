@@ -44,26 +44,6 @@ merged_df.rename(columns={
     'area_fips': 'Area FIPs',
 }, inplace=True)
 
-#Create quartiles for the Average Annual Wage by year
-merged_df['Bachelor DegOrHigher Quartiles by each Year'] = merged_df.groupby('Year')['Percent of Adults with Bachelors or Higher'].transform(
-    lambda x: pd.qcut(
-        x, 4, labels=[
-            'Lower Bachelors or Higher Education',
-            'Lower Middle Bachelors or Higher Education',
-            'Upper Middle Bachelors or Higher Education',
-            'High Bachelors or Higher Education'
-        ]
-    )
-)
-
-# Sort for some manual validation with my eyes
-final_df = merged_df.sort_values(by=['Year', 'Bachelor DegOrHigher Quartiles by each Year']).reset_index(drop=True)
-
-# Validation: Print the average of each County's Percent of Adults with Bachelors or Higher for each year 
-average_bachelors_by_year = final_df.groupby(['County'])['Percent of Adults with Bachelors or Higher'].mean()
-# print("Average percent of adults with Bachelors or Higher by year and county:")
-# print(average_bachelors_by_year)
-average_bachelors_by_year.to_csv("Validation_Averages/Average_Bachelors_or_Higher_by_Year_and_County.csv")
 
 # Save the merged DataFrame to a new CSV file
-final_df.to_csv("Wrangled_FRED_California_County_Education.csv", index=False)
+merged_df.to_csv("Wrangled_FRED_California_County_Education.csv", index=False)

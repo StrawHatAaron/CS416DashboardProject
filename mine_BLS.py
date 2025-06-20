@@ -61,28 +61,18 @@ county_names_df['area_fips'] = county_names_df['area_fips'].apply(lambda x: f'0{
 # Merge the county names DataFrame with the filtered California counties DataFrame
 final_california_county_filtered_df = pd.merge(county_names_df, california_county_filtered_df, on='area_fips')
 
-# Create quartiles for the Average Annual Wage by each Year
-final_california_county_filtered_df['Annual_Wage_Quartiles_by_each_Year'] = final_california_county_filtered_df.groupby('year')['avg_annual_pay'].transform(
-    lambda x: pd.qcut(
-        x, 4, labels=[
-            'Low Average Annual Wage',
-            'Lower Middle Average Annual Wage',
-            'Upper Middle Average Annual Wage',
-            'High Average Annual Wage'
-        ]
-    )
-)
+
  
 # Rename some columns for clarity
 final_california_county_filtered_df.rename(columns={
     'area_fips': 'Area FIPs',
     'County': 'County',
-    'own_code': 'Ownership Code',
-    'industry_code': 'Industry Code',
-    'agglvl_code': 'Agglomeration Level Code',
-    'size_code': 'Size Code',
+    # 'own_code': 'Ownership Code',
+    # 'industry_code': 'Industry Code',
+    # 'agglvl_code': 'Aggregation Level Code',
+    # 'size_code': 'Size Code',
     'year': 'Year',
-    'annual_avg_emplvl': 'Annual Average Employment Level',
+    'annual_avg_emplvl': 'Annual Average Number of Workers Employed',
     'total_annual_wages': 'Total Annual Wages',
     'taxable_annual_wages': 'Taxable Annual Wages',
     'annual_contributions': 'Annual Contributions',
@@ -92,7 +82,7 @@ final_california_county_filtered_df.rename(columns={
     'oty_total_annual_wages_pct_chg': 'Over-the-Year Total Annual Wages Percent Change',
     'oty_taxable_annual_wages_chg': 'Over-the-Year Taxable Annual Wages Change',
     'oty_taxable_annual_wages_pct_chg': 'Over-the-Year Taxable Annual Wages Percent Change',
-    'Annual_Wage_Quartiles_by_each_Year': 'Average Annual Wage Quartiles by each Year'
+    # 'Annual_Wage_Quartiles_by_each_Year': 'Average Annual Wage Quartiles by each Year'
 }, inplace=True)
 
 # Print the average of avg_annual_pay for each year by county

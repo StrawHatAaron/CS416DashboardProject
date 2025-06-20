@@ -32,28 +32,13 @@ df['County'] = df['County'].str.replace(r', CA$', '', regex=True)
 # # Add a new column for area_fips to represent the FIPS code
 df['Area FIPs'] = df['ID Geography'].str.replace('05000US', '', regex=False)
 
+# drop the 'ID Geography' column as it is no longer needed
+df.drop(columns=['ID Geography'], inplace=True)
+
 # Check that there are 58 unique area_fips codes
 if df['Area FIPs'].nunique() != 58:
     print(f"Warning: Expected 58 unique area_fips codes, found {df['Area FIPs'].nunique()}.")
 
-# Create quartiles for the Median Household Income by each Year
-df['Median Household Income Quartiles by each Year'] = df.groupby('Year')['Median Household Income'].transform(
-    lambda x: pd.qcut(
-        x, 4, labels=[
-            'Low Median Household Income',
-            'Lower Middle Median Household Income',
-            'Upper Middle Median Household Income',
-            'High Median Household Income'
-        ]
-    )
-)
-
-# Print the average of average_household_income by year and county
-average_household_income_by_year = df.groupby(['County'])['Median Household Income'].mean()
-# print("Average Household Income by year and county:")
-# print(average_household_income_by_year)
-# Save the average household income by year and county to a CSV file for validation
-average_household_income_by_year.to_csv("Validation_Averages/Average_Household_Income_by_Year_and_County.csv", index=False)
 
 # # Save the filtered DataFrame to a new CSV file
 df.to_csv("Wrangled_DataUSA_California_County_Housing.csv", index=False)
