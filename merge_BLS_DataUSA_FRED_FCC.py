@@ -5,9 +5,9 @@ import pandas as pd
 import os
 
 #run the mining scripts to wrangle the data from BLS, DataUSA, FRED and FCC
-os.system('python mine_BLS.py')
-os.system('python mine_DataUSA.py')
-os.system('python mine_FRED.py')
+# os.system('python mine_BLS.py')
+# os.system('python mine_DataUSA.py')
+# os.system('python mine_FRED.py')
 
 #load in the wrangled data from the three sources
 # BLS, DataUSA, and FRED
@@ -41,37 +41,56 @@ df['Year'] = df['Year'].astype(str)
 df = pd.concat([df, mean_values_df], ignore_index=True)
 
 # Create quartiles for the Average Annual Pay by each Year
-df['Annual Wage Quartiles by each Year'] = df.groupby('Year')['Average Annual Pay'].transform(
+df['Annual Wage Group'] = df.groupby('Year')['Average Annual Pay'].transform(
     lambda x: pd.qcut(
-        x, 4, labels=[
-            'Low Average Annual Pay',
-            'Lower Middle Average Annual Pay',
-            'Upper Middle Average Annual Pay',
-            'High Average Annual Pay'
+        x, 3, labels=[
+            'Low',
+            'Middle',
+            'High'
         ]
     )
 )
 
 #Create quartiles for the Percent of Adults with Bachelors or Higher
-df['Quartiles by each Year for Bachelor Degree or Higher'] = df.groupby('Year')['Percent of Adults with Bachelors or Higher'].transform(
+df['Bachelor Degree or Higher Group'] = df.groupby('Year')['Percent of Adults with Bachelors or Higher'].transform(
     lambda x: pd.qcut(
-        x, 4, labels=[
-            'Lower Bachelors or Higher Education',
-            'Lower Middle Bachelors or Higher Education',
-            'Upper Middle Bachelors or Higher Education',
-            'High Bachelors or Higher Education'
+        x, 3, labels=[
+            'Lower',
+            'Middle',
+            'High'
         ]
     )
 )
 
 # Create quartiles for the Median Household Income by each Year
-df['Quartiles by each Year for Median Household Income'] = df.groupby('Year')['Median Household Income'].transform(
+df['Median Household Income Group'] = df.groupby('Year')['Median Household Income'].transform(
     lambda x: pd.qcut(
-        x, 4, labels=[
-            'Low Median Household Income',
-            'Lower Middle Median Household Income',
-            'Upper Middle Median Household Income',
-            'High Median Household Income'
+        x, 3, labels=[
+            'Low',
+            'Middle',
+            'High'
+        ]
+    )
+)
+
+# Create quartiles for the "Over-the-Year Average Annual Pay Change" by each Year
+df['OTY Average Annual Pay Change Group'] = df.groupby('Year')['Over-the-Year Average Annual Pay Change'].transform(
+    lambda x: pd.qcut(
+        x, 3, labels=[
+            'Low',
+            'Middle',
+            'High'
+        ]
+    )
+)
+
+# Create quartiles for the "Annual Average Number of Workers Employed" by each Year
+df['Annual Average Number of Workers Group'] = df.groupby('Year')['Annual Average Number of Workers Employed'].transform(
+    lambda x: pd.qcut(
+        x, 3, labels=[
+            'Low',
+            'Middle',
+            'High'
         ]
     )
 )
