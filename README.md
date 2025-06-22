@@ -1,4 +1,4 @@
-# Median and Average Earnings grow with more Education
+# Past Decade California Counties Education and Earnings
 
 ## Aaron Miller -  CS 416 Data Visualization - Dashboard Project - Summer 2025 - Professor John C. Hart
 
@@ -102,7 +102,7 @@ Federal Communication Commission: <https://transition.fcc.gov/oet/info/maps/cens
 
 Note to self in with weird windows magic.. SSH is managed by following directories in each respecitve CLI.
 
-```PS1
+```TXT
 WSL - /home/aarje/.ssh 
 CMD - C:\Users\Aarje\.ssh
 PS1 - C:\Users\Aarje\.ssh

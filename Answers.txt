@@ -12,17 +12,30 @@ Past Decade California Counties Education and Earnings
 
 ​
 Caption
-This dashboard was created from data in the CSV file "Merged_California_County_Data_BLS_DataUSA_FRED_FCC.csv". The CSV data is derived from Bureau of Labor Statistics, Data USA, Federal Reserve Economic Data, and Federal Communications Commission.
+This dashboard was created from data in the CSV file "Merged_California_County_Data_BLS_DataUSA_FRED_FCC.csv". The CSV file's data is derived from Bureau of Labor Statistics, Data USA, Federal Reserve Economic Data, and Federal Communications Commission data. The CSV can be found at:
+
+https://uillinoisedu-my.sharepoint.com/:f:/g/personal/aaronm6_illinois_edu/Emma1qabqAtFjd5gYdmP9X0BQosa0IURqC2ZxBfDsY8ZjA?e=y0vRza
+or 
+https://uillinoisedu-my.sharepoint.com/personal/aaronm6_illinois_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Faaronm6%5Fillinois%5Fedu%2FDocuments%2FSchool%2Fcs416%2Dsu25%2Fdashboard%20project&ga=1
+or 
+https://github.com/StrawHatAaron/CS416DashboardProject/blob/main/Merged_California_County_Data_BLS_DataUSA_FRED_FCC.csv
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Question 3
 
 What is one question that the dashboard can answer by utilizing two or more simultaneously displayed charts?
+Do counties in California with a larger Percentage of Adults with Bachelors Degree or Higher geographically cluster together and create pockets of counties with higher than average fiscal earnings compared with the rest of the state?
+
 
 What is the answer?
+Yes we can see this trend over the decade of 2013 to 2023.
+
 
 How do these two charts indicate the answer?
+
+
+
 
 Please carefully and completely answer all three questions, and especially how the combination of both charts 
 provides the answer to the observer's question. Make sure the question that the two charts answer requires both charts, 
