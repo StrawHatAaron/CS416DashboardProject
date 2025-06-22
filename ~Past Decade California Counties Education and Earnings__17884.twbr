@@ -463,8 +463,11 @@
         </groupfilter>
       </group>
       <extract _.fcp.VConnDownstreamExtractsWithWarnings.true...user-specific='false' count='-1' enabled='true' object-id='' units='records'>
-        <connection access_mode='readonly' authentication='auth-none' author-locale='en_US' class='hyper' dbname='Data/TableauTemp/#TableauTemp_1gw3ybo0h6oq1v19rdskz0141t5j.hyper' default-settings='yes' schema='Extract' sslmode='' update-time='' username=''>
+        <connection access_mode='readonly' authentication='auth-none' author-locale='en_US' class='hyper' dbname='Data/TableauTemp/#TableauTemp_1gw3ybo0h6oq1v19rdskz0141t5j.hyper' default-settings='yes' schema='Extract' sslmode='' update-time='06/22/2025 06:20:58 AM' username=''>
           <relation name='Extract' table='[Extract].[Extract]' type='table' />
+          <refresh>
+            <refresh-event add-from-file-path='Merged_California_County_Data_BLS_DataUSA_FRED_FCC' increment-value='%null%' refresh-type='create' rows-inserted='696' timestamp-start='2025-06-22 06:20:58.287' />
+          </refresh>
           <metadata-records>
             <metadata-record class='column'>
               <remote-name>Area FIPs</remote-name>
@@ -478,6 +481,7 @@
               <aggregation>Sum</aggregation>
               <approx-count>58</approx-count>
               <contains-null>true</contains-null>
+              <object-id>[Merged_California_County_Data_BLS_DataUSA_FRED_FCC.csv_41020B39914543E794343A3D264A409C]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>County</remote-name>
@@ -492,6 +496,7 @@
               <approx-count>58</approx-count>
               <contains-null>true</contains-null>
               <collation flag='0' name='LEN_RUS' />
+              <object-id>[Merged_California_County_Data_BLS_DataUSA_FRED_FCC.csv_41020B39914543E794343A3D264A409C]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Year</remote-name>
@@ -506,6 +511,7 @@
               <approx-count>12</approx-count>
               <contains-null>true</contains-null>
               <collation flag='0' name='LEN_RUS' />
+              <object-id>[Merged_California_County_Data_BLS_DataUSA_FRED_FCC.csv_41020B39914543E794343A3D264A409C]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Annual Average Number of Workers Employed</remote-name>
@@ -519,6 +525,7 @@
               <aggregation>Sum</aggregation>
               <approx-count>693</approx-count>
               <contains-null>true</contains-null>
+              <object-id>[Merged_California_County_Data_BLS_DataUSA_FRED_FCC.csv_41020B39914543E794343A3D264A409C]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Total Annual Wages</remote-name>
@@ -532,6 +539,7 @@
               <aggregation>Sum</aggregation>
               <approx-count>696</approx-count>
               <contains-null>true</contains-null>
+              <object-id>[Merged_California_County_Data_BLS_DataUSA_FRED_FCC.csv_41020B39914543E794343A3D264A409C]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Taxable Annual Wages</remote-name>
@@ -545,6 +553,7 @@
               <aggregation>Sum</aggregation>
               <approx-count>696</approx-count>
               <contains-null>true</contains-null>
+              <object-id>[Merged_California_County_Data_BLS_DataUSA_FRED_FCC.csv_41020B39914543E794343A3D264A409C]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Annual Contributions</remote-name>
@@ -558,6 +567,7 @@
               <aggregation>Sum</aggregation>
               <approx-count>696</approx-count>
               <contains-null>true</contains-null>
+              <object-id>[Merged_California_County_Data_BLS_DataUSA_FRED_FCC.csv_41020B39914543E794343A3D264A409C]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Annual Average Weekly Wages</remote-name>
@@ -571,6 +581,7 @@
               <aggregation>Sum</aggregation>
               <approx-count>489</approx-count>
               <contains-null>true</contains-null>
+              <object-id>[Merged_California_County_Data_BLS_DataUSA_FRED_FCC.csv_41020B39914543E794343A3D264A409C]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Average Annual Pay</remote-name>
@@ -584,6 +595,7 @@
               <aggregation>Sum</aggregation>
               <approx-count>690</approx-count>
               <contains-null>true</contains-null>
+              <object-id>[Merged_California_County_Data_BLS_DataUSA_FRED_FCC.csv_41020B39914543E794343A3D264A409C]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Over-the-Year Total Annual Wages Change</remote-name>
@@ -597,6 +609,7 @@
               <aggregation>Sum</aggregation>
               <approx-count>696</approx-count>
               <contains-null>true</contains-null>
+              <object-id>[Merged_California_County_Data_BLS_DataUSA_FRED_FCC.csv_41020B39914543E794343A3D264A409C]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Over-the-Year Total Annual Wages Percent Change</remote-name>
@@ -610,6 +623,7 @@
               <aggregation>Sum</aggregation>
               <approx-count>197</approx-count>
               <contains-null>true</contains-null>
+              <object-id>[Merged_California_County_Data_BLS_DataUSA_FRED_FCC.csv_41020B39914543E794343A3D264A409C]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Over-the-Year Taxable Annual Wages Change</remote-name>
@@ -623,6 +637,7 @@
               <aggregation>Sum</aggregation>
               <approx-count>696</approx-count>
               <contains-null>true</contains-null>
+              <object-id>[Merged_California_County_Data_BLS_DataUSA_FRED_FCC.csv_41020B39914543E794343A3D264A409C]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Over-the-Year Taxable Annual Wages Percent Change</remote-name>
@@ -636,6 +651,7 @@
               <aggregation>Sum</aggregation>
               <approx-count>229</approx-count>
               <contains-null>true</contains-null>
+              <object-id>[Merged_California_County_Data_BLS_DataUSA_FRED_FCC.csv_41020B39914543E794343A3D264A409C]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Over-the-Year Average Annual Pay Change</remote-name>
@@ -649,6 +665,7 @@
               <aggregation>Sum</aggregation>
               <approx-count>655</approx-count>
               <contains-null>true</contains-null>
+              <object-id>[Merged_California_County_Data_BLS_DataUSA_FRED_FCC.csv_41020B39914543E794343A3D264A409C]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Over-the-Year Average Annual Pay Percent Change</remote-name>
@@ -662,6 +679,7 @@
               <aggregation>Sum</aggregation>
               <approx-count>195</approx-count>
               <contains-null>true</contains-null>
+              <object-id>[Merged_California_County_Data_BLS_DataUSA_FRED_FCC.csv_41020B39914543E794343A3D264A409C]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Median Household Income</remote-name>
@@ -675,6 +693,7 @@
               <aggregation>Sum</aggregation>
               <approx-count>692</approx-count>
               <contains-null>true</contains-null>
+              <object-id>[Merged_California_County_Data_BLS_DataUSA_FRED_FCC.csv_41020B39914543E794343A3D264A409C]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Median Household Income Margin of Error</remote-name>
@@ -688,6 +707,7 @@
               <aggregation>Sum</aggregation>
               <approx-count>656</approx-count>
               <contains-null>true</contains-null>
+              <object-id>[Merged_California_County_Data_BLS_DataUSA_FRED_FCC.csv_41020B39914543E794343A3D264A409C]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Percent of Adults with Bachelors or Higher</remote-name>
@@ -701,6 +721,7 @@
               <aggregation>Sum</aggregation>
               <approx-count>364</approx-count>
               <contains-null>true</contains-null>
+              <object-id>[Merged_California_County_Data_BLS_DataUSA_FRED_FCC.csv_41020B39914543E794343A3D264A409C]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Annual Wage Group</remote-name>
@@ -715,6 +736,7 @@
               <approx-count>3</approx-count>
               <contains-null>true</contains-null>
               <collation flag='0' name='LEN_RUS' />
+              <object-id>[Merged_California_County_Data_BLS_DataUSA_FRED_FCC.csv_41020B39914543E794343A3D264A409C]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Bachelor Degree or Higher Group</remote-name>
@@ -729,6 +751,7 @@
               <approx-count>3</approx-count>
               <contains-null>true</contains-null>
               <collation flag='0' name='LEN_RUS' />
+              <object-id>[Merged_California_County_Data_BLS_DataUSA_FRED_FCC.csv_41020B39914543E794343A3D264A409C]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Median Household Income Group</remote-name>
@@ -743,6 +766,7 @@
               <approx-count>3</approx-count>
               <contains-null>true</contains-null>
               <collation flag='0' name='LEN_RUS' />
+              <object-id>[Merged_California_County_Data_BLS_DataUSA_FRED_FCC.csv_41020B39914543E794343A3D264A409C]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>OTY Average Annual Pay Change Group</remote-name>
@@ -757,6 +781,7 @@
               <approx-count>3</approx-count>
               <contains-null>true</contains-null>
               <collation flag='0' name='LEN_RUS' />
+              <object-id>[Merged_California_County_Data_BLS_DataUSA_FRED_FCC.csv_41020B39914543E794343A3D264A409C]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Annual Average Number of Workers Group</remote-name>
@@ -771,6 +796,7 @@
               <approx-count>3</approx-count>
               <contains-null>true</contains-null>
               <collation flag='0' name='LEN_RUS' />
+              <object-id>[Merged_California_County_Data_BLS_DataUSA_FRED_FCC.csv_41020B39914543E794343A3D264A409C]</object-id>
             </metadata-record>
           </metadata-records>
         </connection>
@@ -807,7 +833,7 @@
             <map to='#e15759'>
               <bucket>&quot;Low&quot;</bucket>
             </map>
-            <map to='#f28e2b'>
+            <map to='#edc948'>
               <bucket>&quot;Middle&quot;</bucket>
             </map>
           </encoding>
@@ -1034,6 +1060,80 @@
       </table>
       <simple-id uuid='{F70E6A80-B913-432D-9D44-7AE3180009DA}' />
     </worksheet>
+    <worksheet name='Bachelor Degree or Higher Trends'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='Merged_California_County_Data_BLS_DataUSA_FRED_FCC' name='federated.14nq1t500st14612bhpr7145k36x' />
+          </datasources>
+          <datasource-dependencies datasource='federated.14nq1t500st14612bhpr7145k36x'>
+            <column datatype='real' default-format='C1033%' name='[Average Annual Pay]' role='measure' type='quantitative' />
+            <column datatype='string' name='[Bachelor Degree or Higher Group]' role='dimension' type='nominal' />
+            <column datatype='real' default-format='C1033%' name='[Median Household Income]' role='measure' type='quantitative' />
+            <column datatype='real' name='[Over-the-Year Average Annual Pay Percent Change]' role='measure' type='quantitative' />
+            <column datatype='string' name='[Year]' role='dimension' type='nominal' />
+            <column-instance column='[Average Annual Pay]' derivation='Avg' name='[avg:Average Annual Pay:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Median Household Income]' derivation='Avg' name='[avg:Median Household Income:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Over-the-Year Average Annual Pay Percent Change]' derivation='Avg' name='[avg:Over-the-Year Average Annual Pay Percent Change:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Bachelor Degree or Higher Group]' derivation='None' name='[none:Bachelor Degree or Higher Group:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Year]' derivation='None' name='[none:Year:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='cell'>
+            <format attr='width' field='[federated.14nq1t500st14612bhpr7145k36x].[none:Year:nk]' value='75' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane id='1' selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.14nq1t500st14612bhpr7145k36x].[none:Bachelor Degree or Higher Group:nk]' />
+            </encodings>
+            <style>
+              <style-rule element='pane'>
+                <format attr='minwidth' value='-1' />
+                <format attr='maxwidth' value='-1' />
+              </style-rule>
+            </style>
+          </pane>
+          <pane id='2' selection-relaxation-option='selection-relaxation-allow' y-axis-name='[federated.14nq1t500st14612bhpr7145k36x].[avg:Average Annual Pay:qk]'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Line' />
+            <encodings>
+              <color column='[federated.14nq1t500st14612bhpr7145k36x].[none:Bachelor Degree or Higher Group:nk]' />
+            </encodings>
+          </pane>
+          <pane id='3' selection-relaxation-option='selection-relaxation-allow' y-axis-name='[federated.14nq1t500st14612bhpr7145k36x].[avg:Median Household Income:qk]'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Line' />
+            <encodings>
+              <color column='[federated.14nq1t500st14612bhpr7145k36x].[none:Bachelor Degree or Higher Group:nk]' />
+            </encodings>
+          </pane>
+          <pane id='4' selection-relaxation-option='selection-relaxation-allow' y-axis-name='[federated.14nq1t500st14612bhpr7145k36x].[avg:Over-the-Year Average Annual Pay Percent Change:qk]'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Line' />
+            <encodings>
+              <color column='[federated.14nq1t500st14612bhpr7145k36x].[none:Bachelor Degree or Higher Group:nk]' />
+            </encodings>
+          </pane>
+        </panes>
+        <rows>([federated.14nq1t500st14612bhpr7145k36x].[avg:Average Annual Pay:qk] + ([federated.14nq1t500st14612bhpr7145k36x].[avg:Median Household Income:qk] + [federated.14nq1t500st14612bhpr7145k36x].[avg:Over-the-Year Average Annual Pay Percent Change:qk]))</rows>
+        <cols>[federated.14nq1t500st14612bhpr7145k36x].[none:Year:nk]</cols>
+      </table>
+      <simple-id uuid='{423D8CA3-9FA3-4926-8B9F-DA1BB6E5655E}' />
+    </worksheet>
     <worksheet name='CA Map'>
       <repository-location derived-from='https://haproxy-traffic-splitter/workbooks/PastDecadeCaliforniaCountiesEducationandEarnings/CAMap?rev=' id='118237414' path='/workbooks/PastDecadeCaliforniaCountiesEducationandEarnings' revision='' />
       <table>
@@ -1093,11 +1193,19 @@
         </view>
         <style>
           <style-rule element='axis'>
-            <encoding attr='space' class='0' field='[federated.14nq1t500st14612bhpr7145k36x].[Longitude (generated)]' field-type='quantitative' max='-12375313.2879193' min='-14265851.910121661' projection='EPSG:3857' range-type='fixed' scope='cols' type='space' />
-            <encoding attr='space' class='0' field='[federated.14nq1t500st14612bhpr7145k36x].[Latitude (generated)]' field-type='quantitative' max='4943764.5800626967' min='3882587.2602422368' projection='EPSG:3857' range-type='fixed' scope='rows' type='space' />
+            <encoding attr='space' class='0' field='[federated.14nq1t500st14612bhpr7145k36x].[Longitude (generated)]' field-type='quantitative' max='-11879904.287118014' min='-14534862.524041882' projection='EPSG:3857' range-type='fixed' scope='cols' type='space' />
+            <encoding attr='space' class='0' field='[federated.14nq1t500st14612bhpr7145k36x].[Latitude (generated)]' field-type='quantitative' max='5086389.5554181011' min='3776294.120714209' projection='EPSG:3857' range-type='fixed' scope='rows' type='space' />
           </style-rule>
           <style-rule element='mark'>
-            <encoding attr='color' center='28.0' field='[federated.14nq1t500st14612bhpr7145k36x].[none:Percent of Adults with Bachelors or Higher:qk]' palette='red_green_gold_diverging_10_0' type='interpolated' />
+            <encoding attr='color' center='30.0' field='[federated.14nq1t500st14612bhpr7145k36x].[none:Percent of Adults with Bachelors or Higher:qk]' reverse='true' type='custom-interpolated'>
+              <color-palette custom='true' name='' type='ordered-diverging'>
+                <color>#529985</color>
+                <color>#79a163</color>
+                <color>#dbcf47</color>
+                <color>#cd8877</color>
+                <color>#c24020</color>
+              </color-palette>
+            </encoding>
           </style-rule>
           <style-rule element='map'>
             <format attr='washout' value='0.0' />
@@ -1286,6 +1394,26 @@
       </table>
       <simple-id uuid='{7D763D1A-C6FF-48D4-87A7-193E9FDA6FB6}' />
     </worksheet>
+    <worksheet name='Sheet 7'>
+      <table>
+        <view>
+          <datasources />
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+          </pane>
+        </panes>
+        <rows />
+        <cols />
+      </table>
+      <simple-id uuid='{FA12CB57-C3B4-4042-ACA7-AAEDDF3E3D4E}' />
+    </worksheet>
     <worksheet name='Total Annual Wages'>
       <repository-location derived-from='https://haproxy-traffic-splitter/workbooks/PastDecadeCaliforniaCountiesEducationandEarnings/TotalAnnualWages?rev=' id='118237416' path='/workbooks/PastDecadeCaliforniaCountiesEducationandEarnings' revision='' />
       <table>
@@ -1467,8 +1595,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1000' minheight='1000' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='99' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98614' id='98' param='vert' type-v2='layout-flow' w='99286' x='357' y='693'>
+            <zone h='100000' id='103' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98614' id='102' param='vert' type-v2='layout-flow' w='99286' x='357' y='693'>
                 <zone h='10477' id='49' mode='checkdropdown' name='Insights' param='[federated.14nq1t500st14612bhpr7145k36x].[none:Annual Average Number of Workers Group:nk]' show-all='false' type-v2='filter' values='database' w='19875' x='57130' y='88830'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -1565,10 +1693,10 @@
           <zoom type='entire-view' />
         </viewpoint>
       </viewpoints>
-      <active id='-1' />
+      <active id='58' />
       <simple-id uuid='{225606C1-1137-4A20-9224-A8CD10F94CC3}' />
     </window>
-    <window class='worksheet' maximized='true' name='CA Map'>
+    <window class='worksheet' name='CA Map'>
       <cards>
         <edge name='left'>
           <strip size='300'>
@@ -1638,8 +1766,41 @@
             <card param='[federated.14nq1t500st14612bhpr7145k36x].[none:Median Household Income Group:nk]' type='filter' />
           </strip>
         </edge>
+        <edge name='bottom'>
+          <strip size='114'>
+            <card type='caption' />
+          </strip>
+        </edge>
       </cards>
       <simple-id uuid='{66F15FF0-AFBB-41B1-A7CA-46864A9F540D}' />
+    </window>
+    <window class='worksheet' name='Bachelor Degree or Higher Trends'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='2' param='[federated.14nq1t500st14612bhpr7145k36x].[none:Bachelor Degree or Higher Group:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{13B3E122-1B26-4B43-8C86-410E6F2FFC9F}' />
     </window>
     <window class='worksheet' name='Total Annual Wages'>
       <cards>
@@ -1713,6 +1874,29 @@
         </edge>
       </cards>
       <simple-id uuid='{01AF8049-144A-4432-8B24-19275D6E128D}' />
+    </window>
+    <window class='worksheet' maximized='true' name='Sheet 7'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='31'>
+            <card type='columns' />
+          </strip>
+          <strip size='31'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{52D1BD7C-13AF-45D3-9D76-10E08800FB55}' />
     </window>
   </windows>
   <external>

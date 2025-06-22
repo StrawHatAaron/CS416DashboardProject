@@ -1,0 +1,77 @@
+Question 1
+What is the URL for the submitted dashboard?
+
+Please make sure this URL brings up the dashboard immediately so that no additional user interaction is needed. 
+The data should be public so no user authentication should be required.
+
+URL
+https://public.tableau.com/app/profile/aaron.miller1614/viz/PastDecadeCaliforniaCountiesEducationandEarnings/Dashboard?publish=yes
+
+​Title
+Past Decade California Counties Education and Earnings
+
+​
+Caption
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Question 3
+
+What is one question that the dashboard can answer by utilizing two or more simultaneously displayed charts?
+
+What is the answer?
+
+How do these two charts indicate the answer?
+
+Please carefully and completely answer all three questions, and especially how the combination of both charts 
+provides the answer to the observer's question. Make sure the question that the two charts answer requires both charts, 
+and is a reasonable question that hasn't been ridiculously contrived for this assignment.
+
+﻿
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Question 4
+
+How does the layout of these charts promote visual understanding of the data across multiple charts? Make sure your explanation describes color consistentcy, alignment and any other ways the layout improves visual understanding.
+
+﻿
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Question 5
+
+Indicate which chart is the "first" chart. Then justify the choice of this chart type, its axes and marks based on the data variables it shows.
+
+﻿
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Question 6
+
+Indicate which chart is the "second" chart. Then justify the choice of this chart type, its axes and marks based on the data variables it shows.
+
+﻿
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Question 7 
+
+
+How does your dashboard provide details on demand?
+
+
+﻿
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Question 8
+
+How does your dashboard support cross-filtering between these two charts? The cross filtering must be bi-directional, such that a selection made in the first chart is reflected in the second chart, and a selection made in the second chart is reflected in the first chart.
+
+﻿

@@ -5,147 +5,11 @@
 
 ---------------------------------------------------------------------------------------------------------------------
 
-I can make income and education  quartiles
+## Final Table: `Merged_California_County_Data_BLS_DataUSA_FRED_FCC.csv`
 
-```Tableua
-IF [Year] = 2013 THEN
-    IF [Average Annual Pay] > 48016.75 THEN "Upper Average Pay"
-    ELSEIF [Average Annual Pay] < 48016.75 AND [Average Annual Pay] > 39998.50 THEN "Upper Middle Average Pay"
-    ELSEIF [Average Annual Pay] < 39998.50 AND [Average Annual Pay] > 36205.50 THEN "Lower Middle Average Pay"
-    ELSE "Lower Average Pay"
-    END
-
-    ELSEIF [Year] = 2014 THEN
-    IF [Average Annual Pay] > 49509.00 THEN "Upper Average Pay"
-    ELSEIF [Average Annual Pay] <  49509.00 AND [Average Annual Pay] > 41015.00 THEN "Upper Middle Average Pay"
-    ELSEIF [Average Annual Pay] <  41015.00 AND [Average Annual Pay] > 37151.25 THEN "Lower Middle Average Pay"
-    ELSE "Lower Average Pay"
-    END
-    
-    ELSEIF [Year] = 2015 THEN    
-    IF [Average Annual Pay] > 50554.75 THEN "Upper Average Pay"
-    ELSEIF [Average Annual Pay] < 50554.75 AND [Average Annual Pay] > 42594.00 THEN "Upper Middle Average Pay"
-    ELSEIF [Average Annual Pay] < 42594.00 AND [Average Annual Pay] > 38773.25  THEN "Lower Middle Average Pay"
-    ELSE "Lower Average Pay"
-    END
-
-    ELSEIF [Year] = 2016 THEN    
-    IF [Average Annual Pay] > 51813.25 THEN "Upper Average Pay"
-    ELSEIF [Average Annual Pay] < 51813.25 AND [Average Annual Pay] > 43139.00 THEN "Upper Middle Average Pay"
-    ELSEIF [Average Annual Pay] < 43139.00 AND [Average Annual Pay] > 38627.25 THEN "Lower Middle Average Pay"
-    ELSE "Lower Average Pay"
-    END
-
-    ELSEIF [Year] = 2017 THEN
-    IF [Average Annual Pay] > 53587.50 THEN "Upper Average Pay"
-    ELSEIF [Average Annual Pay] < 53587.50 AND [Average Annual Pay] > 44302.50 THEN "Upper Middle Average Pay"
-    ELSEIF [Average Annual Pay] < 44302.50 AND [Average Annual Pay] > 40662.50 THEN "Lower Middle Average Pay"
-    ELSE "Lower Average Pay"
-    END
-
-    ELSEIF [Year] = 2018 THEN
-    IF [Average Annual Pay] > 55089.50 THEN "Upper Average Pay"
-    ELSEIF [Average Annual Pay] < 55089.50 AND [Average Annual Pay] > 45271.50 THEN "Upper Middle Average Pay"
-    ELSEIF [Average Annual Pay] < 45271.50 AND [Average Annual Pay] > 41700.00 THEN "Lower Middle Average Pay"
-    ELSE "Lower Average Pay"
-    END
-
-    ELSEIF [Year] = 2019 THEN
-    IF [Average Annual Pay] > 57630.75 THEN "Upper Average Pay"
-    ELSEIF [Average Annual Pay] < 57630.75 AND [Average Annual Pay] > 46815.00 THEN "Upper Middle Average Pay"
-    ELSEIF [Average Annual Pay] < 46815.00 AND [Average Annual Pay] > 43121.50 THEN "Lower Middle Average Pay"
-    ELSE "Lower Average Pay"
-    END
-
-    ELSEIF [Year] = 2020 THEN
-    IF [Average Annual Pay] > 63154.25 THEN "Upper Average Pay"
-    ELSEIF [Average Annual Pay] < 63154.25 AND [Average Annual Pay] > 51482.00 THEN "Upper Middle Average Pay"
-    ELSEIF [Average Annual Pay] < 51482.00 AND [Average Annual Pay] > 46890.25 THEN "Lower Middle Average Pay"
-    ELSE "Lower Average Pay"
-    END
-
-    ELSEIF [Year] = 2021 THEN
-    IF [Average Annual Pay] > 65554.75 THEN "Upper Average Pay"
-    ELSEIF [Average Annual Pay] < 65554.75 AND [Average Annual Pay] > 53700.50 THEN "Upper Middle Average Pay"
-    ELSEIF [Average Annual Pay] < 53700.50 AND [Average Annual Pay] > 49444.75 THEN "Lower Middle Average Pay"
-    ELSE "Lower Average Pay"
-    END
-
-    ELSEIF [Year] = 2022 THEN
-    IF [Average Annual Pay] > 66427.50 THEN "Upper Average Pay"
-    ELSEIF [Average Annual Pay] < 66427.50 AND [Average Annual Pay] > 54972.50 THEN "Upper Middle Average Pay"
-    ELSEIF [Average Annual Pay] < 54972.50 AND [Average Annual Pay] > 51566.50 THEN "Lower Middle Average Pay"
-    ELSE "Lower Average Pay"
-    END
-
-    ELSEIF [Year] = 2023 THEN
-    IF [Average Annual Pay] > 68327.75 THEN "Upper Average Pay"
-    ELSEIF [Average Annual Pay] < 68327.75 AND [Average Annual Pay] > 57587.00 THEN "Upper Middle Average Pay"
-    ELSEIF [Average Annual Pay] < 57587.00 AND [Average Annual Pay] > 53225.75 THEN "Lower Middle Average Pay"
-    ELSE "Lower Average Pay"
-    END
-
-    ELSE
-    IF [Average Annual Pay] > 57468.50 THEN "Upper Average Pay"
-    ELSEIF [Average Annual Pay] < 57468.50 AND [Average Annual Pay] > 49000.50 THEN "Upper Middle Average Pay"
-    ELSEIF [Average Annual Pay] < 49000.50 AND [Average Annual Pay] > 41676.75 THEN "Lower Middle Average Pay"
-    ELSE "Lower Average Pay"
-    END
-END
-```
+Created by `merge_BLS_DataUSA_FRED_FCC.py`. This merges Table 1, 2 and 3 from below into one table. This file's Attribute/Column names are meant to be self explanatory. Explanation for some of the fields can be seen below. All the Low, Middle and High cuts of data by each year are created here.
 
 
-``` Tableau
-IF [Year] = 2013 THEN
-    IF [Percent of Adults with Bachelors or Higher] > 21.70 THEN "Upper Half of Bachelor/Higher Education"
-    ELSE "Lower Half of Bachelor/Higher Education"
-    ENDv
-ELSEIF [Year] = 2014 THEN
-    IF [Percent of Adults with Bachelors or Higher] > 22.45 THEN "Upper Half of Bachelor/Higher Education"
-    ELSE "Lower Half of Bachelor/Higher Education"
-    END
-ELSEIF [Year] = 2015 THEN
-    IF [Percent of Adults with Bachelors or Higher] > 22.40 THEN "Upper Half of Bachelor/Higher Education"
-    ELSE "Lower Half of Bachelor/Higher Education"
-    END
-ELSEIF [Year] = 2016 THEN
-    IF [Percent of Adults with Bachelors or Higher] > 22.40 THEN "Upper Half of Bachelor/Higher Education"
-    ELSE "Lower Half of Bachelor/Higher Education"
-    END
-ELSEIF [Year] = 2017 THEN
-    IF [Percent of Adults with Bachelors or Higher] > 23.30 THEN "Upper Half of Bachelor/Higher Education"
-    ELSE "Lower Half of Bachelor/Higher Education"
-    END
-ELSEIF [Year] = 2018 THEN
-    IF [Percent of Adults with Bachelors or Higher] > 23.45 THEN "Upper Half of Bachelor/Higher Education"
-    ELSE "Lower Half of Bachelor/Higher Education"
-    END
-ELSEIF [Year] = 2019 THEN
-    IF [Percent of Adults with Bachelors or Higher] > 24.05 THEN "Upper Half of Bachelor/Higher Education"
-    ELSE "Lower Half of Bachelor/Higher Education"
-    END
-ELSEIF [Year] = 2020 THEN
-    IF [Percent of Adults with Bachelors or Higher] > 24.25 THEN "Upper Half of Bachelor/Higher Education"
-    ELSE "Lower Half of Bachelor/Higher Education"
-    END
-ELSEIF [Year] = 2021 THEN
-    IF [Percent of Adults with Bachelors or Higher] > 24.55 THEN "Upper Half of Bachelor/Higher Education"
-    ELSE "Lower Half of Bachelor/Higher Education"
-    END
-ELSEIF [Year] = 2022 THEN
-    IF [Percent of Adults with Bachelors or Higher] > 24.25 THEN "Upper Half of Bachelor/Higher Education"
-    ELSE "Lower Half of Bachelor/Higher Education"
-    END
-ELSEIF [Year] = 2023 THEN
-    IF [Percent of Adults with Bachelors or Higher] > 25.00 THEN "Upper Half of Bachelor/Higher Education"
-    ELSE "Lower Half of Bachelor/Higher Education"
-    END
-ELSE
-    IF [Percent of Adults with Bachelors or Higher] > 23.65 THEN "Upper Half of the pain in my @"
-    ELSE "What a pain"
-    END
-END
-```
 
 ---------------------------------------------------------------------------------------------------------------------
 
@@ -215,24 +79,21 @@ Attributes in Table 3 derived from these [Definitions](https://www.bls.gov/cew/a
 
 | Attribute Name| Attribute Definition |
 | :-------| :---|
-|**area_fips**| This refers to the geographic location. I have only kept California county FIPs codes 06001 to 06115. |
-|**County**| Any of the 58 Counties in California|
-|**own_code**| 0 covers ownership for all Private,International Government,Local Government,State Government,Federal Government,Total Government,Total U.I. Covered |
-|**industry_code**| total of all QCEW Ownership Codes for NAICS Coded Data |
-|**agglvl_code**| total of all QCEW Aggregation Level Codes (a) for NAICS Coded Data - 70 = County, Total Covered |
-|**size_code**| 0 represents all establishment sizes |
-|**year**| this is respective of each year we are mining the data for- capped at year 2009 due to <https://www.fhfa.gov/data/pudb> having started recording this|
-|**annual_avg_emplvl**|  Annual average of monthly employment levels for a given year. This represents the average number of workers in the county.|
-|**total_annual_wages**| Sum of the four quarterly total wage levels for a given year |
-|**taxable_annual_wages**| Sum of the four quarterly total taxable wage totals for a given year |
-|**annual_contributions**| Sum of the four quarterly contribution totals for a given year |
-|**annual_avg_wkly_wage**| Average weekly wage based on the 12-monthly employment levels and total annual wage levels. |
-|**avg_annual_pay**|  Average annual pay based on employment and wage levels for a given year. |
-|**oty_total_annual_wages_chg**|  Over-the-year change in the total annual wages for a given year |
-|**oty_total_annual_wages_pct_chg**| Over-the-year percent change in total annual wages for a given year (Rounded to the tenths place) |
-|**oty_taxable_annual_wages_chg**| Over-the-year change in taxable annual wages for a given year |
-|**oty_taxable_annual_wages_pct_chg**| Over-the-year percent change in taxable annual wages for a given year (Rounded to the tenths place)|
-|**Annual_Wage_Quartiles_by_each_Year**| For each year every County is assigned a respective quartile by on avg_annual_pay|
+|**Area FIPs**| Was area_fips. This refers to the geographic location. I have only kept California county FIPs codes 06001 to 06115. |
+|**County**| Merged with FCC data. Any of the 58 Counties in California|
+|**Year**| Was year. this is respective of each year we are mining the data for- capped at year 2009 due to <https://www.fhfa.gov/data/pudb> having started recording this|
+|**Annual Average Number of Workers Employed**| Was annual_avg_emplvl. Annual average of monthly employment levels for a given year. This represents the average number of workers in the county.|
+|**Total Annual Wages**| Was total_annual_wages. Sum of the four quarterly total wage levels for a given year |
+|**Taxable Annual Wages**| Was taxable_annual_wages. Sum of the four quarterly total taxable wage totals for a given year |
+|**Annual Contributions**| Was annual_contributions. Sum of the four quarterly contribution totals for a given year |
+|**Annual Average Weekly Wages**| Was annual_avg_wkly_wage. Average weekly wage based on the 12-monthly employment levels and total annual wage levels. |
+|**Average Annual Pay**| Was avg_annual_pay. Average annual pay based on employment and wage levels for a given year. |
+|**Over-the-Year Total Annual Wages Change**| Was oty_total_annual_wages_chg. Over-the-year change in the total annual wages for a given year |
+|**Over-the-Year Total Annual Wages Percent Change**| Was oty_total_annual_wages_pct_chg. Over-the-year percent change in total annual wages for a given year (Rounded to the tenths place) |
+|**Over-the-Year Taxable Annual Wages Change**| Was oty_taxable_annual_wages_chg. Over-the-year change in taxable annual wages for a given year |
+|**Over-the-Year Taxable Annual Wages Percent Change**| Was oty_taxable_annual_wages_pct_chg. Over-the-year percent change in taxable annual wages for a given year (Rounded to the tenths place)|
+|**Over-the-Year Average Annual Pay Change**| Was oty_avg_annual_pay_chg. Over-the-year change in taxable annual wages for a given year |
+|**Over-the-Year Average Annual Pay Percent Change**| Was oty_avg_annual_pay_pct_chg. Over-the-year percent change in taxable annual wages for a given year (Rounded to the tenths place)|
 
 ---------------------------------------------------------------------------------------------------------------------
 
