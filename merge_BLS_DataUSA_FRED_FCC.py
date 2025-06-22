@@ -5,9 +5,9 @@ import pandas as pd
 import os
 
 #run the mining scripts to wrangle the data from BLS, DataUSA, FRED and FCC
-# os.system('python mine_BLS.py')
-# os.system('python mine_DataUSA.py')
-# os.system('python mine_FRED.py')
+os.system('python mine_BLS.py')
+os.system('python mine_DataUSA.py')
+os.system('python mine_FRED.py')
 
 #load in the wrangled data from the three sources
 # BLS, DataUSA, and FRED
@@ -22,10 +22,10 @@ df = pd.merge(df_BLS, df_DataUSA, on=['County', 'Year', 'Area FIPs'], how='outer
 df = pd.merge(df, df_FRED, on=['County', 'Year', 'Area FIPs'], how='outer', suffixes=('', '_FRED'))
 
 
-# Add new row named 'All Years' for column 'Year' that takes the average values of 
+# Add new row named 'All Years Average Avg' for column 'Year' that takes the average values of 
 mean_values_df = df.groupby('County').mean(numeric_only=True)
-mean_values_df['Year'] = 'All Years'
-
+mean_values_df['Year'] = 'All Years Average'
+ 
 # Add state and county names to the DataFrame
 county_names_df = pd.read_csv('FCC\\ca_fips_county_names.csv')
 
@@ -55,7 +55,7 @@ df['Annual Wage Group'] = df.groupby('Year')['Average Annual Pay'].transform(
 df['Bachelor Degree or Higher Group'] = df.groupby('Year')['Percent of Adults with Bachelors or Higher'].transform(
     lambda x: pd.qcut(
         x, 3, labels=[
-            'Lower',
+            'Low',
             'Middle',
             'High'
         ]

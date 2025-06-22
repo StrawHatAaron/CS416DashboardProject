@@ -246,13 +246,21 @@ Federal Communication Commission: <https://transition.fcc.gov/oet/info/maps/cens
 
 [10] Providing a proper URL to the dashboard, and the dashboard appears at that URL without any further user intervention.
 
+```TXT
+https://public.tableau.com/app/profile/aaron.miller1614/viz/PastDecadeCaliforniaCountiesEducationandEarnings/Dashboard?publish=yes
+```
+
 [30] What is one question that the dashboard can answer by utilizing two or more simultaneously displayed charts? What is the answer? How do these two charts indicate the answer? (Spend some time to make sure you have picked a question whose answer is not simply given by just one of the charts, and the combination of the two charts gives a complete answer.)
 
 ```txt
-Does having a larger percentage of a Bachelors degree or higher education lead to larger median and average earnings for Counties in California? Yes we can see that there is a strong collelation with higher earnings for areas that have a higher percentage of the population that has a Bacherlors degree or higher.
+Do counties in California with a larger Percentage of Adults with Bachelors Degree or Higher geographically cluster together and create pockets of counties with high fiscal earnings?
 ```
 
 [10] Upload a screenshot of your dashboard answering that question by showing two or more simultaneously displayed charts.
+
+```txt
+uhuh GOTTEM
+```
 
 [20] How does the layout of these charts promote visual understanding of the data across multiple charts? Do the charts follow a consistent color scheme and are they well aligned with each other to promote better visual comparisons.
 
