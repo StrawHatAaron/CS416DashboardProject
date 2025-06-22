@@ -2,14 +2,11 @@
 
 ## Aaron Miller -  CS 416 Data Visualization - Dashboard Project - Summer 2025 - Professor John C. Hart
 
-
 ---------------------------------------------------------------------------------------------------------------------
 
 ## Final Table: `Merged_California_County_Data_BLS_DataUSA_FRED_FCC.csv`
 
 Created by `merge_BLS_DataUSA_FRED_FCC.py`. This merges Table 1, 2 and 3 from below into one table. This file's Attribute/Column names are meant to be self explanatory. Explanation for some of the fields can be seen below. All the Low, Middle and High cuts of data by each year are created here.
-
-
 
 ---------------------------------------------------------------------------------------------------------------------
 
@@ -101,45 +98,12 @@ Attributes in Table 3 derived from these [Definitions](https://www.bls.gov/cew/a
 
 Federal Communication Commission: <https://transition.fcc.gov/oet/info/maps/census/fips/fips.txt>
 
---------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------
 
-## Dashboard Evaluation and Questions
+Note to self in with weird windows magic.. SSH is managed by following directories in each respecitve CLI.
 
-[10] Providing a proper URL to the dashboard, and the dashboard appears at that URL without any further user intervention.
-
-```TXT
-https://public.tableau.com/app/profile/aaron.miller1614/viz/PastDecadeCaliforniaCountiesEducationandEarnings/Dashboard?publish=yes
-```
-
-[30] What is one question that the dashboard can answer by utilizing two or more simultaneously displayed charts? What is the answer? How do these two charts indicate the answer? (Spend some time to make sure you have picked a question whose answer is not simply given by just one of the charts, and the combination of the two charts gives a complete answer.)
-
-```txt
-Do counties in California with a larger Percentage of Adults with Bachelors Degree or Higher geographically cluster together and create pockets of counties with high fiscal earnings?
-```
-
-[10] Upload a screenshot of your dashboard answering that question by showing two or more simultaneously displayed charts.
-
-```txt
-uhuh GOTTEM
-```
-
-[20] How does the layout of these charts promote visual understanding of the data across multiple charts? Do the charts follow a consistent color scheme and are they well aligned with each other to promote better visual comparisons.
-
-[10] Indicate which chart should be graded as a "first" chart. Then justify the choice of this chart type, its axes and marks based on the data variables it shows.
-
-[10] Indicate which chart should be graded as a "second" chart. Then justify the choice of this chart type, its axes and marks based on the data variables it shows.
-
-[10] How does your dashboard provide details on demand?
-
-[10] How does your dashboard support cross-filtering between these two charts?  (Required for 4 credit hour students. Optional extra credit for 3 credit hour students.)
-
-----------------------------------------------------------------------------------------------------------------------------------------
-Note to self in , SSH is managed by
-
-```
+```PS1
 WSL - /home/aarje/.ssh 
 CMD - C:\Users\Aarje\.ssh
 PS1 - C:\Users\Aarje\.ssh
 ```
-
-uhhh

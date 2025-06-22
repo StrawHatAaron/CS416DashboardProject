@@ -12,7 +12,7 @@ Past Decade California Counties Education and Earnings
 
 ​
 Caption
-
+This dashboard was created from data in the CSV file "Merged_California_County_Data_BLS_DataUSA_FRED_FCC.csv". The CSV data is derived from Bureau of Labor Statistics, Data USA, Federal Reserve Economic Data, and Federal Communications Commission.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
