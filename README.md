@@ -102,8 +102,3 @@ Federal Communication Commission: <https://transition.fcc.gov/oet/info/maps/cens
 
 Note to self in with weird windows magic.. SSH is managed by following directories in each respecitve CLI.
 
-```TXT
-WSL - /home/aarje/.ssh 
-CMD - C:\Users\Aarje\.ssh
-PS1 - C:\Users\Aarje\.ssh
-```
